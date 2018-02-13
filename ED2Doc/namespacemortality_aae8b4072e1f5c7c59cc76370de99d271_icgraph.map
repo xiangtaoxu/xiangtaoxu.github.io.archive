@@ -1,0 +1,11 @@
+<map id="mortality::survivorship" name="mortality::survivorship">
+<area shape="rect" id="node3" href="$namespacedisturbance__utils.html#ac25d6a408136dff3bccca56269ca858f" title="disturbance_utils::\linsert_survivors" alt="" coords="215,5,343,51"/>
+<area shape="rect" id="node18" href="$namespacedisturbance__utils.html#a5e78ef6d3bd2f31c0abfaf8e86045187" title="disturbance_utils::\laccum_dist_litt" alt="" coords="215,74,343,121"/>
+<area shape="rect" id="node21" href="$namespacemortality.html#ad39b2a4fec25ad294a703474c4e5a733" title="mortality::disturbance\l_mortality" alt="" coords="205,143,352,190"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="401,74,535,121"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="603,56,747,85"/>
+<area shape="rect" id="node15" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="585,109,764,139"/>
+<area shape="rect" id="node9" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="815,83,892,112"/>
+<area shape="rect" id="node11" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="941,83,1016,112"/>
+<area shape="rect" id="node13" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1064,83,1115,112"/>
+</map>

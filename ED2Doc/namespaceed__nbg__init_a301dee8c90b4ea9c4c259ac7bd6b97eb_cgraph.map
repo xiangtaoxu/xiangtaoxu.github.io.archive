@@ -1,0 +1,15 @@
+<map id="ed_nbg_init::near_bare_ground_init" name="ed_nbg_init::near_bare_ground_init">
+<area shape="rect" id="node3" href="$namespaceed__nbg__init.html#ad7022181b12aec0f7e45270a2877dd49" title="ed_nbg_init::init_cohorts\l_by_layers" alt="" coords="208,119,371,166"/>
+<area shape="rect" id="node19" href="$namespaceed__nbg__init.html#afbe4e1b96c81d4643f2b9e97fb7d2dd8" title="ed_nbg_init::init_nbg\l_cohorts" alt="" coords="219,50,360,97"/>
+<area shape="rect" id="node24" href="$ed__type__init_8f90.html#ad4cd2d9291dc969b63d1592d0f2a3164" title="init_ed_patch_vars" alt="" coords="224,189,355,219"/>
+<area shape="rect" id="node26" href="$ed__type__init_8f90.html#a927351bf6adb1dbeb9ab1f434ef9e5b6" title="init_ed_site_vars" alt="" coords="229,243,349,272"/>
+<area shape="rect" id="node28" href="$ed__type__init_8f90.html#a67afe21be4346c13ced583c229e2bb4c" title="init_ed_poly_vars" alt="" coords="228,296,351,325"/>
+<area shape="rect" id="node5" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="453,5,571,35"/>
+<area shape="rect" id="node7" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="444,58,580,105"/>
+<area shape="rect" id="node9" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="472,181,552,211"/>
+<area shape="rect" id="node11" href="$ed__type__init_8f90.html#af7c8e0a520dfca016f7eb7cf1c08b6ca" title="init_ed_cohort_vars" alt="" coords="445,128,579,157"/>
+<area shape="rect" id="node13" href="$namespaceallometry.html#ac1523ea0e0ef8d2dd6a429f61a013c1c" title="allometry::dbh2krdepth" alt="" coords="653,101,808,131"/>
+<area shape="rect" id="node17" href="$namespaceplant__hydro.html#ae27d78c83f41d9d6fdd38ad2052b32af" title="Convert water potential of leaf and wood to relative water content " alt="" coords="660,155,801,184"/>
+<area shape="rect" id="node15" href="$namespaceallometry.html#aab2b2cee61cac31529246b043121c7de" title="allometry::dbh2vol" alt="" coords="856,101,984,131"/>
+<area shape="rect" id="node30" href="$namespacestructural__growth__module.html#a3da42ab408898e0fe6c82ca1a7c24766" title="structural_growth_module\l::compute_c_and_n_storage" alt="" coords="419,287,605,334"/>
+</map>

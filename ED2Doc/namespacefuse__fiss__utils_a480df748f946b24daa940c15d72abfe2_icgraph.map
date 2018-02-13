@@ -1,0 +1,10 @@
+<map id="fuse_fiss_utils::terminate_patches" name="fuse_fiss_utils::terminate_patches">
+<area shape="rect" id="node3" href="$ed__driver_8_f90.html#acbe29092ab1909380268a871fae36f22" title="exterminate_patches\l_except" alt="" coords="449,5,591,51"/>
+<area shape="rect" id="node9" href="$namespaceforestry.html#aea994fba45d5e5f01f0abe99d4d1493a" title="forestry::find_harvest_area" alt="" coords="223,75,399,104"/>
+<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="997,40,1072,69"/>
+<area shape="rect" id="node7" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1120,40,1171,69"/>
+<area shape="rect" id="node11" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="453,74,587,121"/>
+<area shape="rect" id="node13" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="659,65,803,95"/>
+<area shape="rect" id="node18" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="641,119,820,148"/>
+<area shape="rect" id="node15" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="871,65,948,95"/>
+</map>

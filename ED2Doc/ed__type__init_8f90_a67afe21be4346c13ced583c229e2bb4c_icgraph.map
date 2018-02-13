@@ -1,0 +1,12 @@
+<map id="init_ed_poly_vars" name="init_ed_poly_vars">
+<area shape="rect" id="node3" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="217,5,321,35"/>
+<area shape="rect" id="node11" href="$namespaceed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare\l_ground_init" alt="" coords="193,58,345,105"/>
+<area shape="rect" id="node14" href="$namespaceed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare\l_ground_big_leaf_init" alt="" coords="193,127,345,174"/>
+<area shape="rect" id="node17" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="176,197,363,227"/>
+<area shape="rect" id="node20" href="$ed__read__ed21__history_8_f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="193,251,345,280"/>
+<area shape="rect" id="node23" href="$ed__read__ed21__history_8_f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="179,304,360,333"/>
+<area shape="rect" id="node26" href="$ed__read__ed21__history_8_f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="197,357,341,387"/>
+<area shape="rect" id="node5" href="$namespaceed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="411,189,573,235"/>
+<area shape="rect" id="node7" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="621,197,696,227"/>
+<area shape="rect" id="node9" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="744,197,795,227"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="301,5,405,35"/>
+<area shape="rect" id="node9" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="260,59,447,88"/>
+<area shape="rect" id="node11" href="$namespacestructural__growth__module.html#a441f0f5e19550c214bed38602a81cc6e" title="structural_growth_module::update_derived_cohort_props" alt="" coords="179,112,528,141"/>
+<area shape="rect" id="node5" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="673,5,793,35"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="957,32,1101,61"/>
+<area shape="rect" id="node13" href="$namespacestructural__growth__module.html#aa974ce442fda8686fd4d88a42b0f150c" title="structural_growth_module::structural_growth" alt="" coords="595,59,872,88"/>
+<area shape="rect" id="node16" href="$namespacestructural__growth__module.html#a931a1572c1755fe55035e52a1f902776" title="structural_growth_module::structural_growth_eq_0" alt="" coords="576,112,891,141"/>
+<area shape="rect" id="node18" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="940,112,1119,141"/>
+</map>

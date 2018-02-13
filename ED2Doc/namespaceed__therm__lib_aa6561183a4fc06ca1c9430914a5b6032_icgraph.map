@@ -1,0 +1,15 @@
+<map id="ed_therm_lib::ed_grndvap" name="ed_therm_lib::ed_grndvap">
+<area shape="rect" id="node3" href="$ed__type__init_8f90.html#aa6a689a6e6981ff6c33afcb419db9b28" title="new_patch_sfc_props" alt="" coords="253,88,403,117"/>
+<area shape="rect" id="node32" href="$namespaceupdate__derived__props__module.html#a6633a22e580cb59ccb4bbdbad3c25a62" title="update_derived_props\l_module::read_soil_moist_temp" alt="" coords="225,157,431,203"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="669,58,803,105"/>
+<area shape="rect" id="node18" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="496,11,603,40"/>
+<area shape="rect" id="node23" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="480,127,619,174"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="872,67,1016,96"/>
+<area shape="rect" id="node15" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="855,120,1033,149"/>
+<area shape="rect" id="node9" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1084,120,1161,149"/>
+<area shape="rect" id="node11" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1211,147,1285,176"/>
+<area shape="rect" id="node13" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1333,147,1384,176"/>
+<area shape="rect" id="node20" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="676,5,796,35"/>
+<area shape="rect" id="node25" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="667,127,805,174"/>
+<area shape="rect" id="node27" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="900,173,988,203"/>
+</map>

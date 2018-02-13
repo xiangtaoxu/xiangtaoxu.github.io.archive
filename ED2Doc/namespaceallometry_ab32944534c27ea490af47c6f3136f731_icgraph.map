@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceallometry.html#acd75f5214bf91ef42fce5056deac8ff2" title="allometry::bl2h" alt="" coords="215,8,321,37"/>
+<area shape="rect" id="node11" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="497,59,601,88"/>
+<area shape="rect" id="node17" href="$namespacefuse__fiss__utils.html#aba30221565235a7c9cdeadb079d324c5" title="fuse_fiss_utils::split_cohorts" alt="" coords="175,112,361,141"/>
+<area shape="rect" id="node5" href="$namespacegrowth__balive.html#aade95a53fd0d26aabf864afab17b1889" title="growth_balive::alloc_plant_c_balance_grass" alt="" coords="411,5,688,35"/>
+<area shape="rect" id="node7" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass." alt="" coords="748,5,916,35"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="977,59,1121,88"/>
+<area shape="rect" id="node13" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="772,59,892,88"/>
+<area shape="rect" id="node19" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="447,112,652,141"/>
+<area shape="rect" id="node21" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="736,112,928,141"/>
+</map>

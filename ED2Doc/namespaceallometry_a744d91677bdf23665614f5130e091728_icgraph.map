@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare_ground_big_leaf_init" alt="" coords="207,5,481,35"/>
+<area shape="rect" id="node5" href="$namespacestructural__growth__module.html#aed4ecdb3660ea4e11c1413deea3bd88a" title="structural_growth_module::plant_structural_allocation" alt="" coords="179,59,509,88"/>
+<area shape="rect" id="node15" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module::reproduction" alt="" coords="604,112,825,141"/>
+<area shape="rect" id="node7" href="$namespacestructural__growth__module.html#aa974ce442fda8686fd4d88a42b0f150c" title="structural_growth_module::structural_growth" alt="" coords="576,59,853,88"/>
+<area shape="rect" id="node11" href="$namespacestructural__growth__module.html#a931a1572c1755fe55035e52a1f902776" title="structural_growth_module::structural_growth_eq_0" alt="" coords="557,5,872,35"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="939,85,1083,115"/>
+<area shape="rect" id="node13" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="921,5,1100,35"/>
+</map>

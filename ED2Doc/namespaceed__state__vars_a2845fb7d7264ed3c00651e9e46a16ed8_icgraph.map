@@ -1,0 +1,12 @@
+<map id="ed_state_vars::deallocate_patchtype" name="ed_state_vars::deallocate_patchtype">
+<area shape="rect" id="node3" href="$namespaceed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="224,5,395,51"/>
+<area shape="rect" id="node5" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="257,75,361,104"/>
+<area shape="rect" id="node17" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="256,128,363,157"/>
+<area shape="rect" id="node20" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="259,181,360,211"/>
+<area shape="rect" id="node23" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="272,235,347,264"/>
+<area shape="rect" id="node7" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="444,155,564,184"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="615,155,759,184"/>
+<area shape="rect" id="node11" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="809,155,887,184"/>
+<area shape="rect" id="node13" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="936,155,1011,184"/>
+<area shape="rect" id="node15" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1059,155,1109,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="canopy_radiation_coms::dealloc_radscratch" name="canopy_radiation_coms::dealloc_radscratch">
+<area shape="rect" id="node3" href="$namespacerk4__integ__utils.html#a4bfa1d47da43801294297d415bbef021" title="rk4_integ_utils::initialize\l_rk4patches" alt="" coords="215,5,375,51"/>
+<area shape="rect" id="node5" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="945,13,1023,43"/>
+<area shape="rect" id="node11" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="424,39,531,68"/>
+<area shape="rect" id="node7" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1072,13,1147,43"/>
+<area shape="rect" id="node9" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1195,13,1245,43"/>
+<area shape="rect" id="node13" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="580,39,700,68"/>
+<area shape="rect" id="node15" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="751,39,895,68"/>
+</map>

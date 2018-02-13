@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespacebudget__utils.html#a07d8e19ed53707603c43556eb24b5fea" title="budget_utils::compute_budget" alt="" coords="295,241,489,270"/>
+<area shape="rect" id="node5" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update_budget" alt="" coords="300,294,484,324"/>
+<area shape="rect" id="node7" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="795,345,1035,374"/>
+<area shape="rect" id="node11" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass." alt="" coords="831,82,999,112"/>
+<area shape="rect" id="node14" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler_timestep" alt="" coords="552,108,733,137"/>
+<area shape="rect" id="node16" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="592,54,693,84"/>
+<area shape="rect" id="node21" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="591,161,695,190"/>
+<area shape="rect" id="node24" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="589,214,696,244"/>
+<area shape="rect" id="node27" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="605,268,680,297"/>
+<area shape="rect" id="node30" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="540,532,745,561"/>
+<area shape="rect" id="node35" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="552,425,733,454"/>
+<area shape="rect" id="node37" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid_timestep" alt="" coords="545,478,740,508"/>
+<area shape="rect" id="node39" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::prune_lianas" alt="" coords="543,372,743,401"/>
+<area shape="rect" id="node42" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module::reproduction" alt="" coords="804,550,1025,580"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1084,345,1228,374"/>
+<area shape="rect" id="node18" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="855,214,975,244"/>
+<area shape="rect" id="node32" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="819,464,1011,493"/>
+</map>

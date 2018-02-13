@@ -1,0 +1,28 @@
+<map id="allometry::ed_biomass" name="allometry::ed_biomass">
+<area shape="rect" id="node3" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="447,102,551,131"/>
+<area shape="rect" id="node15" href="$namespacestructural__growth__module.html#a3151ee54c9ed9371b92d560206c56596" title="structural_growth_module\l::update_vital_rates" alt="" coords="413,707,584,753"/>
+<area shape="rect" id="node25" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="208,397,365,461"/>
+<area shape="rect" id="node5" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="657,361,777,390"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="871,523,1015,553"/>
+<area shape="rect" id="node9" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1148,581,1225,610"/>
+<area shape="rect" id="node11" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1339,293,1413,322"/>
+<area shape="rect" id="node13" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1461,293,1512,322"/>
+<area shape="rect" id="node17" href="$namespacestructural__growth__module.html#aa974ce442fda8686fd4d88a42b0f150c" title="structural_growth_module\l::structural_growth" alt="" coords="632,637,803,684"/>
+<area shape="rect" id="node20" href="$namespacestructural__growth__module.html#a931a1572c1755fe55035e52a1f902776" title="structural_growth_module\l::structural_growth_eq_0" alt="" coords="632,707,803,753"/>
+<area shape="rect" id="node22" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="853,581,1032,610"/>
+<area shape="rect" id="node27" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="651,515,784,561"/>
+<area shape="rect" id="node31" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::\lprune_lianas" alt="" coords="435,587,563,633"/>
+<area shape="rect" id="node34" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="899,293,987,322"/>
+<area shape="rect" id="node37" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler\l_timestep" alt="" coords="880,649,1005,696"/>
+<area shape="rect" id="node41" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="445,307,552,337"/>
+<area shape="rect" id="node44" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="448,361,549,390"/>
+<area shape="rect" id="node47" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="461,414,536,443"/>
+<area shape="rect" id="node50" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="429,467,568,513"/>
+<area shape="rect" id="node57" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass. " alt="" coords="633,585,801,614"/>
+<area shape="rect" id="node61" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="852,750,1033,779"/>
+<area shape="rect" id="node64" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid\l_timestep" alt="" coords="873,381,1012,428"/>
+<area shape="rect" id="node67" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="647,273,788,320"/>
+<area shape="rect" id="node70" href="$namespacerk4__driver.html#abf8bd20405c7ed6a7bab3bdb18d8de87" title="rk4_driver::rk4_timestep" alt="" coords="861,865,1024,894"/>
+<area shape="rect" id="node73" href="$namespaceupdate__derived__props__module.html#a661a2afd35ef64573ff9be7d88ef2d02" title="update_derived_props\l_module::update_derived_props" alt="" coords="1084,79,1289,125"/>
+<area shape="rect" id="node52" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="648,445,787,492"/>
+</map>

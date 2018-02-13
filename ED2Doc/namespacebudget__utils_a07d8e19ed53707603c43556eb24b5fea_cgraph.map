@@ -1,0 +1,9 @@
+<map id="budget_utils::compute_budget" name="budget_utils::compute_budget">
+<area shape="rect" id="node3" href="$namespacetherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="415,158,564,187"/>
+<area shape="rect" id="node5" href="$namespacebudget__utils.html#ae7ad8d90c28490b0b1c920e7a2656345" title="budget_utils::ddens\l_dt_effect" alt="" coords="219,40,352,87"/>
+<area shape="rect" id="node7" href="$namespacebudget__utils.html#ae3ca69dd43d1f92a0a86e21fcd57c641" title="budget_utils::sum_plant\l_cfluxes" alt="" coords="205,109,365,156"/>
+<area shape="rect" id="node9" href="$namespacebudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="211,179,360,225"/>
+<area shape="rect" id="node11" href="$namespacebudget__utils.html#ad0c764047c557100b3a3cdcd836103a0" title="budget_utils::compute\l_water_storage" alt="" coords="211,248,360,295"/>
+<area shape="rect" id="node13" href="$namespacebudget__utils.html#a319c5f7252c344bcebbd162593e25ec8" title="budget_utils::compute\l_energy_storage" alt="" coords="211,317,360,364"/>
+<area shape="rect" id="node16" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="245,387,325,417"/>
+</map>

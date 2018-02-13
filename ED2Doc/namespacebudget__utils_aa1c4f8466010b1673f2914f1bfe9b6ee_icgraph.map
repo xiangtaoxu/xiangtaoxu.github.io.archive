@@ -1,0 +1,25 @@
+<map id="budget_utils::compute_co2_storage" name="budget_utils::compute_co2_storage">
+<area shape="rect" id="node3" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update\l_budget" alt="" coords="212,369,351,415"/>
+<area shape="rect" id="node64" href="$namespacebudget__utils.html#a07d8e19ed53707603c43556eb24b5fea" title="budget_utils::compute\l_budget" alt="" coords="207,438,356,485"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="617,271,751,318"/>
+<area shape="rect" id="node18" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::\lprune_lianas" alt="" coords="411,283,539,330"/>
+<area shape="rect" id="node21" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="871,109,959,139"/>
+<area shape="rect" id="node24" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler\l_timestep" alt="" coords="852,213,977,259"/>
+<area shape="rect" id="node27" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="423,561,527,591"/>
+<area shape="rect" id="node32" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="421,615,528,644"/>
+<area shape="rect" id="node35" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="424,455,525,484"/>
+<area shape="rect" id="node38" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="437,508,512,537"/>
+<area shape="rect" id="node41" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="405,163,544,210"/>
+<area shape="rect" id="node48" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass. " alt="" coords="600,341,768,371"/>
+<area shape="rect" id="node52" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="593,613,775,643"/>
+<area shape="rect" id="node55" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid\l_timestep" alt="" coords="845,641,984,687"/>
+<area shape="rect" id="node58" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="613,394,755,441"/>
+<area shape="rect" id="node61" href="$namespacerk4__driver.html#abf8bd20405c7ed6a7bab3bdb18d8de87" title="rk4_driver::rk4_timestep" alt="" coords="603,61,765,91"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="843,340,987,369"/>
+<area shape="rect" id="node15" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="825,283,1004,312"/>
+<area shape="rect" id="node9" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1055,283,1132,312"/>
+<area shape="rect" id="node11" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1181,227,1256,256"/>
+<area shape="rect" id="node13" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1304,227,1355,256"/>
+<area shape="rect" id="node29" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="624,508,744,537"/>
+<area shape="rect" id="node43" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="615,183,753,230"/>
+</map>

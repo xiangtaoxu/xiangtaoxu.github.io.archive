@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespacefuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="fuse_fiss_utils::fuse_2_cohorts" alt="" coords="208,59,411,88"/>
+<area shape="rect" id="node16" href="$ed__type__init_8f90.html#af7c8e0a520dfca016f7eb7cf1c08b6ca" title="init_ed_cohort_vars" alt="" coords="243,191,376,220"/>
+<area shape="rect" id="node5" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="fuse_fiss_utils::fuse_cohorts" alt="" coords="501,5,691,35"/>
+<area shape="rect" id="node7" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="781,59,1021,88"/>
+<area shape="rect" id="node11" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="799,5,1004,35"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1340,85,1484,115"/>
+<area shape="rect" id="node13" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="1084,7,1276,36"/>
+<area shape="rect" id="node18" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="544,216,648,245"/>
+<area shape="rect" id="node20" href="$namespaceed__nbg__init.html#ad7022181b12aec0f7e45270a2877dd49" title="ed_nbg_init::init_cohorts_by_layers" alt="" coords="483,269,709,299"/>
+<area shape="rect" id="node24" href="$namespaceed__nbg__init.html#afbe4e1b96c81d4643f2b9e97fb7d2dd8" title="ed_nbg_init::init_nbg_cohorts" alt="" coords="501,323,691,352"/>
+<area shape="rect" id="node27" href="$namespaceed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare_ground_big_leaf_init" alt="" coords="459,376,733,405"/>
+<area shape="rect" id="node29" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::plant_patch" alt="" coords="499,112,693,141"/>
+<area shape="rect" id="node37" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="503,59,689,88"/>
+<area shape="rect" id="node39" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module::reproduction" alt="" coords="1069,164,1291,193"/>
+<area shape="rect" id="node22" href="$namespaceed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare_ground_init" alt="" coords="791,296,1012,325"/>
+<area shape="rect" id="node32" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="848,112,955,141"/>
+<area shape="rect" id="node34" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="1120,111,1240,140"/>
+</map>

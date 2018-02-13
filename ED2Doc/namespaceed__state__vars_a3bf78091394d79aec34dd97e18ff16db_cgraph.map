@@ -1,0 +1,6 @@
+<map id="ed_state_vars::copy_sitetype" name="ed_state_vars::copy_sitetype">
+<area shape="rect" id="node3" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="433,5,513,35"/>
+<area shape="rect" id="node5" href="$namespaceed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="195,95,352,142"/>
+<area shape="rect" id="node9" href="$namespaceed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="204,26,343,73"/>
+<area shape="rect" id="node7" href="$namespaceed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="400,95,547,142"/>
+</map>

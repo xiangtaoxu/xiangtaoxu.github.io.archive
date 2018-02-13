@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="180,134,335,164"/>
+<area shape="rect" id="node5" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass." alt="" coords="732,9,900,38"/>
+<area shape="rect" id="node9" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="461,54,565,84"/>
+<area shape="rect" id="node14" href="$namespacephenology__aux.html#ac9c11ddf83cd16439262bc9c7c72bf2e" title="phenology_aux::first_phenology" alt="" coords="411,108,616,137"/>
+<area shape="rect" id="node16" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::prune_lianas" alt="" coords="413,161,613,190"/>
+<area shape="rect" id="node21" href="$namespacephenology__driv.html#a1b08d4597d08eba521c381a2b33147b5" title="phenology_driv::update_phenology" alt="" coords="403,214,624,244"/>
+<area shape="rect" id="node26" href="$namespacephenology__driv.html#a3345cbd923a6af990fe1037ff4fc33e4" title="phenology_driv::update_phenology_eq_0" alt="" coords="385,268,641,297"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1008,116,1152,145"/>
+<area shape="rect" id="node11" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="756,76,876,105"/>
+<area shape="rect" id="node18" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="696,154,936,184"/>
+<area shape="rect" id="node23" href="$namespacephenology__driv.html#aa94bafee9e386ab4060a515ce8187ba9" title="phenology_driv::phenology_driver" alt="" coords="709,208,923,237"/>
+<area shape="rect" id="node28" href="$namespacephenology__driv.html#ad9990edb604600188e59eb7292caa613" title="phenology_driv::phenology_driver_eq_0" alt="" coords="691,268,941,297"/>
+<area shape="rect" id="node30" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="991,268,1169,297"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="forestry::find_harvest_area" name="forestry::find_harvest_area">
+<area shape="rect" id="node3" href="$namespacefuse__fiss__utils.html#a480df748f946b24daa940c15d72abfe2" title="This subroutine will eliminate tiny or empty patches. This is intended to eliminate patches that have..." alt="" coords="232,5,400,51"/>
+<area shape="rect" id="node7" href="$namespaceforestry.html#a2b1f9db26882e22b185a2bab3946d958" title="forestry::inventory\l_mat_forests" alt="" coords="253,74,379,121"/>
+<area shape="rect" id="node9" href="$namespaceforestry.html#ab22c7a0e08a2e5a3b26f834e89b900e5" title="forestry::mat_forest\l_harv_rates" alt="" coords="248,143,384,190"/>
+<area shape="rect" id="node11" href="$namespaceforestry.html#a96e720b57b0c1a3cbbc518dbc9fe69b6" title="forestry::area_harvest\l_mature" alt="" coords="241,213,391,259"/>
+<area shape="rect" id="node13" href="$namespaceforestry.html#a27465187b6471294fc19067f73a9a398" title="forestry::area_harvest\l_immature" alt="" coords="241,282,391,329"/>
+<area shape="rect" id="node5" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="448,13,528,43"/>
+</map>

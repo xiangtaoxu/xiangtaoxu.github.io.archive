@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceed__therm__lib.html#aa6561183a4fc06ca1c9430914a5b6032" title="ed_therm_lib::ed_grndvap" alt="" coords="160,85,331,115"/>
+<area shape="rect" id="node5" href="$ed__type__init_8f90.html#aa6a689a6e6981ff6c33afcb419db9b28" title="new_patch_sfc_props" alt="" coords="471,59,620,88"/>
+<area shape="rect" id="node21" href="$namespaceupdate__derived__props__module.html#a6633a22e580cb59ccb4bbdbad3c25a62" title="update_derived_props_module::read_soil_moist_temp" alt="" coords="379,112,712,141"/>
+<area shape="rect" id="node7" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="1016,5,1256,35"/>
+<area shape="rect" id="node11" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="811,59,917,88"/>
+<area shape="rect" id="node16" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="761,112,967,141"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1305,59,1449,88"/>
+<area shape="rect" id="node13" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="1076,59,1196,88"/>
+<area shape="rect" id="node18" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="1040,112,1232,141"/>
+</map>

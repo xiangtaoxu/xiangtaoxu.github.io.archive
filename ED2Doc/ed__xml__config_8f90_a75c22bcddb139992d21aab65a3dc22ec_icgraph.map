@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ed__xml__config_8f90.html#a86b17f0ea1e5298fb9d4747819cf4f10" title="count_pft_xml_config" alt="" coords="155,5,301,35"/>
+<area shape="rect" id="node7" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="168,112,288,141"/>
+<area shape="rect" id="node11" href="$ed__xml__config_8f90.html#ad79ad890d631fd396394f93596de87ff" title="read_ed_xml_config" alt="" coords="159,59,297,88"/>
+<area shape="rect" id="node5" href="$ed__params_8f90.html#a2c0c887700d85a5be6fbd26b071c8da6" title="overwrite_with_xml_config" alt="" coords="349,32,525,61"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="365,112,509,141"/>
+</map>

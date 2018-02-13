@@ -1,0 +1,3 @@
+\form#0:\[ \frac{1}{cbr_bar} = k * \frac{cb_lightmax}{cb} + (1 - k) * \frac{cb_moistmax}{cb} \]
+\form#1:\[ \frac{1}{cbr\_bar} = k * \frac{cb\_lightmax}{cb} + (1 - k) * \frac{cb\_moistmax}{cb} \]
+\form#2:${\mu}mol/mol$

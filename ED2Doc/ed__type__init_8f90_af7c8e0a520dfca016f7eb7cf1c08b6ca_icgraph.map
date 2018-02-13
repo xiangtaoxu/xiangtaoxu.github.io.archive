@@ -1,0 +1,22 @@
+<map id="init_ed_cohort_vars" name="init_ed_cohort_vars">
+<area shape="rect" id="node3" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::\lplant_patch" alt="" coords="217,83,345,130"/>
+<area shape="rect" id="node23" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="463,297,567,327"/>
+<area shape="rect" id="node28" href="$namespaceed__nbg__init.html#afbe4e1b96c81d4643f2b9e97fb7d2dd8" title="ed_nbg_init::init_nbg\l_cohorts" alt="" coords="211,379,352,426"/>
+<area shape="rect" id="node33" href="$namespaceed__nbg__init.html#ad7022181b12aec0f7e45270a2877dd49" title="ed_nbg_init::init_cohorts\l_by_layers" alt="" coords="200,310,363,357"/>
+<area shape="rect" id="node36" href="$namespaceed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare\l_ground_big_leaf_init" alt="" coords="439,422,591,469"/>
+<area shape="rect" id="node39" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="421,493,608,523"/>
+<area shape="rect" id="node42" href="$ed__read__ed21__history_8_f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="439,548,591,577"/>
+<area shape="rect" id="node45" href="$ed__read__ed21__history_8_f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="191,153,372,183"/>
+<area shape="rect" id="node48" href="$ed__read__ed21__history_8_f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="209,207,353,236"/>
+<area shape="rect" id="node51" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="667,23,808,70"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="671,146,804,193"/>
+<area shape="rect" id="node18" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="461,92,568,121"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="885,97,1029,127"/>
+<area shape="rect" id="node15" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="868,155,1047,184"/>
+<area shape="rect" id="node9" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1097,155,1175,184"/>
+<area shape="rect" id="node11" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1224,204,1299,233"/>
+<area shape="rect" id="node13" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1347,204,1397,233"/>
+<area shape="rect" id="node20" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="677,93,797,123"/>
+<area shape="rect" id="node25" href="$namespaceed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="656,319,819,366"/>
+<area shape="rect" id="node30" href="$namespaceed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare\l_ground_init" alt="" coords="439,350,591,397"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="ed_init_atm" name="ed_init_atm">
+<area shape="rect" id="node3" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="160,406,299,453"/>
+<area shape="rect" id="node15" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update\l_budget" alt="" coords="677,881,816,927"/>
+<area shape="rect" id="node43" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="953,743,1033,772"/>
+<area shape="rect" id="node54" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="668,36,825,100"/>
+<area shape="rect" id="node63" href="$namespaceed__therm__lib.html#a8f0d34fdb7abadb1cf09fd1a74e9e66b" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="165,830,293,877"/>
+<area shape="rect" id="node67" href="$namespacetherm__lib.html#a2523d158beee975faaed4552724aae65" title="therm_lib::thetaeiv" alt="" coords="165,973,293,1003"/>
+<area shape="rect" id="node80" href="$namespacecanopy__struct__dynamics.html#ac7eef4d24c3e07ccb461d418e32d466e" title="canopy_struct_dynamics\l::canopy_turbulence" alt="" coords="147,1186,312,1233"/>
+<area shape="rect" id="node104" href="$namespacestable__cohorts.html#abeeb04be99f38d90727f82792b2f199a" title="stable_cohorts::is\l_resolvable" alt="" coords="167,1255,292,1302"/>
+<area shape="rect" id="node106" href="$namespaceupdate__derived__props__module.html#a6633a22e580cb59ccb4bbdbad3c25a62" title="update_derived_props\l_module::read_soil_moist_temp" alt="" coords="644,1439,849,1486"/>
+<area shape="rect" id="node113" href="$namespaceupdate__derived__props__module.html#acb06a52bb543f1d85d2e0e5c538a9506" title="update_derived_props\l_module::update_site\l_derived_props" alt="" coords="155,1552,304,1616"/>
+<area shape="rect" id="node115" href="$namespaceupdate__derived__props__module.html#ae950be2eb03707a8077984fb746de560" title="update_derived_props\l_module::update_polygon\l_derived_props" alt="" coords="144,1640,315,1704"/>
+<area shape="rect" id="node5" href="$namespacepatch__pft__size__profile__mod.html#a3e4556647869506dcb0b3646c239509a" title="patch_pft_size_profile\l_mod::patch_pft_size_profile" alt="" coords="899,45,1088,91"/>
+<area shape="rect" id="node11" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="409,406,548,453"/>
+<area shape="rect" id="node60" href="$namespacefuse__fiss__utils.html#a546d7beff2f991a07c8fbba91921ce5f" title="This subroutine will sort the patches by age (1st = oldest, last = youngest.) " alt="" coords="411,337,547,383"/>
+<area shape="rect" id="node7" href="$namespaceallometry.html#a45ced9bf9ccd03debe8def35b579f4bd" title="allometry::size2bl" alt="" coords="1151,179,1273,208"/>
+<area shape="rect" id="node9" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="1337,179,1455,208"/>
+<area shape="rect" id="node13" href="$namespacetherm__lib.html#ac588ab0dc1c0c52c4c41b847be134ee9" title="therm_lib::uextcm2tl" alt="" coords="924,640,1063,669"/>
+<area shape="rect" id="node25" href="$ed__type__init_8f90.html#aa6a689a6e6981ff6c33afcb419db9b28" title="new_patch_sfc_props" alt="" coords="672,676,821,705"/>
+<area shape="rect" id="node32" href="$namespacefuse__fiss__utils.html#aae52213c98fe3ffb3ecde24d8ffc6e03" title="This subroutine combines the mean sum of squares of two quantities (x and y). " alt="" coords="657,415,836,444"/>
+<area shape="rect" id="node34" href="$namespaceupdate__derived__props__module.html#a304000a1024ed8b1bb99a278f951cd59" title="update_derived_props\l_module::update_patch\l_thermo_props" alt="" coords="668,468,825,532"/>
+<area shape="rect" id="node36" href="$namespaceupdate__derived__props__module.html#a32f02a976fa5385f607cb4fa4d1aa552" title="update_derived_props\l_module::update_cohort\l_extensive_props" alt="" coords="913,532,1073,596"/>
+<area shape="rect" id="node38" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="925,234,1061,281"/>
+<area shape="rect" id="node40" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="677,294,816,341"/>
+<area shape="rect" id="node46" href="$namespacefuse__fiss__utils.html#a5dc8f0ad95ff159ac69570ac55856524" title="This subroutine will eliminate cohorts based on their sizes. This is intended to eliminate cohorts th..." alt="" coords="663,174,831,221"/>
+<area shape="rect" id="node49" href="$namespacefuse__fiss__utils.html#aba30221565235a7c9cdeadb079d324c5" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="677,555,816,602"/>
+<area shape="rect" id="node17" href="$namespacebudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="919,950,1068,997"/>
+<area shape="rect" id="node19" href="$namespacebudget__utils.html#ad0c764047c557100b3a3cdcd836103a0" title="budget_utils::compute\l_water_storage" alt="" coords="919,811,1068,858"/>
+<area shape="rect" id="node21" href="$namespacebudget__utils.html#a319c5f7252c344bcebbd162593e25ec8" title="budget_utils::compute\l_energy_storage" alt="" coords="919,881,1068,927"/>
+<area shape="rect" id="node23" href="$namespacetherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="1137,889,1287,919"/>
+<area shape="rect" id="node28" href="$namespaceed__therm__lib.html#aa6561183a4fc06ca1c9430914a5b6032" title="ed_therm_lib::ed_grndvap" alt="" coords="908,1233,1079,1263"/>
+<area shape="rect" id="node30" href="$namespacetherm__lib.html#a44ab3a68e6060bf4afbfc504e3a8c633" title="therm_lib::qslif" alt="" coords="1159,1233,1265,1263"/>
+<area shape="rect" id="node56" href="$namespaceallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="917,115,1069,144"/>
+<area shape="rect" id="node65" href="$namespaceallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="417,837,540,867"/>
+<area shape="rect" id="node69" href="$namespacetherm__lib.html#a0b1c333335dfb4af1c56bc56a0e45440" title="therm_lib::lcl_il" alt="" coords="424,941,533,971"/>
+<area shape="rect" id="node76" href="$namespacetherm__lib.html#a59bae4be9ba9f862c7b58953f37a9be2" title="therm_lib::thetaeivs" alt="" coords="411,995,547,1024"/>
+<area shape="rect" id="node71" href="$namespacetherm__lib.html#a5cebdf07920a9af5a0cbc49bafbc30b4" title="therm_lib::eslif" alt="" coords="693,951,800,980"/>
+<area shape="rect" id="node73" href="$namespacetherm__lib.html#ac882ac1ca8840594af71761fc7c42306" title="therm_lib::eslifp" alt="" coords="689,1004,804,1033"/>
+<area shape="rect" id="node78" href="$namespacetherm__lib.html#a543f4c6ab155d99ad9a5002a8143a654" title="therm_lib::alvl" alt="" coords="696,1057,797,1087"/>
+<area shape="rect" id="node82" href="$namespacetherm__lib.html#a4e2091a1a5d89a568a252369122ecb39" title="therm_lib::press2exner" alt="" coords="401,1325,556,1355"/>
+<area shape="rect" id="node84" href="$namespaceallometry.html#a88949ed487fccc2f1dfd065399043b0d" title="allometry::h2crownbh" alt="" coords="405,1379,552,1408"/>
+<area shape="rect" id="node86" href="$namespacecanopy__struct__dynamics.html#a2418e416a98f5c0dec59aeb173f92f75" title="canopy_struct_dynamics\l::ed_stars" alt="" coords="396,1431,561,1478"/>
+<area shape="rect" id="node90" href="$namespacecanopy__struct__dynamics.html#a22db7ca326d1421e76c858aa60687950" title="canopy_struct_dynamics\l::can_whccap" alt="" coords="396,1047,561,1094"/>
+<area shape="rect" id="node92" href="$namespacecanopy__struct__dynamics.html#ae5504447c798d15053109bc4f8ff9346" title="canopy_struct_dynamics\l::reduced_wind" alt="" coords="396,1117,561,1163"/>
+<area shape="rect" id="node96" href="$namespacecanopy__struct__dynamics.html#a301aac44c95414a23d8abe3b5826201f" title="canopy_struct_dynamics\l::leaf_aerodynamic_conductances" alt="" coords="369,1186,588,1233"/>
+<area shape="rect" id="node98" href="$namespacecanopy__struct__dynamics.html#ada33113f2dc56fb4576d2a52d2a573b0" title="canopy_struct_dynamics\l::wood_aerodynamic_conductances" alt="" coords="364,1255,593,1302"/>
+<area shape="rect" id="node88" href="$namespacecanopy__struct__dynamics.html#a1453d7575881d7ee657f67e0853c51a9" title="canopy_struct_dynamics\l::vertical_vel_flux" alt="" coords="664,1370,829,1417"/>
+<area shape="rect" id="node94" href="$numutils_8f90.html#abee471b10b1564285b25aa1b7b6f1577" title="cbrt" alt="" coords="725,1125,768,1155"/>
+<area shape="rect" id="node100" href="$namespaceallometry.html#aab2b2cee61cac31529246b043121c7de" title="allometry::dbh2vol" alt="" coords="683,1264,811,1293"/>
+<area shape="rect" id="node108" href="$namespacetherm__lib.html#a2db60e1f300fadcd09ef451059aa571b" title="therm_lib::cmtl2uext" alt="" coords="924,1448,1063,1477"/>
+</map>

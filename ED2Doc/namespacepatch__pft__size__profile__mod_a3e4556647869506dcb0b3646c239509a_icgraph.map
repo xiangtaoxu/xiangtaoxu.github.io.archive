@@ -1,0 +1,25 @@
+<map id="patch_pft_size_profile_mod::patch_pft_size_profile" name="patch_pft_size_profile_mod::patch_pft_size_profile">
+<area shape="rect" id="node3" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="657,24,796,70"/>
+<area shape="rect" id="node19" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="448,24,587,70"/>
+<area shape="rect" id="node22" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="243,380,400,444"/>
+<area shape="rect" id="node5" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="913,92,1001,122"/>
+<area shape="rect" id="node11" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="885,364,1029,394"/>
+<area shape="rect" id="node16" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="868,275,1047,304"/>
+<area shape="rect" id="node7" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1352,578,1427,607"/>
+<area shape="rect" id="node9" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1475,578,1525,607"/>
+<area shape="rect" id="node13" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1161,578,1239,607"/>
+<area shape="rect" id="node24" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="660,209,793,256"/>
+<area shape="rect" id="node28" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::\lprune_lianas" alt="" coords="453,194,581,241"/>
+<area shape="rect" id="node32" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler\l_timestep" alt="" coords="895,538,1020,585"/>
+<area shape="rect" id="node35" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="465,264,569,294"/>
+<area shape="rect" id="node40" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="464,318,571,347"/>
+<area shape="rect" id="node43" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="467,371,568,400"/>
+<area shape="rect" id="node46" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="480,424,555,454"/>
+<area shape="rect" id="node50" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass. " alt="" coords="643,391,811,420"/>
+<area shape="rect" id="node54" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="636,627,817,656"/>
+<area shape="rect" id="node57" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid\l_timestep" alt="" coords="888,658,1027,705"/>
+<area shape="rect" id="node60" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="656,485,797,532"/>
+<area shape="rect" id="node63" href="$namespacerk4__driver.html#abf8bd20405c7ed6a7bab3bdb18d8de87" title="rk4_driver::rk4_timestep" alt="" coords="876,728,1039,758"/>
+<area shape="rect" id="node66" href="$namespaceupdate__derived__props__module.html#a661a2afd35ef64573ff9be7d88ef2d02" title="update_derived_props\l_module::update_derived_props" alt="" coords="1097,686,1303,733"/>
+<area shape="rect" id="node37" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="667,338,787,367"/>
+</map>

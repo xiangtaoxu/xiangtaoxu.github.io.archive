@@ -1,0 +1,18 @@
+<map id="ed_var_tables::vtable_edio_i" name="ed_var_tables::vtable_edio_i">
+<area shape="rect" id="node3" href="$namespaceed__state__vars.html#abb260c56b27f849e311a4ff12439a2d6" title="This routine will fill the pointer table with the polygon&#45;level variables (edtype) that have one dime..." alt="" coords="201,5,343,51"/>
+<area shape="rect" id="node21" href="$namespaceed__state__vars.html#a246e5298a265c587bd0f78db320e29c5" title="This routine will fill the pointer table with the site&#45;level variables (polygontype) that have one di..." alt="" coords="201,74,343,121"/>
+<area shape="rect" id="node26" href="$namespaceed__state__vars.html#a7d921b75e21a0601c4dac488c4d1aa01" title="This routine will fill the pointer table with the site&#45;level variables (polygontype) that have two di..." alt="" coords="201,143,343,190"/>
+<area shape="rect" id="node29" href="$namespaceed__state__vars.html#a556ff3dcf4b87ae8fe4e3319e1196d27" title="This routine will fill the pointer table with the patch&#45;level variables (sitetype) that have one dime..." alt="" coords="201,213,343,259"/>
+<area shape="rect" id="node34" href="$namespaceed__state__vars.html#a83c0921d462c47a37c8d6f97dbdb9d72" title="This routine will fill the pointer table with the cohort&#45;level variables (patchtype) that have one di..." alt="" coords="201,282,343,329"/>
+<area shape="rect" id="node5" href="$namespaceed__state__vars.html#a31b9d7889efe4b92ff8dc064eb655d4e" title="This routine will fill the pointer table with the polygon&#45;level variables &#160;&#160;(edtype). " alt="" coords="393,39,535,86"/>
+<area shape="rect" id="node7" href="$namespaceed__state__vars.html#afdc01451213108f52d4c3ac14a804f74" title="This subroutine is the main driver for filling the variable table (var_table) of ED variables..." alt="" coords="585,178,727,225"/>
+<area shape="rect" id="node9" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="776,187,883,216"/>
+<area shape="rect" id="node11" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="932,187,1052,216"/>
+<area shape="rect" id="node13" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="1103,187,1247,216"/>
+<area shape="rect" id="node15" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1297,187,1375,216"/>
+<area shape="rect" id="node17" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1424,187,1499,216"/>
+<area shape="rect" id="node19" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1547,187,1597,216"/>
+<area shape="rect" id="node23" href="$namespaceed__state__vars.html#a5059d40682c2653017de524077b8dae5" title="This sub&#45;routine fills in the variable table with site&#45;level variables. " alt="" coords="393,143,535,190"/>
+<area shape="rect" id="node31" href="$namespaceed__state__vars.html#adfda51c18d9eb4eab6a5f2d479eccd29" title="This sub&#45;routine will fill the variable table with the sitetype variables (patch&#45;level). Because of the sheer number of variables, we must split the subroutines into smaller routines. " alt="" coords="393,213,535,259"/>
+<area shape="rect" id="node36" href="$namespaceed__state__vars.html#ac37a860383b752e5263aa945c99824a9" title="This sub&#45;routine fills in the variable table for cohort&#45;level variables. " alt="" coords="393,282,535,329"/>
+</map>

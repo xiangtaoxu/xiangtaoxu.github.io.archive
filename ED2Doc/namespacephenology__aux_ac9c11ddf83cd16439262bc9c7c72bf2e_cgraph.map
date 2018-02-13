@@ -1,0 +1,12 @@
+<map id="phenology_aux::first_phenology" name="phenology_aux::first_phenology">
+<area shape="rect" id="node3" href="$namespaceed__therm__lib.html#a8f0d34fdb7abadb1cf09fd1a74e9e66b" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="207,18,335,65"/>
+<area shape="rect" id="node7" href="$namespaceallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="193,99,348,128"/>
+<area shape="rect" id="node17" href="$namespacetherm__lib.html#a2db60e1f300fadcd09ef451059aa571b" title="therm_lib::cmtl2uext" alt="" coords="201,203,340,232"/>
+<area shape="rect" id="node19" href="$namespaceplant__hydro.html#a9d371196185b46c6861cb0f0a2a369d6" title="Convert relative water content to total water for both leaf and wood " alt="" coords="201,256,340,285"/>
+<area shape="rect" id="node21" href="$namespacephenology__aux.html#ac99e8cfcfd964b2feceda6835f18a4e2" title="phenology_aux::pheninit\l_balive_bstorage" alt="" coords="397,162,560,209"/>
+<area shape="rect" id="node24" href="$namespacestable__cohorts.html#abeeb04be99f38d90727f82792b2f199a" title="stable_cohorts::is\l_resolvable" alt="" coords="208,309,333,355"/>
+<area shape="rect" id="node5" href="$namespaceallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="417,5,540,35"/>
+<area shape="rect" id="node9" href="$namespaceallometry.html#abacdf8e8e585ce8d788a1fc2be133243" title="allometry::dbh2ca" alt="" coords="416,59,541,88"/>
+<area shape="rect" id="node11" href="$namespaceallometry.html#a45ced9bf9ccd03debe8def35b579f4bd" title="allometry::size2bl" alt="" coords="609,111,732,140"/>
+<area shape="rect" id="node13" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="783,85,900,115"/>
+</map>

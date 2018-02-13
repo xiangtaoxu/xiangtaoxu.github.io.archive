@@ -1,0 +1,19 @@
+<map id="disturbance_utils::prune_lianas" name="disturbance_utils::prune_lianas">
+<area shape="rect" id="node3" href="$namespacestable__cohorts.html#abeeb04be99f38d90727f82792b2f199a" title="stable_cohorts::is\l_resolvable" alt="" coords="197,5,323,51"/>
+<area shape="rect" id="node5" href="$namespaceed__therm__lib.html#a8f0d34fdb7abadb1cf09fd1a74e9e66b" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="196,74,324,121"/>
+<area shape="rect" id="node9" href="$namespaceallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="183,144,337,173"/>
+<area shape="rect" id="node19" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update\l_budget" alt="" coords="191,297,329,343"/>
+<area shape="rect" id="node29" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="192,366,328,413"/>
+<area shape="rect" id="node31" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="181,201,339,265"/>
+<area shape="rect" id="node38" href="$namespaceplant__hydro.html#a9d371196185b46c6861cb0f0a2a369d6" title="Convert relative water content to total water for both leaf and wood " alt="" coords="191,436,329,465"/>
+<area shape="rect" id="node7" href="$namespaceallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="420,33,543,63"/>
+<area shape="rect" id="node11" href="$namespaceallometry.html#abacdf8e8e585ce8d788a1fc2be133243" title="allometry::dbh2ca" alt="" coords="419,87,544,116"/>
+<area shape="rect" id="node13" href="$namespaceallometry.html#a45ced9bf9ccd03debe8def35b579f4bd" title="allometry::size2bl" alt="" coords="639,139,761,168"/>
+<area shape="rect" id="node15" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="825,113,943,143"/>
+<area shape="rect" id="node21" href="$namespacebudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="407,313,556,359"/>
+<area shape="rect" id="node23" href="$namespacebudget__utils.html#ad0c764047c557100b3a3cdcd836103a0" title="budget_utils::compute\l_water_storage" alt="" coords="407,382,556,429"/>
+<area shape="rect" id="node25" href="$namespacebudget__utils.html#a319c5f7252c344bcebbd162593e25ec8" title="budget_utils::compute\l_energy_storage" alt="" coords="407,451,556,498"/>
+<area shape="rect" id="node27" href="$namespacetherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="625,460,775,489"/>
+<area shape="rect" id="node33" href="$namespaceallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="405,260,557,289"/>
+<area shape="rect" id="node35" href="$namespacepatch__pft__size__profile__mod.html#a3e4556647869506dcb0b3646c239509a" title="patch_pft_size_profile\l_mod::patch_pft_size_profile" alt="" coords="387,190,576,237"/>
+</map>

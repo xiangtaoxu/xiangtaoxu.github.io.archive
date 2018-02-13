@@ -1,0 +1,6 @@
+<map id="update_rad_avg" name="update_rad_avg">
+<area shape="rect" id="node3" href="$namespaceradiate__driver__module.html#a004efcf9e0a04145a85adfea8c23dd12" title="radiate_driver_module\l::radiate_driver" alt="" coords="168,5,317,51"/>
+<area shape="rect" id="node5" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="367,13,444,43"/>
+<area shape="rect" id="node7" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="493,13,568,43"/>
+<area shape="rect" id="node9" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="616,13,667,43"/>
+</map>

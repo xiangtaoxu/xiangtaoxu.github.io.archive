@@ -1,0 +1,33 @@
+<map id="fuse_fiss_utils::fuse_2_patches" name="fuse_fiss_utils::fuse_2_patches">
+<area shape="rect" id="node3" href="$namespacetherm__lib.html#ac588ab0dc1c0c52c4c41b847be134ee9" title="therm_lib::uextcm2tl" alt="" coords="665,40,804,69"/>
+<area shape="rect" id="node5" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update\l_budget" alt="" coords="207,734,345,781"/>
+<area shape="rect" id="node15" href="$ed__type__init_8f90.html#aa6a689a6e6981ff6c33afcb419db9b28" title="new_patch_sfc_props" alt="" coords="201,93,351,123"/>
+<area shape="rect" id="node26" href="$namespacefuse__fiss__utils.html#aae52213c98fe3ffb3ecde24d8ffc6e03" title="This subroutine combines the mean sum of squares of two quantities (x and y). " alt="" coords="645,149,824,179"/>
+<area shape="rect" id="node30" href="$namespaceupdate__derived__props__module.html#a304000a1024ed8b1bb99a278f951cd59" title="update_derived_props\l_module::update_patch\l_thermo_props" alt="" coords="197,864,355,928"/>
+<area shape="rect" id="node34" href="$namespaceupdate__derived__props__module.html#a32f02a976fa5385f607cb4fa4d1aa552" title="update_derived_props\l_module::update_cohort\l_extensive_props" alt="" coords="423,493,583,557"/>
+<area shape="rect" id="node36" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="435,317,571,363"/>
+<area shape="rect" id="node38" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="207,253,345,299"/>
+<area shape="rect" id="node57" href="$namespacefuse__fiss__utils.html#a5dc8f0ad95ff159ac69570ac55856524" title="This subroutine will eliminate cohorts based on their sizes. This is intended to eliminate cohorts th..." alt="" coords="192,373,360,419"/>
+<area shape="rect" id="node60" href="$namespacefuse__fiss__utils.html#aba30221565235a7c9cdeadb079d324c5" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="207,442,345,489"/>
+<area shape="rect" id="node67" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="197,613,355,677"/>
+<area shape="rect" id="node71" href="$namespacepatch__pft__size__profile__mod.html#a3e4556647869506dcb0b3646c239509a" title="patch_pft_size_profile\l_mod::patch_pft_size_profile" alt="" coords="408,581,597,627"/>
+<area shape="rect" id="node7" href="$namespacebudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="428,703,577,750"/>
+<area shape="rect" id="node9" href="$namespacebudget__utils.html#ad0c764047c557100b3a3cdcd836103a0" title="budget_utils::compute\l_water_storage" alt="" coords="428,773,577,819"/>
+<area shape="rect" id="node11" href="$namespacebudget__utils.html#a319c5f7252c344bcebbd162593e25ec8" title="budget_utils::compute\l_energy_storage" alt="" coords="428,842,577,889"/>
+<area shape="rect" id="node13" href="$namespacetherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="660,851,809,880"/>
+<area shape="rect" id="node18" href="$namespaceed__therm__lib.html#aa6561183a4fc06ca1c9430914a5b6032" title="ed_therm_lib::ed_grndvap" alt="" coords="417,93,588,123"/>
+<area shape="rect" id="node20" href="$namespacetherm__lib.html#a44ab3a68e6060bf4afbfc504e3a8c633" title="therm_lib::qslif" alt="" coords="681,93,788,123"/>
+<area shape="rect" id="node22" href="$namespacetherm__lib.html#a109004866b1542dfcfa1da1e5130d3c9" title="therm_lib::esif" alt="" coords="884,95,988,124"/>
+<area shape="rect" id="node24" href="$namespacetherm__lib.html#a82ae02323247d6435153002a309552fb" title="therm_lib::eslf" alt="" coords="884,41,988,71"/>
+<area shape="rect" id="node28" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="905,149,967,179"/>
+<area shape="rect" id="node32" href="$namespacetherm__lib.html#a60b714e3ae5457604df59afaf6904acd" title="therm_lib::idealdenssh" alt="" coords="427,912,579,941"/>
+<area shape="rect" id="node40" href="$namespaceallometry.html#a45ced9bf9ccd03debe8def35b579f4bd" title="allometry::size2bl" alt="" coords="673,451,796,480"/>
+<area shape="rect" id="node44" href="$namespacefuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="This subroutine will merge two cohorts into 1. " alt="" coords="433,197,572,243"/>
+<area shape="rect" id="node54" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="463,387,543,416"/>
+<area shape="rect" id="node42" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="877,451,995,480"/>
+<area shape="rect" id="node47" href="$namespaceallometry.html#ac1523ea0e0ef8d2dd6a429f61a013c1c" title="allometry::dbh2krdepth" alt="" coords="657,259,812,288"/>
+<area shape="rect" id="node51" href="$namespaceplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="664,205,805,235"/>
+<area shape="rect" id="node49" href="$namespaceallometry.html#aab2b2cee61cac31529246b043121c7de" title="allometry::dbh2vol" alt="" coords="872,259,1000,288"/>
+<area shape="rect" id="node62" href="$namespaceallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="444,440,561,469"/>
+<area shape="rect" id="node69" href="$namespaceallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="427,651,579,680"/>
+</map>

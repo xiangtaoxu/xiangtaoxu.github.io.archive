@@ -1,0 +1,6 @@
+<map id="budget_utils::update_budget" name="budget_utils::update_budget">
+<area shape="rect" id="node3" href="$namespacebudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="193,5,343,51"/>
+<area shape="rect" id="node5" href="$namespacebudget__utils.html#ad0c764047c557100b3a3cdcd836103a0" title="budget_utils::compute\l_water_storage" alt="" coords="193,74,343,121"/>
+<area shape="rect" id="node7" href="$namespacebudget__utils.html#a319c5f7252c344bcebbd162593e25ec8" title="budget_utils::compute\l_energy_storage" alt="" coords="193,143,343,190"/>
+<area shape="rect" id="node9" href="$namespacetherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="393,152,543,181"/>
+</map>

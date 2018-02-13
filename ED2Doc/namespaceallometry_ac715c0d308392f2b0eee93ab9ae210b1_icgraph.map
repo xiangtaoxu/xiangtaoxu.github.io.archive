@@ -1,0 +1,21 @@
+<map id="allometry::area_indices" name="allometry::area_indices">
+<area shape="rect" id="node3" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="464,181,597,227"/>
+<area shape="rect" id="node16" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::\lprune_lianas" alt="" coords="239,229,367,275"/>
+<area shape="rect" id="node19" href="$ed__read__ed21__history_8_f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="227,368,379,397"/>
+<area shape="rect" id="node24" href="$ed__read__ed21__history_8_f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="212,421,393,451"/>
+<area shape="rect" id="node27" href="$ed__read__ed21__history_8_f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="231,475,375,504"/>
+<area shape="rect" id="node30" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="251,75,355,104"/>
+<area shape="rect" id="node35" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass. " alt="" coords="447,128,615,157"/>
+<area shape="rect" id="node39" href="$namespacephenology__aux.html#ac9c11ddf83cd16439262bc9c7c72bf2e" title="phenology_aux::first\l_phenology" alt="" coords="896,495,1035,542"/>
+<area shape="rect" id="node42" href="$namespacephenology__driv.html#a1b08d4597d08eba521c381a2b33147b5" title="phenology_driv::update\l_phenology" alt="" coords="225,5,380,51"/>
+<area shape="rect" id="node47" href="$namespacephenology__driv.html#a3345cbd923a6af990fe1037ff4fc33e4" title="phenology_driv::update\l_phenology_eq_0" alt="" coords="225,298,380,345"/>
+<area shape="rect" id="node5" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="685,128,829,157"/>
+<area shape="rect" id="node13" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="668,189,847,219"/>
+<area shape="rect" id="node7" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="927,189,1004,219"/>
+<area shape="rect" id="node9" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1083,421,1157,451"/>
+<area shape="rect" id="node11" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1205,421,1256,451"/>
+<area shape="rect" id="node21" href="$namespaceed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="449,413,612,459"/>
+<area shape="rect" id="node32" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="471,75,591,104"/>
+<area shape="rect" id="node44" href="$namespacephenology__driv.html#aa94bafee9e386ab4060a515ce8187ba9" title="phenology_driv::phenology\l_driver" alt="" coords="443,5,619,51"/>
+<area shape="rect" id="node49" href="$namespacephenology__driv.html#ad9990edb604600188e59eb7292caa613" title="phenology_driv::phenology\l_driver_eq_0" alt="" coords="443,274,619,321"/>
+</map>

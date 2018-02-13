@@ -1,0 +1,28 @@
+<map id="allometry::dbh2krdepth" name="allometry::dbh2krdepth">
+<area shape="rect" id="node3" href="$ed__type__init_8f90.html#af7c8e0a520dfca016f7eb7cf1c08b6ca" title="init_ed_cohort_vars" alt="" coords="211,417,344,447"/>
+<area shape="rect" id="node56" href="$namespacefuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="This subroutine will merge two cohorts into 1. " alt="" coords="208,206,347,253"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::\lplant_patch" alt="" coords="423,159,551,206"/>
+<area shape="rect" id="node25" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="668,415,772,444"/>
+<area shape="rect" id="node30" href="$namespaceed__nbg__init.html#afbe4e1b96c81d4643f2b9e97fb7d2dd8" title="ed_nbg_init::init_nbg\l_cohorts" alt="" coords="416,349,557,395"/>
+<area shape="rect" id="node35" href="$namespaceed__nbg__init.html#ad7022181b12aec0f7e45270a2877dd49" title="ed_nbg_init::init_cohorts\l_by_layers" alt="" coords="405,279,568,326"/>
+<area shape="rect" id="node38" href="$namespaceed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare\l_ground_big_leaf_init" alt="" coords="644,622,796,669"/>
+<area shape="rect" id="node41" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="627,692,813,721"/>
+<area shape="rect" id="node44" href="$ed__read__ed21__history_8_f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="644,468,796,497"/>
+<area shape="rect" id="node47" href="$ed__read__ed21__history_8_f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="396,573,577,603"/>
+<area shape="rect" id="node50" href="$ed__read__ed21__history_8_f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="415,520,559,549"/>
+<area shape="rect" id="node53" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="872,225,1013,271"/>
+<area shape="rect" id="node7" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="876,102,1009,149"/>
+<area shape="rect" id="node20" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="667,176,773,205"/>
+<area shape="rect" id="node9" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="1091,160,1235,189"/>
+<area shape="rect" id="node17" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="1073,107,1252,136"/>
+<area shape="rect" id="node11" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1308,160,1385,189"/>
+<area shape="rect" id="node13" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1440,160,1515,189"/>
+<area shape="rect" id="node15" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1563,160,1613,189"/>
+<area shape="rect" id="node22" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="883,172,1003,201"/>
+<area shape="rect" id="node27" href="$namespaceed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="861,486,1024,533"/>
+<area shape="rect" id="node32" href="$namespaceed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare\l_ground_init" alt="" coords="644,345,796,391"/>
+<area shape="rect" id="node58" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="417,65,556,111"/>
+<area shape="rect" id="node61" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="651,5,789,51"/>
+<area shape="rect" id="node63" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="873,33,1012,79"/>
+<area shape="rect" id="node65" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="1303,77,1391,107"/>
+</map>

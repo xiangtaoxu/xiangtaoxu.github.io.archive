@@ -1,0 +1,14 @@
+<map id="disturbance_utils::plant_patch" name="disturbance_utils::plant_patch">
+<area shape="rect" id="node3" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="195,5,331,51"/>
+<area shape="rect" id="node5" href="$namespaceed__therm__lib.html#a8f0d34fdb7abadb1cf09fd1a74e9e66b" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="199,74,327,121"/>
+<area shape="rect" id="node9" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="600,169,717,199"/>
+<area shape="rect" id="node11" href="$namespacephenology__aux.html#ac99e8cfcfd964b2feceda6835f18a4e2" title="phenology_aux::pheninit\l_balive_bstorage" alt="" coords="181,194,344,241"/>
+<area shape="rect" id="node16" href="$namespacetherm__lib.html#a2db60e1f300fadcd09ef451059aa571b" title="therm_lib::cmtl2uext" alt="" coords="193,264,332,293"/>
+<area shape="rect" id="node18" href="$ed__type__init_8f90.html#af7c8e0a520dfca016f7eb7cf1c08b6ca" title="init_ed_cohort_vars" alt="" coords="196,317,329,347"/>
+<area shape="rect" id="node26" href="$namespacestable__cohorts.html#abeeb04be99f38d90727f82792b2f199a" title="stable_cohorts::is\l_resolvable" alt="" coords="200,370,325,417"/>
+<area shape="rect" id="node7" href="$namespaceallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="408,83,531,112"/>
+<area shape="rect" id="node13" href="$namespaceallometry.html#a45ced9bf9ccd03debe8def35b579f4bd" title="allometry::size2bl" alt="" coords="408,199,531,228"/>
+<area shape="rect" id="node20" href="$namespaceallometry.html#ac1523ea0e0ef8d2dd6a429f61a013c1c" title="allometry::dbh2krdepth" alt="" coords="392,291,547,320"/>
+<area shape="rect" id="node24" href="$namespaceplant__hydro.html#ae27d78c83f41d9d6fdd38ad2052b32af" title="Convert water potential of leaf and wood to relative water content " alt="" coords="399,344,540,373"/>
+<area shape="rect" id="node22" href="$namespaceallometry.html#aab2b2cee61cac31529246b043121c7de" title="allometry::dbh2vol" alt="" coords="595,291,723,320"/>
+</map>

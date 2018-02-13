@@ -1,0 +1,27 @@
+<map id="reproduction_module::reproduction" name="reproduction_module::reproduction">
+<area shape="rect" id="node3" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="208,5,344,51"/>
+<area shape="rect" id="node5" href="$namespaceed__therm__lib.html#a8f0d34fdb7abadb1cf09fd1a74e9e66b" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="212,74,340,121"/>
+<area shape="rect" id="node9" href="$namespaceallometry.html#a76db2bc4aaa47db1e2656117ec476dba" title="allometry::dbh2bd" alt="" coords="213,144,339,173"/>
+<area shape="rect" id="node11" href="$namespacephenology__aux.html#ac99e8cfcfd964b2feceda6835f18a4e2" title="phenology_aux::pheninit\l_balive_bstorage" alt="" coords="416,139,579,186"/>
+<area shape="rect" id="node17" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update\l_budget" alt="" coords="207,335,345,382"/>
+<area shape="rect" id="node27" href="$namespacetherm__lib.html#a2db60e1f300fadcd09ef451059aa571b" title="therm_lib::cmtl2uext" alt="" coords="207,405,345,435"/>
+<area shape="rect" id="node29" href="$namespaceplant__hydro.html#a9d371196185b46c6861cb0f0a2a369d6" title="Convert relative water content to total water for both leaf and wood " alt="" coords="207,459,345,488"/>
+<area shape="rect" id="node31" href="$namespacereproduction__module.html#aaf75bf8a30e84631fd53bb0d11fcf296" title="reproduction_module\l::seed_dispersal" alt="" coords="205,511,347,558"/>
+<area shape="rect" id="node33" href="$ed__type__init_8f90.html#af7c8e0a520dfca016f7eb7cf1c08b6ca" title="init_ed_cohort_vars" alt="" coords="209,581,343,611"/>
+<area shape="rect" id="node41" href="$namespacestable__cohorts.html#abeeb04be99f38d90727f82792b2f199a" title="stable_cohorts::is\l_resolvable" alt="" coords="213,634,339,681"/>
+<area shape="rect" id="node43" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="197,248,355,312"/>
+<area shape="rect" id="node50" href="$namespaceupdate__derived__props__module.html#acb06a52bb543f1d85d2e0e5c538a9506" title="update_derived_props\l_module::update_site\l_derived_props" alt="" coords="201,704,351,768"/>
+<area shape="rect" id="node52" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="236,792,316,821"/>
+<area shape="rect" id="node7" href="$namespaceallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="436,83,559,112"/>
+<area shape="rect" id="node13" href="$namespaceallometry.html#a45ced9bf9ccd03debe8def35b579f4bd" title="allometry::size2bl" alt="" coords="655,183,777,212"/>
+<area shape="rect" id="node15" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="841,183,959,212"/>
+<area shape="rect" id="node19" href="$namespacebudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="423,331,572,378"/>
+<area shape="rect" id="node21" href="$namespacebudget__utils.html#ad0c764047c557100b3a3cdcd836103a0" title="budget_utils::compute\l_water_storage" alt="" coords="423,401,572,447"/>
+<area shape="rect" id="node23" href="$namespacebudget__utils.html#a319c5f7252c344bcebbd162593e25ec8" title="budget_utils::compute\l_energy_storage" alt="" coords="423,470,572,517"/>
+<area shape="rect" id="node25" href="$namespacetherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="641,479,791,508"/>
+<area shape="rect" id="node35" href="$namespaceallometry.html#ac1523ea0e0ef8d2dd6a429f61a013c1c" title="allometry::dbh2krdepth" alt="" coords="420,559,575,588"/>
+<area shape="rect" id="node39" href="$namespaceplant__hydro.html#ae27d78c83f41d9d6fdd38ad2052b32af" title="Convert water potential of leaf and wood to relative water content " alt="" coords="427,612,568,641"/>
+<area shape="rect" id="node37" href="$namespaceallometry.html#aab2b2cee61cac31529246b043121c7de" title="allometry::dbh2vol" alt="" coords="652,559,780,588"/>
+<area shape="rect" id="node45" href="$namespaceallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="421,279,573,308"/>
+<area shape="rect" id="node47" href="$namespacepatch__pft__size__profile__mod.html#a3e4556647869506dcb0b3646c239509a" title="patch_pft_size_profile\l_mod::patch_pft_size_profile" alt="" coords="403,209,592,255"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="fuse_fiss_utils::fuse_patches" name="fuse_fiss_utils::fuse_patches">
+<area shape="rect" id="node3" href="$namespacepatch__pft__size__profile__mod.html#a3e4556647869506dcb0b3646c239509a" title="patch_pft_size_profile\l_mod::patch_pft_size_profile" alt="" coords="595,5,784,51"/>
+<area shape="rect" id="node9" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="192,553,331,599"/>
+<area shape="rect" id="node59" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="649,755,729,784"/>
+<area shape="rect" id="node78" href="$namespacefuse__fiss__utils.html#a546d7beff2f991a07c8fbba91921ce5f" title="This subroutine will sort the patches by age (1st = oldest, last = youngest.) " alt="" coords="193,922,329,969"/>
+<area shape="rect" id="node5" href="$namespaceallometry.html#a45ced9bf9ccd03debe8def35b579f4bd" title="allometry::size2bl" alt="" coords="860,388,983,417"/>
+<area shape="rect" id="node7" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="1064,388,1181,417"/>
+<area shape="rect" id="node11" href="$namespacetherm__lib.html#ac588ab0dc1c0c52c4c41b847be134ee9" title="therm_lib::uextcm2tl" alt="" coords="852,441,991,471"/>
+<area shape="rect" id="node13" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update\l_budget" alt="" coords="393,235,532,282"/>
+<area shape="rect" id="node23" href="$ed__type__init_8f90.html#aa6a689a6e6981ff6c33afcb419db9b28" title="new_patch_sfc_props" alt="" coords="388,371,537,400"/>
+<area shape="rect" id="node34" href="$namespacefuse__fiss__utils.html#aae52213c98fe3ffb3ecde24d8ffc6e03" title="This subroutine combines the mean sum of squares of two quantities (x and y). " alt="" coords="832,924,1011,953"/>
+<area shape="rect" id="node38" href="$namespaceupdate__derived__props__module.html#a304000a1024ed8b1bb99a278f951cd59" title="update_derived_props\l_module::update_patch\l_thermo_props" alt="" coords="384,475,541,539"/>
+<area shape="rect" id="node42" href="$namespaceupdate__derived__props__module.html#a32f02a976fa5385f607cb4fa4d1aa552" title="update_derived_props\l_module::update_cohort\l_extensive_props" alt="" coords="609,544,769,608"/>
+<area shape="rect" id="node44" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="621,685,757,731"/>
+<area shape="rect" id="node46" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="393,802,532,849"/>
+<area shape="rect" id="node62" href="$namespacefuse__fiss__utils.html#a5dc8f0ad95ff159ac69570ac55856524" title="This subroutine will eliminate cohorts based on their sizes. This is intended to eliminate cohorts th..." alt="" coords="379,733,547,779"/>
+<area shape="rect" id="node65" href="$namespacefuse__fiss__utils.html#aba30221565235a7c9cdeadb079d324c5" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="393,613,532,659"/>
+<area shape="rect" id="node72" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="384,116,541,180"/>
+<area shape="rect" id="node15" href="$namespacebudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="615,197,764,243"/>
+<area shape="rect" id="node17" href="$namespacebudget__utils.html#ad0c764047c557100b3a3cdcd836103a0" title="budget_utils::compute\l_water_storage" alt="" coords="615,266,764,313"/>
+<area shape="rect" id="node19" href="$namespacebudget__utils.html#a319c5f7252c344bcebbd162593e25ec8" title="budget_utils::compute\l_energy_storage" alt="" coords="615,127,764,174"/>
+<area shape="rect" id="node21" href="$namespacetherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="847,136,996,165"/>
+<area shape="rect" id="node26" href="$namespaceed__therm__lib.html#aa6561183a4fc06ca1c9430914a5b6032" title="ed_therm_lib::ed_grndvap" alt="" coords="604,336,775,365"/>
+<area shape="rect" id="node28" href="$namespacetherm__lib.html#a44ab3a68e6060bf4afbfc504e3a8c633" title="therm_lib::qslif" alt="" coords="868,335,975,364"/>
+<area shape="rect" id="node30" href="$namespacetherm__lib.html#a109004866b1542dfcfa1da1e5130d3c9" title="therm_lib::esif" alt="" coords="1071,335,1175,364"/>
+<area shape="rect" id="node32" href="$namespacetherm__lib.html#a82ae02323247d6435153002a309552fb" title="therm_lib::eslf" alt="" coords="1071,281,1175,311"/>
+<area shape="rect" id="node36" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="1092,924,1153,953"/>
+<area shape="rect" id="node40" href="$namespacetherm__lib.html#a60b714e3ae5457604df59afaf6904acd" title="therm_lib::idealdenssh" alt="" coords="613,491,765,520"/>
+<area shape="rect" id="node49" href="$namespacefuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="This subroutine will merge two cohorts into 1. " alt="" coords="620,858,759,905"/>
+<area shape="rect" id="node52" href="$namespaceallometry.html#ac1523ea0e0ef8d2dd6a429f61a013c1c" title="allometry::dbh2krdepth" alt="" coords="844,869,999,899"/>
+<area shape="rect" id="node56" href="$namespaceplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="851,816,992,845"/>
+<area shape="rect" id="node54" href="$namespaceallometry.html#aab2b2cee61cac31529246b043121c7de" title="allometry::dbh2vol" alt="" coords="1059,869,1187,899"/>
+<area shape="rect" id="node67" href="$namespaceallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="631,632,748,661"/>
+<area shape="rect" id="node74" href="$namespaceallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="613,75,765,104"/>
+</map>

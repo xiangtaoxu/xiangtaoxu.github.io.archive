@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespacegrowth__balive.html#aade95a53fd0d26aabf864afab17b1889" title="growth_balive::alloc_plant_c_balance_grass" alt="" coords="160,5,437,35"/>
+<area shape="rect" id="node9" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="247,59,351,88"/>
+<area shape="rect" id="node5" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass." alt="" coords="487,5,655,35"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="705,32,849,61"/>
+<area shape="rect" id="node11" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="511,59,631,88"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="616,24,691,54"/>
+<area shape="rect" id="node9" href="$namespacephenology__aux.html#ac9c11ddf83cd16439262bc9c7c72bf2e" title="phenology_aux::first_phenology" alt="" coords="259,50,464,79"/>
+<area shape="rect" id="node11" href="$namespaceism__hyd.html#a4cacf982b4cd6c9fec4f30704f29f419" title="ism_hyd::initHydroSubsurface" alt="" coords="263,103,460,132"/>
+<area shape="rect" id="node15" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::plant_patch" alt="" coords="264,156,459,186"/>
+<area shape="rect" id="node23" href="$namespaceupdate__derived__props__module.html#a6633a22e580cb59ccb4bbdbad3c25a62" title="update_derived_props_module::read_soil_moist_temp" alt="" coords="195,210,528,239"/>
+<area shape="rect" id="node25" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module::reproduction" alt="" coords="788,262,1009,291"/>
+<area shape="rect" id="node5" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="839,155,959,184"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1068,208,1212,238"/>
+<area shape="rect" id="node13" href="$namespaceism__hyd.html#a13196458ad8b59a443277350a4bf5c9d" title="ism_hyd::initHydrology" alt="" coords="576,103,731,132"/>
+<area shape="rect" id="node17" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="779,208,1019,238"/>
+<area shape="rect" id="node20" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="600,156,707,186"/>
+</map>

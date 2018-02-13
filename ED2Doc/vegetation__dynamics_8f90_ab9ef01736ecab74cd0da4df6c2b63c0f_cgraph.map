@@ -1,0 +1,51 @@
+<map id="vegetation_dynamics" name="vegetation_dynamics">
+<area shape="rect" id="node3" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="429,1143,563,1190"/>
+<area shape="rect" id="node56" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="220,1587,359,1634"/>
+<area shape="rect" id="node71" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass. " alt="" coords="619,483,787,512"/>
+<area shape="rect" id="node104" href="$namespaceaverage__utils.html#a538e2e59c7c2889ae624b6e1d2a9e5f2" title="This subroutine will scale the daily averages of GPP and some respiration variables to normal units..." alt="" coords="208,1657,371,1703"/>
+<area shape="rect" id="node106" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="229,1727,349,1756"/>
+<area shape="rect" id="node108" href="$namespacephenology__driv.html#aa94bafee9e386ab4060a515ce8187ba9" title="phenology_driv::phenology\l_driver" alt="" coords="201,1779,377,1826"/>
+<area shape="rect" id="node110" href="$namespaceupdate__derived__props__module.html#a3500a21831fa2e83c3554428646d3694" title="update_derived_props\l_module::update_workload" alt="" coords="201,1849,377,1895"/>
+<area shape="rect" id="node112" href="$namespacestructural__growth__module.html#aa974ce442fda8686fd4d88a42b0f150c" title="structural_growth_module\l::structural_growth" alt="" coords="617,586,788,633"/>
+<area shape="rect" id="node118" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="632,1333,773,1379"/>
+<area shape="rect" id="node128" href="$fire_8f90.html#aea4e862c5ebe7ca6ea0fb7003325d1c0" title="fire_frequency" alt="" coords="237,1919,341,1948"/>
+<area shape="rect" id="node130" href="$namespacesoil__respiration__module.html#a2f7ba90950fb1d6060b4d3e13ccbeaed" title="soil_respiration_module\l::update_c_and_n_pools" alt="" coords="208,1971,371,2018"/>
+<area shape="rect" id="node132" href="$namespaceupdate__derived__props__module.html#ae950be2eb03707a8077984fb746de560" title="update_derived_props\l_module::update_polygon\l_derived_props" alt="" coords="204,2041,375,2105"/>
+<area shape="rect" id="node134" href="$namespacestructural__growth__module.html#a9c59bcfa47e35977865fd78a46ac1859" title="structural_growth_module\l::print_c_and_n_budgets" alt="" coords="204,2129,375,2175"/>
+<area shape="rect" id="node5" href="$namespaceallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="848,821,1003,851"/>
+<area shape="rect" id="node7" href="$namespacemortality.html#ad39b2a4fec25ad294a703474c4e5a733" title="mortality::disturbance\l_mortality" alt="" coords="629,951,776,998"/>
+<area shape="rect" id="node9" href="$namespacebudget__utils.html#ac092645bc3b3bd0dcfa2cdedc2451c58" title="budget_utils::update\l_budget" alt="" coords="856,1273,995,1319"/>
+<area shape="rect" id="node11" href="$namespaceupdate__derived__props__module.html#acb06a52bb543f1d85d2e0e5c538a9506" title="update_derived_props\l_module::update_site\l_derived_props" alt="" coords="851,1431,1000,1495"/>
+<area shape="rect" id="node13" href="$namespaceforestry.html#aea994fba45d5e5f01f0abe99d4d1493a" title="forestry::find_harvest_area" alt="" coords="615,1021,791,1051"/>
+<area shape="rect" id="node15" href="$namespacedisturbance__utils.html#a31b6105dc67086438d6827bbffaf4bc4" title="disturbance_utils::\linitialize_disturbed_patch" alt="" coords="619,1074,787,1121"/>
+<area shape="rect" id="node17" href="$namespacedisturbance__utils.html#a60d031d31fcde31370f73cebaaaadb24" title="disturbance_utils::\lincrement_patch_vars" alt="" coords="628,1143,777,1190"/>
+<area shape="rect" id="node19" href="$namespacedisturbance__utils.html#ac25d6a408136dff3bccca56269ca858f" title="disturbance_utils::\linsert_survivors" alt="" coords="639,725,767,771"/>
+<area shape="rect" id="node21" href="$namespacedisturbance__utils.html#a5e78ef6d3bd2f31c0abfaf8e86045187" title="disturbance_utils::\laccum_dist_litt" alt="" coords="639,794,767,841"/>
+<area shape="rect" id="node23" href="$namespaceupdate__derived__props__module.html#a304000a1024ed8b1bb99a278f951cd59" title="update_derived_props\l_module::update_patch\l_thermo_props" alt="" coords="624,1573,781,1637"/>
+<area shape="rect" id="node25" href="$namespaceupdate__derived__props__module.html#a9ba5c6db0a367e14898de5f053d7cea6" title="update_derived_props\l_module::update_patch\l_thermo_fmean" alt="" coords="624,864,781,928"/>
+<area shape="rect" id="node27" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::\lplant_patch" alt="" coords="639,655,767,702"/>
+<area shape="rect" id="node35" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="633,1503,772,1550"/>
+<area shape="rect" id="node40" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props\l_module::update_patch\l_derived_props" alt="" coords="847,1343,1004,1407"/>
+<area shape="rect" id="node44" href="$ed__type__init_8f90.html#aa6a689a6e6981ff6c33afcb419db9b28" title="new_patch_sfc_props" alt="" coords="628,1661,777,1691"/>
+<area shape="rect" id="node46" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::\lprune_lianas" alt="" coords="639,1213,767,1259"/>
+<area shape="rect" id="node29" href="$namespacefuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="857,1203,993,1250"/>
+<area shape="rect" id="node31" href="$namespaceed__therm__lib.html#a8f0d34fdb7abadb1cf09fd1a74e9e66b" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="861,997,989,1043"/>
+<area shape="rect" id="node33" href="$namespacestable__cohorts.html#abeeb04be99f38d90727f82792b2f199a" title="stable_cohorts::is\l_resolvable" alt="" coords="863,927,988,974"/>
+<area shape="rect" id="node37" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="885,1519,965,1548"/>
+<area shape="rect" id="node42" href="$namespacepatch__pft__size__profile__mod.html#a3e4556647869506dcb0b3646c239509a" title="patch_pft_size_profile\l_mod::patch_pft_size_profile" alt="" coords="1059,1857,1248,1903"/>
+<area shape="rect" id="node54" href="$namespaceplant__hydro.html#a9d371196185b46c6861cb0f0a2a369d6" title="Convert relative water content to total water for both leaf and wood " alt="" coords="856,875,995,904"/>
+<area shape="rect" id="node59" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="427,1653,565,1699"/>
+<area shape="rect" id="node68" href="$namespacefuse__fiss__utils.html#a546d7beff2f991a07c8fbba91921ce5f" title="This subroutine will sort the patches by age (1st = oldest, last = youngest.) " alt="" coords="428,1722,564,1769"/>
+<area shape="rect" id="node75" href="$namespacemortality.html#af7ebabdd3dd650224f2a5ddfac2f888e" title="mortality::mortality\l_rates" alt="" coords="860,751,991,798"/>
+<area shape="rect" id="node80" href="$namespacegrowth__balive.html#ac2f667372e6f2a5fc7329466cc958a6c" title="growth_balive::get\l_maintenance" alt="" coords="861,5,989,51"/>
+<area shape="rect" id="node82" href="$namespacegrowth__balive.html#ad43c7e3fcb88db17077ed58aeab8fe2d" title="growth_balive::get\l_daily_c_gain" alt="" coords="861,74,989,121"/>
+<area shape="rect" id="node84" href="$namespacegrowth__balive.html#a861b85f31215415551f4a9c03302ff6e" title="growth_balive::apply\l_maintenance" alt="" coords="855,143,996,190"/>
+<area shape="rect" id="node86" href="$namespacegrowth__balive.html#ac4ca7901eed6321044f171f6f1b8d7d6" title="growth_balive::update_cb" alt="" coords="840,213,1011,243"/>
+<area shape="rect" id="node88" href="$namespacegrowth__balive.html#a7921154a300d0b56c862c78f641e5d3b" title="growth_balive::plant\l_carbon_balances" alt="" coords="856,266,995,313"/>
+<area shape="rect" id="node90" href="$namespacegrowth__balive.html#aade95a53fd0d26aabf864afab17b1889" title="growth_balive::alloc\l_plant_c_balance_grass" alt="" coords="844,335,1007,382"/>
+<area shape="rect" id="node92" href="$namespacegrowth__balive.html#a4a738e1e648a3932ae0beb2400c9bf78" title="Calculates plant&#45;internal C transfers for growth and maintainance. " alt="" coords="861,405,989,451"/>
+<area shape="rect" id="node94" href="$namespacegrowth__balive.html#a7a91aeb819248834373b9c7d9bafcbde" title="growth_balive::apply\l_c_xfers" alt="" coords="855,474,996,521"/>
+<area shape="rect" id="node96" href="$namespacegrowth__balive.html#a6c0ddec560e65b6d58be7041bd8dade2" title="growth_balive::update\l_today_npp_vars" alt="" coords="851,543,1000,590"/>
+<area shape="rect" id="node98" href="$namespacegrowth__balive.html#a8599682ade194a107377a540d7e64c73" title="growth_balive::update\l_nitrogen" alt="" coords="851,613,1000,659"/>
+<area shape="rect" id="node100" href="$namespacegrowth__balive.html#a40618aa2149dae58efd79e039d0e51d4" title="growth_balive::potential\l_n_uptake" alt="" coords="847,682,1004,729"/>
+</map>

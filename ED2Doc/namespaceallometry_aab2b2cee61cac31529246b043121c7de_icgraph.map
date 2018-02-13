@@ -1,0 +1,49 @@
+<map id="allometry::dbh2vol" name="allometry::dbh2vol">
+<area shape="rect" id="node3" href="$namespaceallometry.html#ac1523ea0e0ef8d2dd6a429f61a013c1c" title="allometry::dbh2krdepth" alt="" coords="716,532,871,561"/>
+<area shape="rect" id="node72" href="$namespacecanopy__struct__dynamics.html#ada33113f2dc56fb4576d2a52d2a573b0" title="canopy_struct_dynamics\l::wood_aerodynamic_conductances" alt="" coords="185,345,415,391"/>
+<area shape="rect" id="node77" href="$namespacecanopy__struct__dynamics.html#a0c4e4737235809c386a5b5cab02086f1" title="canopy_struct_dynamics\l::wood_aerodynamic_conductances8" alt="" coords="181,647,419,694"/>
+<area shape="rect" id="node5" href="$ed__type__init_8f90.html#af7c8e0a520dfca016f7eb7cf1c08b6ca" title="init_ed_cohort_vars" alt="" coords="973,337,1107,367"/>
+<area shape="rect" id="node58" href="$namespacefuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="This subroutine will merge two cohorts into 1. " alt="" coords="971,523,1109,570"/>
+<area shape="rect" id="node7" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::\lplant_patch" alt="" coords="1204,543,1332,590"/>
+<area shape="rect" id="node27" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="1449,267,1553,296"/>
+<area shape="rect" id="node32" href="$namespaceed__nbg__init.html#afbe4e1b96c81d4643f2b9e97fb7d2dd8" title="ed_nbg_init::init_nbg\l_cohorts" alt="" coords="1197,165,1339,211"/>
+<area shape="rect" id="node37" href="$namespaceed__nbg__init.html#ad7022181b12aec0f7e45270a2877dd49" title="ed_nbg_init::init_cohorts\l_by_layers" alt="" coords="1187,95,1349,142"/>
+<area shape="rect" id="node40" href="$namespaceed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare\l_ground_big_leaf_init" alt="" coords="1425,319,1577,366"/>
+<area shape="rect" id="node43" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="1408,389,1595,419"/>
+<area shape="rect" id="node46" href="$ed__read__ed21__history_8_f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="1192,440,1344,469"/>
+<area shape="rect" id="node49" href="$ed__read__ed21__history_8_f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="1177,43,1359,72"/>
+<area shape="rect" id="node52" href="$ed__read__ed21__history_8_f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="1196,235,1340,264"/>
+<area shape="rect" id="node55" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="1664,498,1805,545"/>
+<area shape="rect" id="node9" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="1668,702,1801,749"/>
+<area shape="rect" id="node22" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="1448,544,1555,573"/>
+<area shape="rect" id="node11" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="1893,641,2037,671"/>
+<area shape="rect" id="node19" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="1876,711,2055,740"/>
+<area shape="rect" id="node13" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="2105,769,2183,799"/>
+<area shape="rect" id="node15" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="2232,469,2307,499"/>
+<area shape="rect" id="node17" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="2355,469,2405,499"/>
+<area shape="rect" id="node24" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="1675,572,1795,601"/>
+<area shape="rect" id="node29" href="$namespaceed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="1653,289,1816,335"/>
+<area shape="rect" id="node34" href="$namespaceed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare\l_ground_init" alt="" coords="1425,146,1577,193"/>
+<area shape="rect" id="node60" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="1199,647,1337,694"/>
+<area shape="rect" id="node63" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="1432,647,1571,694"/>
+<area shape="rect" id="node65" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="1665,633,1804,679"/>
+<area shape="rect" id="node67" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="1921,469,2009,499"/>
+<area shape="rect" id="node74" href="$namespacecanopy__struct__dynamics.html#ac7eef4d24c3e07ccb461d418e32d466e" title="canopy_struct_dynamics\l::canopy_turbulence" alt="" coords="468,106,633,153"/>
+<area shape="rect" id="node79" href="$namespacecanopy__struct__dynamics.html#ab65e289b4069536fa3342bc3034db824" title="canopy_struct_dynamics\l::canopy_turbulence8" alt="" coords="468,711,633,758"/>
+<area shape="rect" id="node81" href="$namespacerk4__misc.html#aa79df20c0e21c9a3cf1e123e1db02b87" title="rk4_misc::copy_patch_init" alt="" coords="1415,837,1588,867"/>
+<area shape="rect" id="node95" href="$namespacerk4__misc.html#a71e0657b3f067044fe73885aff7e3bdb" title="rk4_misc::update_diagnostic_vars" alt="" coords="684,913,903,943"/>
+<area shape="rect" id="node83" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler\l_timestep" alt="" coords="1672,1017,1797,1063"/>
+<area shape="rect" id="node86" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="1644,775,1825,804"/>
+<area shape="rect" id="node89" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid\l_timestep" alt="" coords="1665,878,1804,925"/>
+<area shape="rect" id="node92" href="$namespacerk4__driver.html#abf8bd20405c7ed6a7bab3bdb18d8de87" title="rk4_driver::rk4_timestep" alt="" coords="1884,872,2047,901"/>
+<area shape="rect" id="node97" href="$namespaceeuler__driver.html#a7a9fa033c71fdc8278bcaeb603f004d4" title="euler_driver::euler\l_integ" alt="" coords="977,1099,1103,1146"/>
+<area shape="rect" id="node102" href="$namespaceheun__driver.html#a20432ede6f46072e62ed54efd0577d75" title="heun_driver::heun_integ" alt="" coords="1188,776,1348,805"/>
+<area shape="rect" id="node107" href="$namespaceheun__driver.html#a544f03d6f5fea4a41376ea486944a9a3" title="heun_driver::heun_stepper" alt="" coords="953,823,1127,852"/>
+<area shape="rect" id="node110" href="$namespacehybrid__driver.html#a52e666b2508f9044046242011e0945b1" title="hybrid_driver::hybrid\l_integ" alt="" coords="971,875,1109,922"/>
+<area shape="rect" id="node113" href="$namespacerk4__integ__utils.html#a0b55d5d39c3cbc6daf331aeb11f91695" title="rk4_integ_utils::odeint" alt="" coords="1427,956,1576,985"/>
+<area shape="rect" id="node118" href="$namespacerk4__integ__utils.html#aef9b7042f99cf48874aa33a2fddda236" title="rk4_integ_utils::rkqs" alt="" coords="1199,996,1337,1025"/>
+<area shape="rect" id="node121" href="$namespacerk4__integ__utils.html#a35bf6059115f1790f9a0ab993a6b4306" title="rk4_integ_utils::rkck" alt="" coords="971,996,1109,1025"/>
+<area shape="rect" id="node99" href="$namespaceeuler__driver.html#ad81ae9c94d4d79e17d02be872e799cbb" title="euler_driver::integrate\l_patch_euler" alt="" coords="1195,1074,1341,1121"/>
+<area shape="rect" id="node104" href="$namespaceheun__driver.html#a5a10a1f76045acf99d8d30a8ae7b3257" title="heun_driver::integrate\l_patch_heun" alt="" coords="1428,767,1575,814"/>
+<area shape="rect" id="node115" href="$namespacerk4__driver.html#ad803b18a35c44ba4dcfaeaf46a0130e2" title="rk4_driver::integrate\l_patch_rk4" alt="" coords="1667,947,1803,994"/>
+</map>

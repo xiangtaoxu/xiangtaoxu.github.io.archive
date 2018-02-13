@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespacegrowth__balive.html#abc5121207b9e02b869996c48e1204381" title="growth_balive::alloc_plant_c_balance_eq_0" alt="" coords="180,127,452,157"/>
+<area shape="rect" id="node7" href="$namespaceallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="553,234,708,263"/>
+<area shape="rect" id="node36" href="$namespacephenology__driv.html#ac6132bf0f6e18f2a2dbcda5f93af5851" title="phenology_driv::assign_prescribed_phen" alt="" coords="503,22,759,51"/>
+<area shape="rect" id="node40" href="$namespaceallometry.html#a848f49fb23a5ddc2901237f3e05486e8" title="allometry::dbh2ca" alt="" coords="253,335,379,365"/>
+<area shape="rect" id="node43" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="264,231,368,261"/>
+<area shape="rect" id="node45" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="fuse_fiss_utils::fuse_cohorts" alt="" coords="536,445,725,474"/>
+<area shape="rect" id="node53" href="$namespacegrowth__balive.html#a4a738e1e648a3932ae0beb2400c9bf78" title="Calculates plant&#45;internal C transfers for growth and maintainance." alt="" coords="541,179,720,209"/>
+<area shape="rect" id="node56" href="$namespacephenology__aux.html#ac99e8cfcfd964b2feceda6835f18a4e2" title="phenology_aux::pheninit_balive_bstorage" alt="" coords="187,389,445,418"/>
+<area shape="rect" id="node68" href="$namespacegrowth__balive.html#acf79474af61cf55cda65a317af916dc8" title="growth_balive::potential_N_uptake" alt="" coords="205,74,427,103"/>
+<area shape="rect" id="node72" href="$namespacefuse__fiss__utils.html#ab3b0eeed8a63cc2f4b866ac243e25ec6" title="fuse_fiss_utils::rescale_patches" alt="" coords="212,493,420,522"/>
+<area shape="rect" id="node5" href="$namespacegrowth__balive.html#a15cba39e9b70b8dd6a1e2d0cbdd5cc2e" title="growth_balive::dbalive_dt_eq_0" alt="" coords="529,126,732,155"/>
+<area shape="rect" id="node9" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass." alt="" coords="853,129,1021,158"/>
+<area shape="rect" id="node13" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="885,182,989,211"/>
+<area shape="rect" id="node18" href="$namespacephenology__aux.html#ac9c11ddf83cd16439262bc9c7c72bf2e" title="phenology_aux::first_phenology" alt="" coords="835,289,1040,318"/>
+<area shape="rect" id="node20" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::prune_lianas" alt="" coords="837,235,1037,265"/>
+<area shape="rect" id="node25" href="$namespacephenology__driv.html#a1b08d4597d08eba521c381a2b33147b5" title="phenology_driv::update_phenology" alt="" coords="827,75,1048,105"/>
+<area shape="rect" id="node30" href="$namespacephenology__driv.html#a3345cbd923a6af990fe1037ff4fc33e4" title="phenology_driv::update_phenology_eq_0" alt="" coords="809,22,1065,51"/>
+<area shape="rect" id="node11" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1432,367,1576,397"/>
+<area shape="rect" id="node15" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="1180,341,1300,370"/>
+<area shape="rect" id="node22" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="1120,394,1360,423"/>
+<area shape="rect" id="node27" href="$namespacephenology__driv.html#aa94bafee9e386ab4060a515ce8187ba9" title="phenology_driv::phenology_driver" alt="" coords="1133,115,1347,145"/>
+<area shape="rect" id="node32" href="$namespacephenology__driv.html#ad9990edb604600188e59eb7292caa613" title="phenology_driv::phenology_driver_eq_0" alt="" coords="1115,22,1365,51"/>
+<area shape="rect" id="node34" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="1415,22,1593,51"/>
+<area shape="rect" id="node48" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="835,497,1040,526"/>
+<area shape="rect" id="node50" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="1144,459,1336,489"/>
+<area shape="rect" id="node59" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::plant_patch" alt="" coords="533,389,728,418"/>
+<area shape="rect" id="node65" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module::reproduction" alt="" coords="1129,537,1351,566"/>
+<area shape="rect" id="node62" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="884,342,991,371"/>
+</map>

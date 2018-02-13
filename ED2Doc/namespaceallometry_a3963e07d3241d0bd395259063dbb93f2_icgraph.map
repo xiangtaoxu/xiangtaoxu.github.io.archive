@@ -1,0 +1,38 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceallometry.html#aee8a4b0260e2b8cc573e54c993abf3a4" title="allometry::dbh2krdepth" alt="" coords="296,216,451,245"/>
+<area shape="rect" id="node44" href="$namespacecanopy__struct__dynamics.html#ada33113f2dc56fb4576d2a52d2a573b0" title="canopy_struct_dynamics::wood_aerodynamic_conductances" alt="" coords="187,321,560,351"/>
+<area shape="rect" id="node48" href="$namespacecanopy__struct__dynamics.html#a0c4e4737235809c386a5b5cab02086f1" title="canopy_struct_dynamics::wood_aerodynamic_conductances8" alt="" coords="183,401,564,431"/>
+<area shape="rect" id="node5" href="$namespacefuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="fuse_fiss_utils::fuse_2_cohorts" alt="" coords="657,84,860,113"/>
+<area shape="rect" id="node18" href="$ed__type__init_8f90.html#af7c8e0a520dfca016f7eb7cf1c08b6ca" title="init_ed_cohort_vars" alt="" coords="692,216,825,245"/>
+<area shape="rect" id="node7" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="fuse_fiss_utils::fuse_cohorts" alt="" coords="995,5,1184,35"/>
+<area shape="rect" id="node9" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="1275,59,1515,88"/>
+<area shape="rect" id="node13" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="1292,5,1497,35"/>
+<area shape="rect" id="node11" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1871,85,2015,115"/>
+<area shape="rect" id="node15" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="1577,7,1769,36"/>
+<area shape="rect" id="node20" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="1037,216,1141,245"/>
+<area shape="rect" id="node22" href="$namespaceed__nbg__init.html#ad7022181b12aec0f7e45270a2877dd49" title="ed_nbg_init::init_cohorts_by_layers" alt="" coords="976,269,1203,299"/>
+<area shape="rect" id="node26" href="$namespaceed__nbg__init.html#afbe4e1b96c81d4643f2b9e97fb7d2dd8" title="ed_nbg_init::init_nbg_cohorts" alt="" coords="995,323,1184,352"/>
+<area shape="rect" id="node29" href="$namespaceed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare_ground_big_leaf_init" alt="" coords="952,376,1227,405"/>
+<area shape="rect" id="node31" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::plant_patch" alt="" coords="992,59,1187,88"/>
+<area shape="rect" id="node39" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="996,112,1183,141"/>
+<area shape="rect" id="node41" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module::reproduction" alt="" coords="1563,164,1784,193"/>
+<area shape="rect" id="node24" href="$namespaceed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare_ground_init" alt="" coords="1284,296,1505,325"/>
+<area shape="rect" id="node34" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="1341,112,1448,141"/>
+<area shape="rect" id="node36" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="1613,111,1733,140"/>
+<area shape="rect" id="node46" href="$namespacecanopy__struct__dynamics.html#ac7eef4d24c3e07ccb461d418e32d466e" title="canopy_struct_dynamics::canopy_turbulence" alt="" coords="617,321,900,351"/>
+<area shape="rect" id="node50" href="$namespacecanopy__struct__dynamics.html#ab65e289b4069536fa3342bc3034db824" title="canopy_struct_dynamics::canopy_turbulence8" alt="" coords="613,428,904,457"/>
+<area shape="rect" id="node52" href="$namespacerk4__misc.html#aa79df20c0e21c9a3cf1e123e1db02b87" title="rk4_misc::copy_patch_init" alt="" coords="1308,401,1481,431"/>
+<area shape="rect" id="node60" href="$namespacerk4__misc.html#a71e0657b3f067044fe73885aff7e3bdb" title="rk4_misc::update_diagnostic_vars" alt="" coords="980,588,1199,617"/>
+<area shape="rect" id="node54" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler_timestep" alt="" coords="1852,456,2033,485"/>
+<area shape="rect" id="node56" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="2103,444,2284,473"/>
+<area shape="rect" id="node58" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid_timestep" alt="" coords="1576,455,1771,484"/>
+<area shape="rect" id="node62" href="$namespaceeuler__driver.html#a7a9fa033c71fdc8278bcaeb603f004d4" title="euler_driver::euler_integ" alt="" coords="1315,508,1475,537"/>
+<area shape="rect" id="node67" href="$namespaceheun__driver.html#a20432ede6f46072e62ed54efd0577d75" title="heun_driver::heun_integ" alt="" coords="1593,561,1753,591"/>
+<area shape="rect" id="node72" href="$namespaceheun__driver.html#a544f03d6f5fea4a41376ea486944a9a3" title="heun_driver::heun_stepper" alt="" coords="1308,561,1481,591"/>
+<area shape="rect" id="node75" href="$namespacehybrid__driver.html#a52e666b2508f9044046242011e0945b1" title="hybrid_driver::hybrid_integ" alt="" coords="1308,455,1481,484"/>
+<area shape="rect" id="node78" href="$namespacerk4__integ__utils.html#a0b55d5d39c3cbc6daf331aeb11f91695" title="rk4_integ_utils::odeint" alt="" coords="1868,741,2017,771"/>
+<area shape="rect" id="node80" href="$namespacerk4__integ__utils.html#a35bf6059115f1790f9a0ab993a6b4306" title="rk4_integ_utils::rkck" alt="" coords="1325,716,1464,745"/>
+<area shape="rect" id="node82" href="$namespacerk4__integ__utils.html#aef9b7042f99cf48874aa33a2fddda236" title="rk4_integ_utils::rkqs" alt="" coords="1604,716,1743,745"/>
+<area shape="rect" id="node64" href="$namespaceeuler__driver.html#ad81ae9c94d4d79e17d02be872e799cbb" title="euler_driver::integrate_patch_euler" alt="" coords="1563,508,1784,537"/>
+<area shape="rect" id="node69" href="$namespaceheun__driver.html#a5a10a1f76045acf99d8d30a8ae7b3257" title="heun_driver::integrate_patch_heun" alt="" coords="1832,536,2053,565"/>
+</map>

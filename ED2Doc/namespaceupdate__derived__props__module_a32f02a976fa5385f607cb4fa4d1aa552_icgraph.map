@@ -1,0 +1,14 @@
+<map id="update_derived_props_module::update_cohort_extensive_props" name="update_derived_props_module::update_cohort_extensive_props">
+<area shape="rect" id="node3" href="$namespacedisturbance__utils.html#ac25d6a408136dff3bccca56269ca858f" title="disturbance_utils::\linsert_survivors" alt="" coords="231,5,359,51"/>
+<area shape="rect" id="node18" href="$namespacefuse__fiss__utils.html#ab3b0eeed8a63cc2f4b866ac243e25ec6" title="This subroutine will rescale the area of the patches. This is almost the same as the terminate_patche..." alt="" coords="217,194,372,241"/>
+<area shape="rect" id="node20" href="$namespacefuse__fiss__utils.html#aba30221565235a7c9cdeadb079d324c5" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="225,125,364,171"/>
+<area shape="rect" id="node22" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="421,74,560,121"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="611,5,744,51"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="813,13,957,43"/>
+<area shape="rect" id="node15" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="796,67,975,96"/>
+<area shape="rect" id="node9" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1031,65,1108,95"/>
+<area shape="rect" id="node11" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1163,92,1237,121"/>
+<area shape="rect" id="node13" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1285,92,1336,121"/>
+<area shape="rect" id="node24" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="608,74,747,121"/>
+<area shape="rect" id="node26" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="1025,119,1113,148"/>
+</map>

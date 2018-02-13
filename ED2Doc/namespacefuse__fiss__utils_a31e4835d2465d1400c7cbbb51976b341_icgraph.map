@@ -1,0 +1,33 @@
+<map id="fuse_fiss_utils::sort_cohorts" name="fuse_fiss_utils::sort_cohorts">
+<area shape="rect" id="node3" href="$namespacedisturbance__utils.html#ac78f23ae05ca7cd196ebeeda52e66507" title="disturbance_utils::\lplant_patch" alt="" coords="209,406,337,452"/>
+<area shape="rect" id="node23" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::\lprune_lianas" alt="" coords="209,286,337,332"/>
+<area shape="rect" id="node26" href="$ed__bigleaf__init_8f90.html#a1e7ca0536a5eed8f8eaee3c6271bcbde" title="ed_bigleaf_init" alt="" coords="447,830,551,860"/>
+<area shape="rect" id="node31" href="$namespaceed__nbg__init.html#afbe4e1b96c81d4643f2b9e97fb7d2dd8" title="ed_nbg_init::init_nbg\l_cohorts" alt="" coords="203,876,344,923"/>
+<area shape="rect" id="node36" href="$namespaceed__nbg__init.html#ad7022181b12aec0f7e45270a2877dd49" title="ed_nbg_init::init_cohorts\l_by_layers" alt="" coords="192,802,355,848"/>
+<area shape="rect" id="node39" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="405,777,592,806"/>
+<area shape="rect" id="node42" href="$namespacefuse__fiss__utils.html#a5dc8f0ad95ff159ac69570ac55856524" title="This subroutine will eliminate cohorts based on their sizes. This is intended to eliminate cohorts th..." alt="" coords="189,555,357,602"/>
+<area shape="rect" id="node59" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="This subroutine will merge two patches into 1. " alt="" coords="429,46,568,92"/>
+<area shape="rect" id="node68" href="$namespacefuse__fiss__utils.html#ad53341751380c44b17d1e7ec0a5ae824" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="204,216,343,263"/>
+<area shape="rect" id="node72" href="$namespacefuse__fiss__utils.html#aba30221565235a7c9cdeadb079d324c5" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="204,46,343,92"/>
+<area shape="rect" id="node76" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass. " alt="" coords="641,192,809,221"/>
+<area shape="rect" id="node80" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="655,346,796,392"/>
+<area shape="rect" id="node83" href="$namespacereproduction__module.html#a6f519f25524698c2d30d646abbac9727" title="reproduction_module\l::reproduction_eq_0" alt="" coords="655,122,796,168"/>
+<area shape="rect" id="node86" href="$namespacestructural__growth__module.html#aa974ce442fda8686fd4d88a42b0f150c" title="structural_growth_module\l::structural_growth" alt="" coords="640,427,811,474"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="432,286,565,332"/>
+<area shape="rect" id="node18" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="445,406,552,436"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="877,294,1021,324"/>
+<area shape="rect" id="node15" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="860,192,1039,221"/>
+<area shape="rect" id="node9" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1095,294,1172,324"/>
+<area shape="rect" id="node11" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1227,294,1301,324"/>
+<area shape="rect" id="node13" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1349,294,1400,324"/>
+<area shape="rect" id="node20" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="665,504,785,533"/>
+<area shape="rect" id="node28" href="$namespaceed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="644,715,807,762"/>
+<area shape="rect" id="node33" href="$namespaceed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare\l_ground_init" alt="" coords="423,883,575,930"/>
+<area shape="rect" id="node44" href="$ed__read__ed21__history_8_f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="423,724,575,753"/>
+<area shape="rect" id="node47" href="$ed__read__ed21__history_8_f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="408,617,589,646"/>
+<area shape="rect" id="node50" href="$ed__read__ed21__history_8_f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="427,670,571,700"/>
+<area shape="rect" id="node53" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="447,510,551,540"/>
+<area shape="rect" id="node56" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="461,564,536,593"/>
+<area shape="rect" id="node61" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="656,52,795,99"/>
+<area shape="rect" id="node63" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="1089,172,1177,201"/>
+</map>

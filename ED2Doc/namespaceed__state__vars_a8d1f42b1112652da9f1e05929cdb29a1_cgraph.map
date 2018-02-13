@@ -1,0 +1,8 @@
+<map id="ed_state_vars::copy_patchtype_mask" name="ed_state_vars::copy_patchtype_mask">
+<area shape="rect" id="node3" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="243,5,323,35"/>
+<area shape="rect" id="node5" href="$namespaceed__state__vars.html#a33fc63e73e6503b7c1dd90af0d954c8f" title="Copies the cohort&#45;level variables that are not fmean, dmean, mmean, mmsqu, qmean, and qmsqu..." alt="" coords="207,58,359,105"/>
+<area shape="rect" id="node7" href="$namespaceed__state__vars.html#a2db3f30821599bfbbc83fb91bd0b00b5" title="Copies the cohort&#45;level variables that are fmean. " alt="" coords="199,127,367,174"/>
+<area shape="rect" id="node9" href="$namespaceed__state__vars.html#a411d90a5fd9b3a25fdb7d149637db7e2" title="Copies the cohort&#45;level variables that are dmean. " alt="" coords="197,197,368,243"/>
+<area shape="rect" id="node11" href="$namespaceed__state__vars.html#a2be9e087d841d6e931fa8fb6648a2a56" title="Copies the cohort&#45;level variables that are mmean or mmsqu. " alt="" coords="196,266,369,313"/>
+<area shape="rect" id="node13" href="$namespaceed__state__vars.html#aa8cec33a472499c3e80bc1a281c9eba0" title="Copies the cohort&#45;level variables that are qmean or qmsqu. " alt="" coords="197,335,368,382"/>
+</map>

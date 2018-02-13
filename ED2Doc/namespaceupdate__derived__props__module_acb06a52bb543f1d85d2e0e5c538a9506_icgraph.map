@@ -1,0 +1,16 @@
+<map id="update_derived_props_module::update_site_derived_props" name="update_derived_props_module::update_site_derived_props">
+<area shape="rect" id="node3" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::\lapply_disturbances" alt="" coords="395,229,528,276"/>
+<area shape="rect" id="node16" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="844,75,932,105"/>
+<area shape="rect" id="node19" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="204,251,308,281"/>
+<area shape="rect" id="node24" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="203,91,309,121"/>
+<area shape="rect" id="node27" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="205,145,307,174"/>
+<area shape="rect" id="node30" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="219,198,293,227"/>
+<area shape="rect" id="node33" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module\l::reproduction" alt="" coords="391,63,532,109"/>
+<area shape="rect" id="node36" href="$namespaceupdate__derived__props__module.html#a661a2afd35ef64573ff9be7d88ef2d02" title="update_derived_props\l_module::update_derived_props" alt="" coords="359,335,564,381"/>
+<area shape="rect" id="node5" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="632,181,776,210"/>
+<area shape="rect" id="node13" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="615,237,793,266"/>
+<area shape="rect" id="node7" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="849,237,927,266"/>
+<area shape="rect" id="node9" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="981,237,1056,266"/>
+<area shape="rect" id="node11" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1104,237,1155,266"/>
+<area shape="rect" id="node21" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="401,177,521,206"/>
+</map>

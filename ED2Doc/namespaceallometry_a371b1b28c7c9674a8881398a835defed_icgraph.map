@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="744,5,848,35"/>
+<area shape="rect" id="node9" href="$namespaceupdate__derived__props__module.html#afb0be8a22ce7ffce3fa96d10c2ee6408" title="update_derived_props_module::update_patch_derived_props" alt="" coords="209,321,580,351"/>
+<area shape="rect" id="node46" href="$namespacestructural__growth__module.html#a3151ee54c9ed9371b92d560206c56596" title="structural_growth_module::update_vital_rates" alt="" coords="252,689,537,719"/>
+<area shape="rect" id="node5" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="1091,112,1211,141"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1340,347,1484,376"/>
+<area shape="rect" id="node11" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="1031,267,1271,296"/>
+<area shape="rect" id="node14" href="$namespacegrowth__balive.html#a7781ae229b2399c90d50858382665ee8" title="Updates living biomass." alt="" coords="1067,320,1235,349"/>
+<area shape="rect" id="node17" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler_timestep" alt="" coords="705,477,887,507"/>
+<area shape="rect" id="node19" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="745,59,847,88"/>
+<area shape="rect" id="node23" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="743,112,849,141"/>
+<area shape="rect" id="node26" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="759,165,833,195"/>
+<area shape="rect" id="node29" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="693,373,899,403"/>
+<area shape="rect" id="node34" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="705,531,887,560"/>
+<area shape="rect" id="node36" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid_timestep" alt="" coords="699,584,893,613"/>
+<area shape="rect" id="node38" href="$namespacedisturbance__utils.html#adea8e04f93328f6e7137a5c490d0615a" title="disturbance_utils::prune_lianas" alt="" coords="696,269,896,299"/>
+<area shape="rect" id="node41" href="$namespacereproduction__module.html#ac201580dce4b65ddfe09b9e9cf32b91b" title="reproduction_module::reproduction" alt="" coords="1040,427,1261,456"/>
+<area shape="rect" id="node44" href="$namespaceupdate__derived__props__module.html#a661a2afd35ef64573ff9be7d88ef2d02" title="update_derived_props_module::update_derived_props" alt="" coords="629,637,963,667"/>
+<area shape="rect" id="node31" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="1055,373,1247,403"/>
+<area shape="rect" id="node48" href="$namespacestructural__growth__module.html#aa974ce442fda8686fd4d88a42b0f150c" title="structural_growth_module::structural_growth" alt="" coords="1012,584,1289,613"/>
+<area shape="rect" id="node51" href="$namespacestructural__growth__module.html#a931a1572c1755fe55035e52a1f902776" title="structural_growth_module::structural_growth_eq_0" alt="" coords="639,741,953,771"/>
+<area shape="rect" id="node53" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="1061,741,1240,771"/>
+</map>

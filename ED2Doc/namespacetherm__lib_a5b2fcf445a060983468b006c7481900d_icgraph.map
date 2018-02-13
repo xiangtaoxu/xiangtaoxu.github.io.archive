@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespaceupdate__derived__props__module.html#a9ba5c6db0a367e14898de5f053d7cea6" title="update_derived_props_module::update_patch_thermo_fmean" alt="" coords="207,32,580,61"/>
+<area shape="rect" id="node9" href="$namespaceupdate__derived__props__module.html#a304000a1024ed8b1bb99a278f951cd59" title="update_derived_props_module::update_patch_thermo_props" alt="" coords="208,112,579,141"/>
+<area shape="rect" id="node5" href="$namespacedisturbance__utils.html#a29d6db4e94463404643e5c3666c67767" title="disturbance_utils::apply_disturbances" alt="" coords="629,5,869,35"/>
+<area shape="rect" id="node7" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance." alt="" coords="1159,112,1303,141"/>
+<area shape="rect" id="node12" href="$namespaceeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler_timestep" alt="" coords="659,59,840,88"/>
+<area shape="rect" id="node14" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="696,112,803,141"/>
+<area shape="rect" id="node19" href="$namespacefuse__fiss__utils.html#ad3a8f1f374137c79a74aed4b42bca8a9" title="fuse_fiss_utils::fuse_2_patches" alt="" coords="647,165,852,195"/>
+<area shape="rect" id="node24" href="$namespaceheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="659,219,840,248"/>
+<area shape="rect" id="node26" href="$namespacehybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid_timestep" alt="" coords="652,272,847,301"/>
+<area shape="rect" id="node16" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="953,112,1073,141"/>
+<area shape="rect" id="node21" href="$namespacefuse__fiss__utils.html#aee30640ff825246fb4c9f5f1f41470be" title="fuse_fiss_utils::fuse_patches" alt="" coords="917,165,1109,195"/>
+</map>

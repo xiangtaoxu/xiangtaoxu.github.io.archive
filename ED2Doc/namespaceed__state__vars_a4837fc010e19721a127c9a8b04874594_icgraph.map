@@ -1,0 +1,13 @@
+<map id="ed_state_vars::allocate_patchtype" name="ed_state_vars::allocate_patchtype">
+<area shape="rect" id="node3" href="$namespaceed__state__vars.html#a3bf78091394d79aec34dd97e18ff16db" title="Copies a continuous chunk of patches from one place to another. " alt="" coords="212,5,351,51"/>
+<area shape="rect" id="node5" href="$namespaceed__state__vars.html#abd0a1c636db86530367e9d24e386ec22" title="Copies part of one site from one place to another (only the ones where mask is .true.) " alt="" coords="212,74,351,121"/>
+<area shape="rect" id="node7" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="229,144,333,173"/>
+<area shape="rect" id="node19" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="228,197,335,227"/>
+<area shape="rect" id="node22" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="231,251,332,280"/>
+<area shape="rect" id="node25" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="244,304,319,333"/>
+<area shape="rect" id="node9" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="401,224,521,253"/>
+<area shape="rect" id="node11" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="572,224,716,253"/>
+<area shape="rect" id="node13" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="767,224,844,253"/>
+<area shape="rect" id="node15" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="893,224,968,253"/>
+<area shape="rect" id="node17" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1016,224,1067,253"/>
+</map>
