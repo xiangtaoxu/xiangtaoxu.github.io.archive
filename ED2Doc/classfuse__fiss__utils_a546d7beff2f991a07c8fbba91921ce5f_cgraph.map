@@ -1,0 +1,11 @@
+<map id="fuse_fiss_utils::sort_patches" name="fuse_fiss_utils::sort_patches">
+<area shape="rect" id="node2" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="196,63,353,105"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#a3bf78091394d79aec34dd97e18ff16db" title="Copies a continuous chunk of patches from one place to another. " alt="" coords="205,173,345,214"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="189,270,360,311"/>
+<area shape="rect" id="node3" href="$classed__state__vars.html#aa13b6faa5a0031bd5df50581ac0db0ff" title="Nullifies all patch pointers. " alt="" coords="420,5,567,46"/>
+<area shape="rect" id="node4" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="660,121,740,148"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="415,238,572,279"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="423,173,563,214"/>
+<area shape="rect" id="node7" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="627,238,773,279"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="408,303,579,345"/>
+</map>

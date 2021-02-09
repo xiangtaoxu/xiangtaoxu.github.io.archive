@@ -1,0 +1,10 @@
+<map id="canopy_radiation_coms::nullify_radscratch" name="canopy_radiation_coms::nullify_radscratch">
+<area shape="rect" id="node2" href="$classcanopy__radiation__coms.html#abf436863eec6f51fbcad29f1a0ad8833" title="canopy_radiation_coms\l::alloc_radscratch" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classrk4__integ__utils.html#a4bfa1d47da43801294297d415bbef021" title="rk4_integ_utils::initialize\l_rk4patches" alt="" coords="422,34,583,75"/>
+<area shape="rect" id="node4" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1161,41,1239,68"/>
+<area shape="rect" id="node7" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="632,67,739,93"/>
+<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1288,41,1363,68"/>
+<area shape="rect" id="node6" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1411,41,1461,68"/>
+<area shape="rect" id="node8" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="787,69,909,96"/>
+<area shape="rect" id="node9" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="958,63,1111,105"/>
+</map>

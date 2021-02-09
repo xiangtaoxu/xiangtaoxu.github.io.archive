@@ -1,0 +1,17 @@
+<map id="ed_state_vars::copy_sitetype" name="ed_state_vars::copy_sitetype">
+<area shape="rect" id="node2" href="$classdisturbance.html#a033dedd1b8c920bd36b6fd04911c4e94" title="disturbance::apply\l_disturbances" alt="" coords="416,71,544,113"/>
+<area shape="rect" id="node7" href="$classforestry.html#a9b3256e9e2c491253767fefaa9e1f87b" title="forestry::find_lambda\l_harvest" alt="" coords="195,5,339,46"/>
+<area shape="rect" id="node8" href="$classfuse__fiss__utils.html#a546d7beff2f991a07c8fbba91921ce5f" title="fuse_fiss_utils::sort\l_patches" alt="" coords="199,341,335,382"/>
+<area shape="rect" id="node12" href="$classfuse__fiss__utils.html#ab15ffcdcb79ee2bcb69f5a9954ca14ea" title="fuse_fiss_utils::new\l_fuse_patches" alt="" coords="411,147,549,189"/>
+<area shape="rect" id="node14" href="$classfuse__fiss__utils.html#a6776a45b5a81e01186fbac86854c6741" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="415,213,545,254"/>
+<area shape="rect" id="node15" href="$classfuse__fiss__utils.html#a9d06bb3b18a9c6bf45b3cc30b01cb4be" title="This subroutine will merge two patches into 1. " alt="" coords="197,122,336,163"/>
+<area shape="rect" id="node16" href="$classhrzshade__utils.html#ab6a570211a39b7be09b3603653e19296" title="hrzshade_utils::split\l_hrzshade" alt="" coords="411,278,549,319"/>
+<area shape="rect" id="node3" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="626,183,779,225"/>
+<area shape="rect" id="node4" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="833,195,911,221"/>
+<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="960,249,1035,276"/>
+<area shape="rect" id="node6" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1083,249,1133,276"/>
+<area shape="rect" id="node9" href="$classed__bigleaf__init.html#a45c8aa14d759e66b8b9f2bbe5f240005" title="ed_bigleaf_init::sas\l_to_bigleaf" alt="" coords="413,343,547,385"/>
+<area shape="rect" id="node11" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="387,409,573,436"/>
+<area shape="rect" id="node10" href="$classed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="621,343,784,385"/>
+<area shape="rect" id="node13" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="658,249,747,276"/>
+</map>

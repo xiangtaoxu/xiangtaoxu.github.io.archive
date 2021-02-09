@@ -1,3 +1,5 @@
 <map id="date_2_seconds" name="date_2_seconds">
-<area shape="rect" id="node3" href="$dateutils_8f90.html#a56423cc8c95e08c48faaadf0ae9a2100" title="date_abs_secs2" alt="" coords="171,5,288,35"/>
+<area shape="rect" id="node2" href="$dateutils_8f90.html#a56423cc8c95e08c48faaadf0ae9a2100" title="date_abs_secs2" alt="" coords="171,5,288,32"/>
+<area shape="rect" id="node3" href="$dateutils_8f90.html#acbfdb1c78beb593447108203011b380c" title="isleap" alt="" coords="440,5,496,32"/>
+<area shape="rect" id="node4" href="$dateutils_8f90.html#ab4306c1f20ef02cf582fb1050fa0c5d9" title="julday" alt="" coords="336,31,392,57"/>
 </map>

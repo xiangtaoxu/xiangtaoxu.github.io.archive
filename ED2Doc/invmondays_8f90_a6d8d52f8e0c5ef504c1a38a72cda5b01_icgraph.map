@@ -1,9 +1,10 @@
 <map id="lastmonthdate" name="lastmonthdate">
-<area shape="rect" id="node3" href="$fire_8f90.html#aea4e862c5ebe7ca6ea0fb7003325d1c0" title="fire_frequency" alt="" coords="195,5,299,35"/>
-<area shape="rect" id="node16" href="$namespaceupdate__derived__props__module.html#a3500a21831fa2e83c3554428646d3694" title="update_derived_props\l_module::update_workload" alt="" coords="159,58,335,105"/>
-<area shape="rect" id="node5" href="$vegetation__dynamics_8f90.html#ab9ef01736ecab74cd0da4df6c2b63c0f" title="Handles vegetation growth, phenology, reproduction, and disturbance. " alt="" coords="403,9,547,39"/>
-<area shape="rect" id="node13" href="$vegetation__dynamics_8f90.html#a275be9a740f6c74b8bf5e0a499cb6c49" title="vegetation_dynamics_eq_0" alt="" coords="385,63,564,92"/>
-<area shape="rect" id="node7" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="615,36,692,65"/>
-<area shape="rect" id="node9" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="741,36,816,65"/>
-<area shape="rect" id="node11" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="864,36,915,65"/>
+<area shape="rect" id="node2" href="$classfire.html#a09d00440af65a1c3304f32c0cfa5f4b5" title="This subroutine will evaluate whether fire conditions exist, and if that is the case, it will calculate the disturbance rate due to fire. " alt="" coords="385,5,516,32"/>
+<area shape="rect" id="node7" href="$classplant__hydro.html#aee5e9b3f26944e3c39aa053c891d534c" title="update percentage loss of xylem conductance using daily minimum leaf psi " alt="" coords="157,56,317,83"/>
+<area shape="rect" id="node9" href="$classupdate__derived__utils.html#af3ed728851f0b48e17fc44690af242ef" title="update_derived_utils\l::update_workload" alt="" coords="167,107,308,149"/>
+<area shape="rect" id="node3" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="585,49,738,90"/>
+<area shape="rect" id="node4" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="787,56,866,83"/>
+<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="915,56,989,83"/>
+<area shape="rect" id="node6" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1037,56,1088,83"/>
+<area shape="rect" id="node8" href="$classgrowth__balive.html#a2711ed86cca4027a15a5a8de2bc9873a" title="Updates living biomass. " alt="" coords="366,56,535,83"/>
 </map>

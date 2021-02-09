@@ -1,0 +1,12 @@
+<map id="phenology_aux::pheninit_balive_bstorage" name="phenology_aux::pheninit_balive_bstorage">
+<area shape="rect" id="node2" href="$classdisturbance.html#ab9582ce139b127edbddc824c2d9f1df3" title="disturbance::plant\l_patch" alt="" coords="240,93,365,134"/>
+<area shape="rect" id="node10" href="$classphenology__aux.html#ac9c11ddf83cd16439262bc9c7c72bf2e" title="phenology_aux::first\l_phenology" alt="" coords="437,167,576,209"/>
+<area shape="rect" id="node11" href="$classreproduction.html#ad090bf9d44a1ad3c3a31ab425e2bfa1f" title="reproduction::reproduction\l_driver" alt="" coords="217,6,389,47"/>
+<area shape="rect" id="node3" href="$classdisturbance.html#a033dedd1b8c920bd36b6fd04911c4e94" title="disturbance::apply\l_disturbances" alt="" coords="624,58,752,99"/>
+<area shape="rect" id="node8" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="453,116,560,143"/>
+<area shape="rect" id="node4" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="801,83,954,125"/>
+<area shape="rect" id="node5" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1003,108,1082,135"/>
+<area shape="rect" id="node6" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1131,141,1205,168"/>
+<area shape="rect" id="node7" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1253,141,1304,168"/>
+<area shape="rect" id="node9" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="627,124,749,151"/>
+</map>

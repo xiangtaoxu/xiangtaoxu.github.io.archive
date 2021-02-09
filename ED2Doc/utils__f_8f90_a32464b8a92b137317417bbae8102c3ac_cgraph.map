@@ -1,4 +1,4 @@
 <map id="cputime" name="cputime">
-<area shape="rect" id="node3" href="$rsys_8_f90.html#a41ecaae8b0c09305c1db8113d3ab07b7" title="timing" alt="" coords="131,5,187,35"/>
-<area shape="rect" id="node5" href="$utils__f_8f90.html#ad3ffdbdf7c50b9d7de84489e2e30eec5" title="walltime" alt="" coords="124,59,193,88"/>
+<area shape="rect" id="node2" href="$rsys_8_f90.html#a41ecaae8b0c09305c1db8113d3ab07b7" title="timing" alt="" coords="130,5,187,32"/>
+<area shape="rect" id="node3" href="$utils__f_8f90.html#ad3ffdbdf7c50b9d7de84489e2e30eec5" title="walltime" alt="" coords="123,56,194,83"/>
 </map>

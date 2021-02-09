@@ -1,0 +1,13 @@
+<map id="ed_load_work_from_history" name="ed_load_work_from_history">
+<area shape="rect" id="node2" href="$classed__work__vars.html#a5df6efe6c5b192d365161ad999858f25" title="ed_work_vars::ed_alloc\l_work_vec" alt="" coords="239,5,398,46"/>
+<area shape="rect" id="node3" href="$classed__work__vars.html#a328d5a0e766e58bd6e2b015fa91ad8db" title="ed_work_vars::ed_nullify\l_work_vec" alt="" coords="235,70,402,111"/>
+<area shape="rect" id="node4" href="$classed__init__history.html#a1b9d6cc3c6107d401da7ef1b39e5b660" title="ed_init_history::hdf\l_getslab_r" alt="" coords="253,135,385,177"/>
+<area shape="rect" id="node6" href="$utils__f_8f90.html#a8918adb41c1a9ae40d85373da53742db" title="makefnam" alt="" coords="277,252,360,279"/>
+<area shape="rect" id="node5" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="457,172,537,199"/>
+<area shape="rect" id="node12" href="$great__circle_8f90.html#abff00715b3227e38afe4c1a67416e4d2" title="dist_gc" alt="" coords="287,303,351,329"/>
+<area shape="rect" id="node7" href="$dateutils_8f90.html#a14143487767c309bad9fe0bef4365fda" title="date_add_to" alt="" coords="451,252,544,279"/>
+<area shape="rect" id="node8" href="$dateutils_8f90.html#a56423cc8c95e08c48faaadf0ae9a2100" title="date_abs_secs2" alt="" coords="592,227,709,253"/>
+<area shape="rect" id="node11" href="$dateutils_8f90.html#abd0aaee09a0949cfef32003dae34f41d" title="date_secs_ymdt" alt="" coords="758,277,877,304"/>
+<area shape="rect" id="node9" href="$dateutils_8f90.html#acbfdb1c78beb593447108203011b380c" title="isleap" alt="" coords="925,227,981,253"/>
+<area shape="rect" id="node10" href="$dateutils_8f90.html#ab4306c1f20ef02cf582fb1050fa0c5d9" title="julday" alt="" coords="789,227,845,253"/>
+</map>

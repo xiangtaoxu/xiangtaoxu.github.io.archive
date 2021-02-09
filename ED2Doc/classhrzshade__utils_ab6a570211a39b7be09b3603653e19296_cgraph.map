@@ -1,0 +1,33 @@
+<map id="hrzshade_utils::split_hrzshade" name="hrzshade_utils::split_hrzshade">
+<area shape="rect" id="node2" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="199,733,356,774"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="192,135,363,177"/>
+<area shape="rect" id="node7" href="$classed__state__vars.html#abd0a1c636db86530367e9d24e386ec22" title="Copies part of one site from one place to another (only the ones where mask is .true.) " alt="" coords="207,331,347,373"/>
+<area shape="rect" id="node16" href="$classed__state__vars.html#a3bf78091394d79aec34dd97e18ff16db" title="Copies a continuous chunk of patches from one place to another. " alt="" coords="207,514,347,555"/>
+<area shape="rect" id="node17" href="$classallometry.html#aed6e96368f347aaebe3a7c16fe32289f" title="allometry::size2ca" alt="" coords="213,1103,341,1129"/>
+<area shape="rect" id="node20" href="$classallometry.html#a88949ed487fccc2f1dfd065399043b0d" title="allometry::h2crownbh" alt="" coords="204,681,351,708"/>
+<area shape="rect" id="node21" href="$classrandom__utils.html#a748b2159e94b5cfc0b3ed38fa70cf5a6" title="random_utils::fsample" alt="" coords="421,681,571,708"/>
+<area shape="rect" id="node22" href="$classrandom__utils.html#af1a9830664b10481a69133f559eb86f3" title="random_utils::isample" alt="" coords="421,631,571,657"/>
+<area shape="rect" id="node23" href="$classrandom__utils.html#a78c5087165e2e97c15f0102547d58340" title="random_utils::runif" alt="" coords="213,849,342,876"/>
+<area shape="rect" id="node24" href="$classrandom__utils.html#a1c6ad0925303e3ba16c7d4583138c19e" title="random_utils::runif_sca" alt="" coords="199,900,356,927"/>
+<area shape="rect" id="node25" href="$classrandom__utils.html#a459dd57414576f1e91eb5d8bab96280a" title="random_utils::ipickone" alt="" coords="201,951,353,977"/>
+<area shape="rect" id="node26" href="$classrandom__utils.html#a7fd44a494eb2c05ae8cedff7ca3d23c5" title="random_utils::fpickone" alt="" coords="201,1001,354,1028"/>
+<area shape="rect" id="node27" href="$classhrzshade__utils.html#aba281edfb78bbbdb55de2013901358dd" title="hrzshade_utils::cci\l_lieberman" alt="" coords="212,1154,343,1195"/>
+<area shape="rect" id="node29" href="$classhrzshade__utils.html#a2ba77112b917de2ef593e9ca3fbb8f1f" title="hrzshade_utils::cci\l_abstop" alt="" coords="212,1219,343,1261"/>
+<area shape="rect" id="node30" href="$numutils_8f90.html#a0da5adf37bc25d16d7fe0cd4a8128899" title="fquant_mask" alt="" coords="229,799,326,825"/>
+<area shape="rect" id="node31" href="$numutils_8f90.html#a144d7adc0be56426f9ebc014d94ac2b9" title="fquant" alt="" coords="467,849,525,876"/>
+<area shape="rect" id="node3" href="$classed__state__vars.html#aa13b6faa5a0031bd5df50581ac0db0ff" title="Nullifies all patch pointers. " alt="" coords="423,733,569,774"/>
+<area shape="rect" id="node4" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="663,631,743,657"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="411,5,581,46"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="417,397,575,438"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="426,514,566,555"/>
+<area shape="rect" id="node11" href="$classed__state__vars.html#abef71303542156f0c150c4568b4828aa" title="Copies the variables that are not fmean, dmean, mmean, mmsqu, qmean, and qmsqu. " alt="" coords="425,70,567,111"/>
+<area shape="rect" id="node12" href="$classed__state__vars.html#a6f38243f52095e9ee7da38e2b2ce81ab" title="Copies the variables that are fmean. " alt="" coords="417,135,575,177"/>
+<area shape="rect" id="node13" href="$classed__state__vars.html#ac319365c7defa57422526b06b56bd61c" title="Copies the variables that are dmean. " alt="" coords="416,201,576,242"/>
+<area shape="rect" id="node14" href="$classed__state__vars.html#a31ce6a86f04b6fb292bdf3a41dd3a66e" title="Copies the variables that are mmean. " alt="" coords="414,266,578,307"/>
+<area shape="rect" id="node15" href="$classed__state__vars.html#a2630aeadf5d56b1b603e8eb6c95b68eb" title="Copies the variables that are qmean. " alt="" coords="416,331,576,373"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="629,397,776,438"/>
+<area shape="rect" id="node18" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="434,1077,558,1104"/>
+<area shape="rect" id="node19" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="643,1103,762,1129"/>
+<area shape="rect" id="node28" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="465,1189,527,1216"/>
+<area shape="rect" id="node32" href="$numutils_8f90.html#af35fe9f0019893598dbf82d6a72a983d" title="heapsort" alt="" coords="667,849,739,876"/>
+</map>

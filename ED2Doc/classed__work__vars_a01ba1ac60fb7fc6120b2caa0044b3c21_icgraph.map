@@ -1,0 +1,8 @@
+<map id="ed_work_vars::ed_alloc_work" name="ed_work_vars::ed_alloc_work">
+<area shape="rect" id="node2" href="$classed__mem__alloc.html#a410d759cf4e13ea20ace04982d91d9bb" title="ed_mem_alloc::ed_memory\l_allocation" alt="" coords="249,41,431,82"/>
+<area shape="rect" id="node7" href="$ed__para__init_8f90.html#a7e154783bfabc64af7dcc857db4dffbb" title="ed_node_decomp" alt="" coords="509,107,633,133"/>
+<area shape="rect" id="node3" href="$ed__1st_8_f90.html#a88c7eafef7545a0e8343dd5a148f8320" title="ed_1st_node" alt="" coords="716,5,812,32"/>
+<area shape="rect" id="node5" href="$ed__mpass__init_8_f90.html#a92ea90e711dba589f46d6e84f21526c8" title="ed_masterput_worklist_info" alt="" coords="480,56,661,83"/>
+<area shape="rect" id="node4" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="867,31,917,57"/>
+<area shape="rect" id="node6" href="$ed__1st_8_f90.html#a210220ea32a2360ac21ce627205a9316" title="ed_1st_master" alt="" coords="710,56,818,83"/>
+</map>

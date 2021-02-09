@@ -1,0 +1,19 @@
+<map id="fuse_fiss_utils::rescale_patches" name="fuse_fiss_utils::rescale_patches">
+<area shape="rect" id="node2" href="$classupdate__derived__utils.html#a96a6adc29bc251b72ec7bb4a5bbfbad9" title="update_derived_utils\l::update_cohort_extensive_props" alt="" coords="211,5,426,46"/>
+<area shape="rect" id="node3" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="257,71,381,97"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="240,173,397,214"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#abd0a1c636db86530367e9d24e386ec22" title="Copies part of one site from one place to another (only the ones where mask is .true.) " alt="" coords="249,486,389,527"/>
+<area shape="rect" id="node17" href="$classed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="233,675,404,717"/>
+<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="727,428,807,455"/>
+<area shape="rect" id="node4" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="501,71,619,97"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#aa13b6faa5a0031bd5df50581ac0db0ff" title="Nullifies all patch pointers. " alt="" coords="487,173,633,214"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="481,734,639,775"/>
+<area shape="rect" id="node11" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="490,669,630,710"/>
+<area shape="rect" id="node12" href="$classed__state__vars.html#abef71303542156f0c150c4568b4828aa" title="Copies the variables that are not fmean, dmean, mmean, mmsqu, qmean, and qmsqu. " alt="" coords="489,290,631,331"/>
+<area shape="rect" id="node13" href="$classed__state__vars.html#a6f38243f52095e9ee7da38e2b2ce81ab" title="Copies the variables that are fmean. " alt="" coords="481,355,639,397"/>
+<area shape="rect" id="node14" href="$classed__state__vars.html#ac319365c7defa57422526b06b56bd61c" title="Copies the variables that are dmean. " alt="" coords="480,421,640,462"/>
+<area shape="rect" id="node15" href="$classed__state__vars.html#a31ce6a86f04b6fb292bdf3a41dd3a66e" title="Copies the variables that are mmean. " alt="" coords="478,486,642,527"/>
+<area shape="rect" id="node16" href="$classed__state__vars.html#a2630aeadf5d56b1b603e8eb6c95b68eb" title="Copies the variables that are qmean. " alt="" coords="480,551,640,593"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="693,734,840,775"/>
+<area shape="rect" id="node18" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="475,799,645,841"/>
+</map>

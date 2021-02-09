@@ -1,0 +1,9 @@
+<map id="budget_utils::reset_cbudget_committed" name="budget_utils::reset_cbudget_committed">
+<area shape="rect" id="node2" href="$classbudget__utils.html#ab49cf1c93767190a1b2ec01763fb6966" title="budget_utils::initial\l_patch_budget" alt="" coords="197,5,328,46"/>
+<area shape="rect" id="node8" href="$classgrowth__balive.html#a2711ed86cca4027a15a5a8de2bc9873a" title="Updates living biomass. " alt="" coords="377,71,546,97"/>
+<area shape="rect" id="node3" href="$classbudget__utils.html#af2d57a4e0f5db59d0ba6a65e1348de61" title="budget_utils::ed_init\l_budget" alt="" coords="392,5,531,46"/>
+<area shape="rect" id="node4" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="798,41,877,68"/>
+<area shape="rect" id="node7" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="595,63,749,105"/>
+<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="925,41,1000,68"/>
+<area shape="rect" id="node6" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1048,41,1099,68"/>
+</map>

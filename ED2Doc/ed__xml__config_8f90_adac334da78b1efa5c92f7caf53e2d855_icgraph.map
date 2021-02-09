@@ -1,5 +1,4 @@
 <map id="write_ed_xml_config" name="write_ed_xml_config">
-<area shape="rect" id="node3" href="$ed__params_8f90.html#a2c0c887700d85a5be6fbd26b071c8da6" title="overwrite_with_xml\l_config" alt="" coords="196,5,329,51"/>
-<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="379,13,453,43"/>
-<area shape="rect" id="node7" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="501,13,552,43"/>
+<area shape="rect" id="node2" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="195,5,269,32"/>
+<area shape="rect" id="node3" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="317,5,368,32"/>
 </map>

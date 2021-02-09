@@ -1,0 +1,7 @@
+<map id="update_derived_utils::update_patch_derived_props" name="update_derived_utils::update_patch_derived_props">
+<area shape="rect" id="node2" href="$classallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="253,5,406,32"/>
+<area shape="rect" id="node3" href="$classtherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="254,56,405,83"/>
+<area shape="rect" id="node4" href="$classupdate__derived__utils.html#a9b732fc650e42658e5e31b19e0915610" title="update_derived_utils\l::patch_pft_size_profile" alt="" coords="251,107,408,149"/>
+<area shape="rect" id="node5" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="457,115,581,141"/>
+<area shape="rect" id="node6" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="630,115,749,141"/>
+</map>

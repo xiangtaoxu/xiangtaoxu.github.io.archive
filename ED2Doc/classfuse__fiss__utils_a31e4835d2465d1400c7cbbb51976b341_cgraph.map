@@ -1,0 +1,7 @@
+<map id="fuse_fiss_utils::sort_cohorts" name="fuse_fiss_utils::sort_cohorts">
+<area shape="rect" id="node2" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="196,5,353,46"/>
+<area shape="rect" id="node4" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="205,70,345,111"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="189,135,360,177"/>
+<area shape="rect" id="node3" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="408,5,555,46"/>
+<area shape="rect" id="node5" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="441,77,521,104"/>
+</map>

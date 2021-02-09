@@ -1,0 +1,51 @@
+<map id="fuse_fiss_utils::old_fuse_patches" name="fuse_fiss_utils::old_fuse_patches">
+<area shape="rect" id="node2" href="$classupdate__derived__utils.html#a9b732fc650e42658e5e31b19e0915610" title="update_derived_utils\l::patch_pft_size_profile" alt="" coords="645,2034,803,2075"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="391,298,548,339"/>
+<area shape="rect" id="node8" href="$classfuse__fiss__utils.html#a9d06bb3b18a9c6bf45b3cc30b01cb4be" title="This subroutine will merge two patches into 1. " alt="" coords="184,1215,323,1257"/>
+<area shape="rect" id="node44" href="$classed__state__vars.html#abd0a1c636db86530367e9d24e386ec22" title="Copies part of one site from one place to another (only the ones where mask is .true.) " alt="" coords="654,233,794,274"/>
+<area shape="rect" id="node13" href="$classed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="384,466,555,507"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#a3bf78091394d79aec34dd97e18ff16db" title="Copies a continuous chunk of patches from one place to another. " alt="" coords="654,415,794,457"/>
+<area shape="rect" id="node50" href="$classfuse__fiss__utils.html#a546d7beff2f991a07c8fbba91921ce5f" title="fuse_fiss_utils::sort\l_patches" alt="" coords="185,349,321,390"/>
+<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="1143,705,1223,732"/>
+<area shape="rect" id="node3" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="909,1527,1033,1553"/>
+<area shape="rect" id="node4" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="1123,1527,1242,1553"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#aa13b6faa5a0031bd5df50581ac0db0ff" title="Nullifies all patch pointers. " alt="" coords="651,298,797,339"/>
+<area shape="rect" id="node15" href="$classsoil__coms.html#a73e12fe029c8b3eb5afe2c2c000efc19" title="soil_coms::matric_potential" alt="" coords="880,2315,1061,2341"/>
+<area shape="rect" id="node16" href="$classtherm__lib.html#ac588ab0dc1c0c52c4c41b847be134ee9" title="therm_lib::uextcm2tl" alt="" coords="654,2173,794,2200"/>
+<area shape="rect" id="node17" href="$classtherm__lib.html#a6ded17767672913967afa919fef33015" title="therm_lib::uint2tl" alt="" coords="665,2260,783,2287"/>
+<area shape="rect" id="node18" href="$classtherm__lib.html#a60b714e3ae5457604df59afaf6904acd" title="therm_lib::idealdenssh" alt="" coords="648,1679,800,1705"/>
+<area shape="rect" id="node19" href="$classtherm__lib.html#a8605baa2da9252a7a0ffa8f9a458fd0b" title="therm_lib::idealdmolsh" alt="" coords="393,2155,545,2181"/>
+<area shape="rect" id="node20" href="$classtherm__lib.html#a4e2091a1a5d89a568a252369122ecb39" title="therm_lib::press2exner" alt="" coords="392,2205,547,2232"/>
+<area shape="rect" id="node21" href="$classtherm__lib.html#a547dc1767e5cae792b356d615db3ea09" title="therm_lib::extemp2theta" alt="" coords="388,583,551,609"/>
+<area shape="rect" id="node22" href="$classtherm__lib.html#a04fbafe4252bacbd01867388f45d8104" title="therm_lib::extheta2temp" alt="" coords="388,633,551,660"/>
+<area shape="rect" id="node23" href="$classtherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="649,1932,799,1959"/>
+<area shape="rect" id="node24" href="$classtherm__lib.html#ad10129810640ad98a16dde22a0c244b8" title="therm_lib::hq2temp" alt="" coords="403,785,536,812"/>
+<area shape="rect" id="node25" href="$classtherm__lib.html#adfb18489c8037340578e62f5643197f7" title="therm_lib::virtt" alt="" coords="417,836,522,863"/>
+<area shape="rect" id="node26" href="$classtherm__lib.html#a2523d158beee975faaed4552724aae65" title="therm_lib::thetaeiv" alt="" coords="405,1717,534,1744"/>
+<area shape="rect" id="node29" href="$classtherm__lib.html#af6ca165844a5da4f2d21a37aa3fff081" title="therm_lib::vpdefil" alt="" coords="409,684,530,711"/>
+<area shape="rect" id="node31" href="$classed__type__init.html#a580609d92a0bb3edd1f381c76c833ad8" title="ed_type_init::new_patch\l_sfc_props" alt="" coords="388,2358,551,2399"/>
+<area shape="rect" id="node33" href="$classupdate__derived__utils.html#a5405d4f087e58593585a72bcf6081b1c" title="update_derived_utils\l::update_patch_derived_props" alt="" coords="371,1937,567,1978"/>
+<area shape="rect" id="node35" href="$classupdate__derived__utils.html#a96a6adc29bc251b72ec7bb4a5bbfbad9" title="update_derived_utils\l::update_cohort_extensive_props" alt="" coords="617,938,831,979"/>
+<area shape="rect" id="node36" href="$classfuse__fiss__utils.html#aae52213c98fe3ffb3ecde24d8ffc6e03" title="This subroutine combines the mean sum of squares of two quantities (x and y). " alt="" coords="380,735,559,761"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="892,1193,1049,1234"/>
+<area shape="rect" id="node12" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="901,669,1041,710"/>
+<area shape="rect" id="node14" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="885,1106,1056,1147"/>
+<area shape="rect" id="node38" href="$classfuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="656,1157,792,1198"/>
+<area shape="rect" id="node39" href="$classfuse__fiss__utils.html#a331f78834118341c99058f69325c95fc" title="fuse_fiss_utils::old\l_fuse_cohorts" alt="" coords="404,1321,535,1362"/>
+<area shape="rect" id="node40" href="$classfuse__fiss__utils.html#a58e649bf27d8b87ff164e16ba0c3bccb" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="400,1157,539,1198"/>
+<area shape="rect" id="node41" href="$classfuse__fiss__utils.html#a8afe150340753f32f88a5033afb66ff1" title="This subroutine will eliminate cohorts based on their sizes. This is intended to eliminate cohorts th..." alt="" coords="385,1519,553,1561"/>
+<area shape="rect" id="node42" href="$classfuse__fiss__utils.html#acca6c05e04827c45b18ddb564c537de9" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="400,938,539,979"/>
+<area shape="rect" id="node43" href="$classfuse__fiss__utils.html#ace5e880797709c6be154c2ce38803f08" title="fuse_fiss_utils::check\l_bfusion_patch" alt="" coords="395,1819,544,1861"/>
+<area shape="rect" id="node11" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="1109,1193,1256,1234"/>
+<area shape="rect" id="node27" href="$classtherm__lib.html#a0b1c333335dfb4af1c56bc56a0e45440" title="therm_lib::lcl_il" alt="" coords="916,1653,1025,1680"/>
+<area shape="rect" id="node28" href="$classtherm__lib.html#a59bae4be9ba9f862c7b58953f37a9be2" title="therm_lib::thetaeivs" alt="" coords="656,1780,792,1807"/>
+<area shape="rect" id="node30" href="$classtherm__lib.html#a109004866b1542dfcfa1da1e5130d3c9" title="therm_lib::esif" alt="" coords="672,532,776,559"/>
+<area shape="rect" id="node32" href="$classed__therm__lib.html#aa6561183a4fc06ca1c9430914a5b6032" title="ed_therm_lib::ed_grndvap" alt="" coords="639,2365,809,2392"/>
+<area shape="rect" id="node34" href="$classallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="647,1983,801,2009"/>
+<area shape="rect" id="node37" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="693,583,755,609"/>
+<area shape="rect" id="node45" href="$classed__state__vars.html#abef71303542156f0c150c4568b4828aa" title="Copies the variables that are not fmean, dmean, mmean, mmsqu, qmean, and qmsqu. " alt="" coords="899,266,1042,307"/>
+<area shape="rect" id="node46" href="$classed__state__vars.html#a6f38243f52095e9ee7da38e2b2ce81ab" title="Copies the variables that are fmean. " alt="" coords="892,331,1049,373"/>
+<area shape="rect" id="node47" href="$classed__state__vars.html#ac319365c7defa57422526b06b56bd61c" title="Copies the variables that are dmean. " alt="" coords="891,70,1051,111"/>
+<area shape="rect" id="node48" href="$classed__state__vars.html#a31ce6a86f04b6fb292bdf3a41dd3a66e" title="Copies the variables that are mmean. " alt="" coords="889,135,1053,177"/>
+<area shape="rect" id="node49" href="$classed__state__vars.html#a2630aeadf5d56b1b603e8eb6c95b68eb" title="Copies the variables that are qmean. " alt="" coords="891,201,1051,242"/>
+</map>

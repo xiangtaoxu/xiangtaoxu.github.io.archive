@@ -1,0 +1,5 @@
+<map id="ed_init::calc_flow_routing" name="ed_init::calc_flow_routing">
+<area shape="rect" id="node2" href="$numutils_8f90.html#a05cbe809c49cbfaed521fb20ab5e8092" title="rank_up_r" alt="" coords="177,5,255,32"/>
+<area shape="rect" id="node3" href="$numutils_8f90.html#a732ad4008d82d16d53c093bf1cecccc3" title="find_rank" alt="" coords="179,56,253,83"/>
+<area shape="rect" id="node4" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="304,56,384,83"/>
+</map>

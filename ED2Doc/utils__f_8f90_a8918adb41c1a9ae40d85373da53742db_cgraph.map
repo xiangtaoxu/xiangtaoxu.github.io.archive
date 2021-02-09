@@ -1,5 +1,7 @@
 <map id="makefnam" name="makefnam">
-<area shape="rect" id="node3" href="$dateutils_8f90.html#a14143487767c309bad9fe0bef4365fda" title="date_add_to" alt="" coords="136,32,229,61"/>
-<area shape="rect" id="node5" href="$dateutils_8f90.html#a56423cc8c95e08c48faaadf0ae9a2100" title="date_abs_secs2" alt="" coords="279,5,396,35"/>
-<area shape="rect" id="node7" href="$dateutils_8f90.html#abd0aaee09a0949cfef32003dae34f41d" title="date_secs_ymdt" alt="" coords="279,59,396,88"/>
+<area shape="rect" id="node2" href="$dateutils_8f90.html#a14143487767c309bad9fe0bef4365fda" title="date_add_to" alt="" coords="136,49,229,75"/>
+<area shape="rect" id="node3" href="$dateutils_8f90.html#a56423cc8c95e08c48faaadf0ae9a2100" title="date_abs_secs2" alt="" coords="277,23,395,50"/>
+<area shape="rect" id="node6" href="$dateutils_8f90.html#abd0aaee09a0949cfef32003dae34f41d" title="date_secs_ymdt" alt="" coords="443,74,562,101"/>
+<area shape="rect" id="node4" href="$dateutils_8f90.html#acbfdb1c78beb593447108203011b380c" title="isleap" alt="" coords="611,23,667,50"/>
+<area shape="rect" id="node5" href="$dateutils_8f90.html#ab4306c1f20ef02cf582fb1050fa0c5d9" title="julday" alt="" coords="475,23,531,50"/>
 </map>

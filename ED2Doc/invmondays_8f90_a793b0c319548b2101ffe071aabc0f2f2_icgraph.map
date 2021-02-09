@@ -1,5 +1,9 @@
 <map id="yesterday" name="yesterday">
-<area shape="rect" id="node3" href="$invmondays_8f90.html#ab24cf4964d266158f880214060f2ce53" title="yesterday_info" alt="" coords="133,48,240,77"/>
-<area shape="rect" id="node5" href="$namespaceaverage__utils.html#a24f0cd542ec9741c1bcc76e640498cd2" title="This subroutine integrates most of the monthly mean variables. This sub&#45;routine &#160;&#160;is called after the..." alt="" coords="288,5,445,51"/>
-<area shape="rect" id="node7" href="$namespaceaverage__utils.html#af429d166f6097c18d6ab4ce05adbd31f" title="This subroutine integrates most of the mean diel variables. This subroutine is called after the fmean..." alt="" coords="288,74,445,121"/>
+<area shape="rect" id="node2" href="$invmondays_8f90.html#a6d745d15d052174ca53789e14ba301df" title="yesterday_info" alt="" coords="133,77,240,104"/>
+<area shape="rect" id="node3" href="$classaverage__utils.html#a24f0cd542ec9741c1bcc76e640498cd2" title="This subroutine integrates most of the monthly mean variables. This sub&#45;routine is called after the d..." alt="" coords="288,5,445,46"/>
+<area shape="rect" id="node8" href="$classaverage__utils.html#af429d166f6097c18d6ab4ce05adbd31f" title="This subroutine integrates most of the mean diel variables. This subroutine is called after the fmean..." alt="" coords="288,70,445,111"/>
+<area shape="rect" id="node5" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="654,107,733,133"/>
+<area shape="rect" id="node4" href="$classedio.html#a7ce965022ac8a52d739c5819f06f8e43" title="edio::ed_output" alt="" coords="494,77,605,104"/>
+<area shape="rect" id="node6" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="781,107,856,133"/>
+<area shape="rect" id="node7" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="904,107,955,133"/>
 </map>

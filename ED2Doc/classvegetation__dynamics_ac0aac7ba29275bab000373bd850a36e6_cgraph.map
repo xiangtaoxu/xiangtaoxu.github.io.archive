@@ -1,0 +1,51 @@
+<map id="vegetation_dynamics::veg_dynamics_driver" name="vegetation_dynamics::veg_dynamics_driver">
+<area shape="rect" id="node2" href="$classdisturbance.html#a033dedd1b8c920bd36b6fd04911c4e94" title="disturbance::apply\l_disturbances" alt="" coords="249,983,377,1025"/>
+<area shape="rect" id="node29" href="$classdisturbance.html#a4da16dafd0f3facecf3291339434ef85" title="disturbance::site_disturbance\l_rates" alt="" coords="217,1858,409,1899"/>
+<area shape="rect" id="node30" href="$classfuse__fiss__utils.html#a6776a45b5a81e01186fbac86854c6741" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="248,1675,379,1717"/>
+<area shape="rect" id="node31" href="$classfuse__fiss__utils.html#ab15ffcdcb79ee2bcb69f5a9954ca14ea" title="fuse_fiss_utils::new\l_fuse_patches" alt="" coords="244,1741,383,1782"/>
+<area shape="rect" id="node9" href="$classfuse__fiss__utils.html#ac687a950d92b23661a3d3ef73b723201" title="This subroutine will eliminate tiny or empty patches. This is intended to eliminate patches that have..." alt="" coords="729,1802,897,1843"/>
+<area shape="rect" id="node32" href="$classfuse__fiss__utils.html#ab3b0eeed8a63cc2f4b866ac243e25ec6" title="This subroutine will rescale the area of the patches. This is almost the same as the terminate_patche..." alt="" coords="735,1533,891,1574"/>
+<area shape="rect" id="node33" href="$classgrowth__balive.html#a2711ed86cca4027a15a5a8de2bc9873a" title="Updates living biomass. " alt="" coords="482,265,651,292"/>
+<area shape="rect" id="node34" href="$classaverage__utils.html#a538e2e59c7c2889ae624b6e1d2a9e5f2" title="This subroutine will scale the daily averages of GPP and some respiration variables to normal units..." alt="" coords="232,1923,395,1965"/>
+<area shape="rect" id="node35" href="$classaverage__utils.html#a446f9090fbbcf3eb12f4b9231d946e89" title="This subroutine will scale the daily NPP allocation terms. " alt="" coords="232,1989,395,2030"/>
+<area shape="rect" id="node36" href="$classaverage__utils.html#a6a92d00bf7112b127a596bd765cc12c6" title="This subroutine resets the daily_averages for variables actually used in the integration. " alt="" coords="247,2054,379,2095"/>
+<area shape="rect" id="node37" href="$classhrzshade__utils.html#ab6a570211a39b7be09b3603653e19296" title="hrzshade_utils::split\l_hrzshade" alt="" coords="497,1978,636,2019"/>
+<area shape="rect" id="node38" href="$classhrzshade__utils.html#a7d16c90056254171f29af00a4bc16dde" title="hrzshade_utils::reset\l_hrzshade" alt="" coords="242,2119,385,2161"/>
+<area shape="rect" id="node39" href="$classstructural__growth.html#a469170de4bcc0161752017f5904a1939" title="structural_growth::\ldbstruct_dt" alt="" coords="748,111,879,153"/>
+<area shape="rect" id="node40" href="$classed__cn__utils.html#a3058642efe07574278e4db8776792ce3" title="ed_cn_utils::print\l_c_and_n_budgets" alt="" coords="248,2185,379,2226"/>
+<area shape="rect" id="node41" href="$classreproduction.html#ad090bf9d44a1ad3c3a31ab425e2bfa1f" title="reproduction::reproduction\l_driver" alt="" coords="481,535,653,577"/>
+<area shape="rect" id="node42" href="$classsoil__respiration.html#a25cfdb7defc35a7a058e69905845492f" title="soil_respiration::update\l_c_and_n_pools" alt="" coords="235,2250,391,2291"/>
+<area shape="rect" id="node43" href="$classphenology__driv.html#a263e9113f254ff58fb5aebe03ee8e777" title="phenology_driv::phenology\l_driver" alt="" coords="225,2315,401,2357"/>
+<area shape="rect" id="node44" href="$classupdate__derived__utils.html#af3ed728851f0b48e17fc44690af242ef" title="update_derived_utils\l::update_workload" alt="" coords="243,2381,384,2422"/>
+<area shape="rect" id="node45" href="$classupdate__derived__utils.html#a5249a77ad40a55ec1e828dc7e9d37f65" title="update_derived_utils\l::update_polygon_derived_props" alt="" coords="209,2446,418,2487"/>
+<area shape="rect" id="node46" href="$classfire.html#a09d00440af65a1c3304f32c0cfa5f4b5" title="This subroutine will evaluate whether fire conditions exist, and if that is the case, it will calculate the disturbance rate due to fire. " alt="" coords="248,2512,379,2539"/>
+<area shape="rect" id="node47" href="$classbudget__utils.html#af2d57a4e0f5db59d0ba6a65e1348de61" title="budget_utils::ed_init\l_budget" alt="" coords="244,2563,383,2605"/>
+<area shape="rect" id="node48" href="$dateutils_8f90.html#ab4306c1f20ef02cf582fb1050fa0c5d9" title="julday" alt="" coords="285,2629,341,2656"/>
+<area shape="rect" id="node49" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="253,2680,374,2707"/>
+<area shape="rect" id="node50" href="$classvegetation__dynamics.html#a776650d60712d46f8ec16af2c7186af2" title="vegetation_dynamics\l::update_patch_ages" alt="" coords="241,2731,386,2773"/>
+<area shape="rect" id="node3" href="$classallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="735,329,891,356"/>
+<area shape="rect" id="node4" href="$classmortality.html#a7454e09282570c5300efb68eaf958031" title="mortality::disturbance\l_mortality" alt="" coords="493,653,640,694"/>
+<area shape="rect" id="node5" href="$classforestry.html#a9b3256e9e2c491253767fefaa9e1f87b" title="forestry::find_lambda\l_harvest" alt="" coords="495,1759,639,1801"/>
+<area shape="rect" id="node10" href="$classupdate__derived__utils.html#a9d77c42f32198aa87e8aee961009bef3" title="update_derived_utils\l::update_patch_thermo_props" alt="" coords="469,718,664,759"/>
+<area shape="rect" id="node11" href="$classupdate__derived__utils.html#a4971b118cbad321603f742a929e2ddf3" title="update_derived_utils\l::update_patch_thermo_fmean" alt="" coords="467,783,666,825"/>
+<area shape="rect" id="node12" href="$classupdate__derived__utils.html#a5405d4f087e58593585a72bcf6081b1c" title="update_derived_utils\l::update_patch_derived_props" alt="" coords="715,547,911,589"/>
+<area shape="rect" id="node13" href="$classupdate__derived__utils.html#a5286b7242911faccf91eb1f9d9944e55" title="update_derived_utils\l::update_site_derived_props" alt="" coords="721,715,906,757"/>
+<area shape="rect" id="node14" href="$classed__type__init.html#a580609d92a0bb3edd1f381c76c833ad8" title="ed_type_init::new_patch\l_sfc_props" alt="" coords="732,1257,895,1298"/>
+<area shape="rect" id="node15" href="$classstable__cohorts.html#a00b7ade90014855bc382264976df8d53" title="stable_cohorts::is\l_resolvable" alt="" coords="983,657,1108,698"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="967,1945,1124,1986"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#a3bf78091394d79aec34dd97e18ff16db" title="Copies a continuous chunk of patches from one place to another. " alt="" coords="743,1919,883,1961"/>
+<area shape="rect" id="node7" href="$classed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="960,1617,1131,1658"/>
+<area shape="rect" id="node16" href="$classdisturbance.html#afcbe52e3d9dad6032e95f57f9f9b7664" title="disturbance::initialize\l_disturbed_patch" alt="" coords="495,849,639,890"/>
+<area shape="rect" id="node17" href="$classdisturbance.html#ab33ac0d51075802826da5aea14a1f041" title="disturbance::increment\l_patch_vars" alt="" coords="489,1067,644,1109"/>
+<area shape="rect" id="node18" href="$classdisturbance.html#ad9601a2559ba648f252932de2f588499" title="disturbance::insert\l_survivors" alt="" coords="502,1133,631,1174"/>
+<area shape="rect" id="node19" href="$classdisturbance.html#a44269a58cefbf3d36c9a59d092540c04" title="disturbance::accum\l_dist_harv_litt" alt="" coords="499,1315,635,1357"/>
+<area shape="rect" id="node20" href="$classdisturbance.html#a0f0f927fe7a75b128bea9a15d726d8cf" title="disturbance::norm_canopy\l_air_props" alt="" coords="479,1381,654,1422"/>
+<area shape="rect" id="node21" href="$classdisturbance.html#ab9582ce139b127edbddc824c2d9f1df3" title="disturbance::plant\l_patch" alt="" coords="504,191,629,233"/>
+<area shape="rect" id="node22" href="$classfuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="977,482,1113,523"/>
+<area shape="rect" id="node23" href="$classfuse__fiss__utils.html#a331f78834118341c99058f69325c95fc" title="fuse_fiss_utils::old\l_fuse_cohorts" alt="" coords="748,781,879,822"/>
+<area shape="rect" id="node24" href="$classfuse__fiss__utils.html#a58e649bf27d8b87ff164e16ba0c3bccb" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="744,846,883,887"/>
+<area shape="rect" id="node25" href="$classfuse__fiss__utils.html#a8afe150340753f32f88a5033afb66ff1" title="This subroutine will eliminate cohorts based on their sizes. This is intended to eliminate cohorts th..." alt="" coords="729,482,897,523"/>
+<area shape="rect" id="node26" href="$classfuse__fiss__utils.html#acca6c05e04827c45b18ddb564c537de9" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="744,911,883,953"/>
+<area shape="rect" id="node27" href="$classdisturbance.html#a1999d953face6c955cc832c0c9e4f223" title="disturbance::prune\l_lianas" alt="" coords="502,367,631,409"/>
+<area shape="rect" id="node28" href="$classfuse__fiss__utils.html#a9d06bb3b18a9c6bf45b3cc30b01cb4be" title="This subroutine will merge two patches into 1. " alt="" coords="497,1198,636,1239"/>
+</map>

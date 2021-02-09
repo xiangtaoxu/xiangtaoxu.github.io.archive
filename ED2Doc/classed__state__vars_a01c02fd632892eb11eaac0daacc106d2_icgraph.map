@@ -1,0 +1,8 @@
+<map id="ed_state_vars::allocate_edglobals" name="ed_state_vars::allocate_edglobals">
+<area shape="rect" id="node2" href="$ed__1st_8_f90.html#a210220ea32a2360ac21ce627205a9316" title="ed_1st_master" alt="" coords="673,63,781,89"/>
+<area shape="rect" id="node4" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="689,5,764,32"/>
+<area shape="rect" id="node5" href="$classed__mem__alloc.html#a410d759cf4e13ea20ace04982d91d9bb" title="ed_mem_alloc::ed_memory\l_allocation" alt="" coords="211,101,394,142"/>
+<area shape="rect" id="node3" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="829,63,880,89"/>
+<area shape="rect" id="node6" href="$ed__1st_8_f90.html#a88c7eafef7545a0e8343dd5a148f8320" title="ed_1st_node" alt="" coords="485,151,581,177"/>
+<area shape="rect" id="node7" href="$ed__mpass__init_8_f90.html#a92ea90e711dba589f46d6e84f21526c8" title="ed_masterput_worklist_info" alt="" coords="443,100,624,127"/>
+</map>

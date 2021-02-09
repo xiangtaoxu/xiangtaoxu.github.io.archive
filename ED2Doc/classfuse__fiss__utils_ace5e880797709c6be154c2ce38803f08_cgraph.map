@@ -1,0 +1,8 @@
+<map id="fuse_fiss_utils::check_bfusion_patch" name="fuse_fiss_utils::check_bfusion_patch">
+<area shape="rect" id="node2" href="$classbudget__utils.html#aa1c4f8466010b1673f2914f1bfe9b6ee" title="budget_utils::compute\l_co2_storage" alt="" coords="403,9,554,50"/>
+<area shape="rect" id="node3" href="$classbudget__utils.html#aae1acee2098d96865b520dcbc6ada434" title="budget_utils::compute\l_carbon_storage" alt="" coords="203,38,354,79"/>
+<area shape="rect" id="node4" href="$classbudget__utils.html#a6910e7531481831c25b2ce9f543b8e8b" title="budget_utils::compute\l_water_storage" alt="" coords="203,103,354,145"/>
+<area shape="rect" id="node5" href="$classbudget__utils.html#a4bf8fb1787cd267703fc7b8f6ab3a260" title="budget_utils::compute\l_enthalpy_storage" alt="" coords="203,169,354,210"/>
+<area shape="rect" id="node6" href="$classtherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="403,205,554,232"/>
+<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="239,285,319,312"/>
+</map>

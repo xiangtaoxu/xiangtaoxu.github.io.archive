@@ -1,0 +1,42 @@
+<map id="allometry::ed_biomass" name="allometry::ed_biomass">
+<area shape="rect" id="node2" href="$classdisturbance.html#ab9582ce139b127edbddc824c2d9f1df3" title="disturbance::plant\l_patch" alt="" coords="245,362,371,403"/>
+<area shape="rect" id="node10" href="$classdisturbance.html#a1999d953face6c955cc832c0c9e4f223" title="disturbance::prune\l_lianas" alt="" coords="478,135,607,177"/>
+<area shape="rect" id="node11" href="$classed__bigleaf__init.html#a45c8aa14d759e66b8b9f2bbe5f240005" title="ed_bigleaf_init::sas\l_to_bigleaf" alt="" coords="241,1161,375,1202"/>
+<area shape="rect" id="node13" href="$classed__nbg__init.html#af7ee94ea15e1a02af41c3e57a2946387" title="ed_nbg_init::init_nbg\l_cohorts" alt="" coords="237,1297,379,1338"/>
+<area shape="rect" id="node15" href="$classed__nbg__init.html#a57af8a94c755492a5083839151520657" title="ed_nbg_init::init_cohorts\l_by_layers" alt="" coords="227,1230,389,1271"/>
+<area shape="rect" id="node16" href="$classed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare\l_ground_big_leaf_init" alt="" coords="231,682,385,723"/>
+<area shape="rect" id="node17" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="215,856,401,883"/>
+<area shape="rect" id="node18" href="$ed__read__ed21__history_8f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="232,961,384,988"/>
+<area shape="rect" id="node19" href="$ed__read__ed21__history_8f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="217,1039,399,1065"/>
+<area shape="rect" id="node20" href="$ed__read__ed21__history_8f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="236,1103,380,1129"/>
+<area shape="rect" id="node21" href="$events_8f90.html#ad9cbf1522be96cc9af2fbf80b1402d5c" title="event_harvest" alt="" coords="491,420,595,447"/>
+<area shape="rect" id="node22" href="$classgrowth__balive.html#a2711ed86cca4027a15a5a8de2bc9873a" title="Updates living biomass. " alt="" coords="458,201,627,228"/>
+<area shape="rect" id="node23" href="$classphenology__aux.html#ac9c11ddf83cd16439262bc9c7c72bf2e" title="phenology_aux::first\l_phenology" alt="" coords="1143,1238,1281,1279"/>
+<area shape="rect" id="node24" href="$classphenology__driv.html#ab69220ca184edd9fea298b5906e139a9" title="phenology_driv::update\l_phenology" alt="" coords="465,70,621,111"/>
+<area shape="rect" id="node26" href="$classreproduction.html#ad090bf9d44a1ad3c3a31ab425e2bfa1f" title="reproduction::reproduction\l_driver" alt="" coords="457,253,629,294"/>
+<area shape="rect" id="node27" href="$classupdate__derived__utils.html#a48e3099ad317b73455cb635674e4c403" title="update_derived_utils\l::update_cohort_derived_props" alt="" coords="208,6,408,47"/>
+<area shape="rect" id="node29" href="$classupdate__derived__utils.html#a8f5a413e8bd9c1b416a6abf2abfe5da6" title="update_derived_utils\l::update_vital_rates" alt="" coords="237,74,379,115"/>
+<area shape="rect" id="node30" href="$classupdate__derived__utils.html#a5405d4f087e58593585a72bcf6081b1c" title="update_derived_utils\l::update_patch_derived_props" alt="" coords="210,615,406,657"/>
+<area shape="rect" id="node3" href="$classdisturbance.html#a033dedd1b8c920bd36b6fd04911c4e94" title="disturbance::apply\l_disturbances" alt="" coords="701,333,829,374"/>
+<area shape="rect" id="node8" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="489,369,596,396"/>
+<area shape="rect" id="node4" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="917,333,1070,374"/>
+<area shape="rect" id="node5" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1173,781,1251,808"/>
+<area shape="rect" id="node6" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1339,892,1413,919"/>
+<area shape="rect" id="node7" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1461,892,1512,919"/>
+<area shape="rect" id="node9" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="705,420,826,447"/>
+<area shape="rect" id="node12" href="$classed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="684,1113,847,1154"/>
+<area shape="rect" id="node14" href="$classed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare\l_ground_init" alt="" coords="466,1298,619,1339"/>
+<area shape="rect" id="node25" href="$classphenology__driv.html#a263e9113f254ff58fb5aebe03ee8e777" title="phenology_driv::phenology\l_driver" alt="" coords="677,107,853,149"/>
+<area shape="rect" id="node28" href="$classstructural__growth.html#a469170de4bcc0161752017f5904a1939" title="structural_growth::\ldbstruct_dt" alt="" coords="477,5,608,46"/>
+<area shape="rect" id="node31" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="949,684,1038,711"/>
+<area shape="rect" id="node32" href="$classeuler__driver.html#a55664cda4554324c478d426edcc090ba" title="euler_driver::euler\l_timestep" alt="" coords="931,790,1056,831"/>
+<area shape="rect" id="node33" href="$events_8f90.html#a322bdb70cc0c534c9e30db1a3a4b58a0" title="event_fertilize" alt="" coords="491,521,594,548"/>
+<area shape="rect" id="node34" href="$events_8f90.html#a344468d6236c4635f3bd01bc47acde4a" title="event_till" alt="" coords="505,572,580,599"/>
+<area shape="rect" id="node35" href="$classfuse__fiss__utils.html#a9d06bb3b18a9c6bf45b3cc30b01cb4be" title="This subroutine will merge two patches into 1. " alt="" coords="473,674,612,715"/>
+<area shape="rect" id="node38" href="$classheun__driver.html#afef0343ba81822423a4a5ebfa053686a" title="heun_driver::heun_timestep" alt="" coords="902,943,1085,969"/>
+<area shape="rect" id="node39" href="$classhybrid__driver.html#a579b44c8008742b4e1728108d2c7b0d3" title="hybrid_driver::hybrid\l_timestep" alt="" coords="924,582,1063,623"/>
+<area shape="rect" id="node40" href="$classrk4__driver.html#abf8bd20405c7ed6a7bab3bdb18d8de87" title="rk4_driver::rk4_timestep" alt="" coords="684,740,847,767"/>
+<area shape="rect" id="node41" href="$classupdate__derived__utils.html#a9c137b13918c0b6d1bfa3ac395433070" title="update_derived_utils\l::update_derived_props" alt="" coords="1133,885,1291,926"/>
+<area shape="rect" id="node36" href="$classfuse__fiss__utils.html#ab15ffcdcb79ee2bcb69f5a9954ca14ea" title="fuse_fiss_utils::new\l_fuse_patches" alt="" coords="696,674,835,715"/>
+<area shape="rect" id="node37" href="$classfuse__fiss__utils.html#a6776a45b5a81e01186fbac86854c6741" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="700,609,831,650"/>
+</map>

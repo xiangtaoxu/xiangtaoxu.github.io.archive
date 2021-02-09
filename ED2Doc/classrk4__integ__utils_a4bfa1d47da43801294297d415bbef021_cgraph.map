@@ -1,0 +1,20 @@
+<map id="rk4_integ_utils::initialize_rk4patches" name="rk4_integ_utils::initialize_rk4patches">
+<area shape="rect" id="node2" href="$classrk4__coms.html#a56a9eb1fd462e81374c5993b69d3d05c" title="rk4_coms::deallocate\l_rk4_coh" alt="" coords="223,5,369,46"/>
+<area shape="rect" id="node3" href="$classrk4__coms.html#a5af13b35af38a83aed0e367f7053ffc3" title="rk4_coms::deallocate\l_rk4_aux" alt="" coords="223,70,369,111"/>
+<area shape="rect" id="node4" href="$classrk4__coms.html#a52256ca0348235c95a467581d6067dac" title="rk4_coms::allocate\l_rk4_patch" alt="" coords="230,135,362,177"/>
+<area shape="rect" id="node7" href="$classrk4__coms.html#ac355c3cf81ffef1c269338cf8b07c4bc" title="rk4_coms::allocate\l_rk4_coh" alt="" coords="230,201,362,242"/>
+<area shape="rect" id="node10" href="$classrk4__coms.html#afe1de3958c4ca4c64d5fb2160fced95f" title="rk4_coms::allocate\l_rk4_aux" alt="" coords="230,266,362,307"/>
+<area shape="rect" id="node13" href="$classrk4__coms.html#a292fa2f7c65668f516015eff1a3b74e2" title="rk4_coms::allocate\l_bdf2_patch" alt="" coords="230,331,362,373"/>
+<area shape="rect" id="node16" href="$classrk4__coms.html#a38274254cb16401c20124f7620f64ab2" title="rk4_coms::deallocate\l_bdf2_patch" alt="" coords="223,397,369,438"/>
+<area shape="rect" id="node17" href="$classcanopy__radiation__coms.html#abf436863eec6f51fbcad29f1a0ad8833" title="canopy_radiation_coms\l::alloc_radscratch" alt="" coords="217,462,375,503"/>
+<area shape="rect" id="node19" href="$classcanopy__radiation__coms.html#abbcda361926e277937b84aa18b779d72" title="canopy_radiation_coms\l::dealloc_radscratch" alt="" coords="217,527,375,569"/>
+<area shape="rect" id="node18" href="$classcanopy__radiation__coms.html#a5d6cfa703bca9703874fe55efaf4f05d" title="canopy_radiation_coms\l::nullify_radscratch" alt="" coords="433,543,591,585"/>
+<area shape="rect" id="node5" href="$classrk4__coms.html#a34a6a346af3d032c14f416435801598a" title="rk4_coms::nullify_rk4\l_patch" alt="" coords="439,9,585,50"/>
+<area shape="rect" id="node6" href="$classrk4__coms.html#a4206f404f555c50ee6570211356bd537" title="rk4_coms::zero_rk4\l_patch" alt="" coords="443,74,581,115"/>
+<area shape="rect" id="node8" href="$classrk4__coms.html#afe54efd0ad9ab38983314ca0d2557e26" title="rk4_coms::nullify_rk4\l_cohort" alt="" coords="439,139,585,181"/>
+<area shape="rect" id="node9" href="$classrk4__coms.html#a1053434edb41147cb74257d6339eab8f" title="rk4_coms::zero_rk4\l_cohort" alt="" coords="443,205,581,246"/>
+<area shape="rect" id="node11" href="$classrk4__coms.html#a306ba21ba388b2e51767aa9f5d76eda0" title="rk4_coms::nullify_rk4_aux" alt="" coords="425,271,599,297"/>
+<area shape="rect" id="node12" href="$classrk4__coms.html#a0af8d3f6d5452c98c81c5230f3b22343" title="rk4_coms::zero_rk4_aux" alt="" coords="429,321,595,348"/>
+<area shape="rect" id="node14" href="$classrk4__coms.html#a22f63b46db00ae302b1ae688abecc22d" title="rk4_coms::nullify_bdf2\l_patch" alt="" coords="435,373,589,414"/>
+<area shape="rect" id="node15" href="$classrk4__coms.html#a4dc0257365f3ec4614c2e41451517e28" title="rk4_coms::zero_bdf2\l_patch" alt="" coords="440,438,584,479"/>
+</map>

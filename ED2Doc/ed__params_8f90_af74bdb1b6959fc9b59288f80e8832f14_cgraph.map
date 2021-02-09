@@ -1,31 +1,42 @@
 <map id="load_ed_ecosystem_params" name="load_ed_ecosystem_params">
-<area shape="rect" id="node3" href="$fatal__error_8_f90.html#a25fa2525eb2f71a7ab39508ccccf61ee" title="warning" alt="" coords="289,5,356,35"/>
-<area shape="rect" id="node5" href="$ed__params_8f90.html#a2caf4cbc69ad3b7681fef571ba0d787b" title="init_decomp_params" alt="" coords="252,59,393,88"/>
-<area shape="rect" id="node7" href="$ed__params_8f90.html#a606f81135d58d4f3fe3498b581ce7eea" title="init_ff_coms" alt="" coords="276,112,369,141"/>
-<area shape="rect" id="node9" href="$ed__params_8f90.html#aae6f522b02cc842e78d5635c1399601c" title="init_disturb_params" alt="" coords="256,165,389,195"/>
-<area shape="rect" id="node11" href="$ed__params_8f90.html#a143d565950a95de202237d4e388101c9" title="init_physiology_params" alt="" coords="244,219,401,248"/>
-<area shape="rect" id="node13" href="$ed__params_8f90.html#a82e540d1abc17b344e25567cce30f2fc" title="init_met_params" alt="" coords="264,272,381,301"/>
-<area shape="rect" id="node15" href="$ed__params_8f90.html#a9ad3fc95dae56221cb17769b1a51b852" title="init_lapse_params" alt="" coords="260,325,385,355"/>
-<area shape="rect" id="node17" href="$ed__params_8f90.html#a388838ad10e11c3962aefd4118e3c16f" title="init_hydro_coms" alt="" coords="264,379,381,408"/>
-<area shape="rect" id="node19" href="$ed__params_8f90.html#a5cc44cea82dec9d24909807b46b4d165" title="init_soil_coms" alt="" coords="271,432,375,461"/>
-<area shape="rect" id="node21" href="$ed__params_8f90.html#a042d48afe0e36c29a7065500b43004b6" title="init_phen_coms" alt="" coords="267,485,379,515"/>
-<area shape="rect" id="node23" href="$ed__params_8f90.html#a51d5dbbd804bd90f13ddd0689c6e2b74" title="init_ed_misc_coms" alt="" coords="256,539,389,568"/>
-<area shape="rect" id="node25" href="$ed__params_8f90.html#a675fee50cea1da3769cee4b99a67896d" title="init_pft_photo_params" alt="" coords="248,592,397,621"/>
-<area shape="rect" id="node27" href="$ed__params_8f90.html#a0263c036bee68fc0194b052a04e5316e" title="init_pft_resp_params" alt="" coords="252,645,393,675"/>
-<area shape="rect" id="node29" href="$ed__params_8f90.html#a3e351a017b9f9f9ef7843e9f7041be82" title="init_pft_alloc_params" alt="" coords="251,859,395,888"/>
-<area shape="rect" id="node33" href="$ed__params_8f90.html#a719e10b9e06dbf410f4a06eae937a544" title="init_pft_mort_params" alt="" coords="251,752,395,781"/>
-<area shape="rect" id="node35" href="$ed__params_8f90.html#a1e97106c420d4474c8e99ca03cab1dca" title="init_pft_nitro_params" alt="" coords="252,805,393,835"/>
-<area shape="rect" id="node37" href="$ed__params_8f90.html#a15ef44f92d3f70259fd92d0b395f22d8" title="This subroutine initializes plant hydraulic parameters. " alt="" coords="248,699,397,728"/>
-<area shape="rect" id="node41" href="$ed__params_8f90.html#a29b230a8d89c33fcad9397cb52370594" title="init_pft_leaf_params" alt="" coords="253,912,392,941"/>
-<area shape="rect" id="node43" href="$ed__params_8f90.html#af887dfc134ede40b3777de2e5d21e053" title="init_pft_repro_params" alt="" coords="249,965,396,995"/>
-<area shape="rect" id="node45" href="$ed__params_8f90.html#a21ff8ff0bd1d75c0aa63e325b69234c4" title="init_pft_derived_params" alt="" coords="243,1019,403,1048"/>
-<area shape="rect" id="node52" href="$ed__params_8f90.html#a029548f8d070ed57f9c9b1e1a0a8fc3c" title="init_can_air_params" alt="" coords="253,1072,392,1101"/>
-<area shape="rect" id="node56" href="$ed__params_8f90.html#ab8f34fc4864d52e9d15f2825fd5d42b2" title="init_can_rad_params" alt="" coords="252,1125,393,1155"/>
-<area shape="rect" id="node58" href="$ed__params_8f90.html#a8006ef395d1da1e27d9cd7a2092b7505" title="init_can_lyr_params" alt="" coords="253,1179,392,1208"/>
-<area shape="rect" id="node60" href="$ed__params_8f90.html#a3ef1627f6aff0ad10ca705f74d615bf7" title="init_rk4_params" alt="" coords="265,1232,380,1261"/>
-<area shape="rect" id="node31" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="472,908,589,937"/>
-<area shape="rect" id="node39" href="$namespaceplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="460,699,601,728"/>
-<area shape="rect" id="node48" href="$namespaceed__therm__lib.html#a8f0d34fdb7abadb1cf09fd1a74e9e66b" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="467,1006,595,1053"/>
-<area shape="rect" id="node50" href="$namespaceallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="659,1015,781,1044"/>
-<area shape="rect" id="node54" href="$namespacecanopy__air__coms.html#ab103fa081460babbe04c9a5a4699be5f" title="canopy_air_coms::psim" alt="" coords="451,1076,611,1105"/>
+<area shape="rect" id="node2" href="$fatal__error_8_f90.html#a25fa2525eb2f71a7ab39508ccccf61ee" title="warning" alt="" coords="289,5,356,32"/>
+<area shape="rect" id="node3" href="$ed__params_8f90.html#a2caf4cbc69ad3b7681fef571ba0d787b" title="init_decomp_params" alt="" coords="251,56,394,83"/>
+<area shape="rect" id="node4" href="$ed__params_8f90.html#a606f81135d58d4f3fe3498b581ce7eea" title="init_ff_coms" alt="" coords="276,107,369,133"/>
+<area shape="rect" id="node5" href="$ed__params_8f90.html#aae6f522b02cc842e78d5635c1399601c" title="init_disturb_params" alt="" coords="255,157,390,184"/>
+<area shape="rect" id="node6" href="$ed__params_8f90.html#a143d565950a95de202237d4e388101c9" title="init_physiology_params" alt="" coords="243,208,402,235"/>
+<area shape="rect" id="node7" href="$ed__params_8f90.html#a82e540d1abc17b344e25567cce30f2fc" title="init_met_params" alt="" coords="263,259,382,285"/>
+<area shape="rect" id="node8" href="$ed__params_8f90.html#a9ad3fc95dae56221cb17769b1a51b852" title="init_lapse_params" alt="" coords="259,309,386,336"/>
+<area shape="rect" id="node9" href="$ed__params_8f90.html#a388838ad10e11c3962aefd4118e3c16f" title="init_hydro_coms" alt="" coords="264,360,381,387"/>
+<area shape="rect" id="node10" href="$ed__params_8f90.html#a5cc44cea82dec9d24909807b46b4d165" title="init_soil_coms" alt="" coords="270,411,375,437"/>
+<area shape="rect" id="node14" href="$ed__params_8f90.html#a042d48afe0e36c29a7065500b43004b6" title="init_phen_coms" alt="" coords="266,461,379,488"/>
+<area shape="rect" id="node15" href="$ed__params_8f90.html#a51d5dbbd804bd90f13ddd0689c6e2b74" title="init_ed_misc_coms" alt="" coords="255,512,390,539"/>
+<area shape="rect" id="node16" href="$ed__params_8f90.html#a16b35f3e326309f6ce6cada0e93cd0a7" title="init_hrzshade_params" alt="" coords="248,563,397,589"/>
+<area shape="rect" id="node17" href="$ed__params_8f90.html#a3e351a017b9f9f9ef7843e9f7041be82" title="init_pft_alloc_params" alt="" coords="250,613,395,640"/>
+<area shape="rect" id="node22" href="$ed__params_8f90.html#a675fee50cea1da3769cee4b99a67896d" title="init_pft_photo_params" alt="" coords="247,664,398,691"/>
+<area shape="rect" id="node23" href="$ed__params_8f90.html#a0263c036bee68fc0194b052a04e5316e" title="init_pft_resp_params" alt="" coords="251,715,394,741"/>
+<area shape="rect" id="node24" href="$ed__params_8f90.html#a719e10b9e06dbf410f4a06eae937a544" title="init_pft_mort_params" alt="" coords="251,765,395,792"/>
+<area shape="rect" id="node25" href="$ed__params_8f90.html#a1e97106c420d4474c8e99ca03cab1dca" title="init_pft_nitro_params" alt="" coords="251,816,394,843"/>
+<area shape="rect" id="node26" href="$ed__params_8f90.html#a15ef44f92d3f70259fd92d0b395f22d8" title="This subroutine initializes plant hydraulic parameters. " alt="" coords="247,867,398,893"/>
+<area shape="rect" id="node29" href="$ed__params_8f90.html#aa050a806907bd4b7730f6efce7de37d6" title="This subroutine initialises specific heat parameters for plants. " alt="" coords="244,917,401,944"/>
+<area shape="rect" id="node30" href="$ed__params_8f90.html#a7a6f5799fb847f4f24415a20f7ca1b76" title="init_pft_phen_params" alt="" coords="249,968,396,995"/>
+<area shape="rect" id="node31" href="$ed__params_8f90.html#af887dfc134ede40b3777de2e5d21e053" title="init_pft_repro_params" alt="" coords="249,1019,396,1045"/>
+<area shape="rect" id="node32" href="$ed__params_8f90.html#a029548f8d070ed57f9c9b1e1a0a8fc3c" title="init_can_air_params" alt="" coords="253,1069,392,1096"/>
+<area shape="rect" id="node38" href="$ed__params_8f90.html#ab8f34fc4864d52e9d15f2825fd5d42b2" title="init_can_rad_params" alt="" coords="251,1120,394,1147"/>
+<area shape="rect" id="node39" href="$ed__params_8f90.html#a8006ef395d1da1e27d9cd7a2092b7505" title="init_can_lyr_params" alt="" coords="253,1171,392,1197"/>
+<area shape="rect" id="node41" href="$ed__params_8f90.html#a1d00e9063357b361a51f5cdf70a3f40f" title="init_dt_thermo_params" alt="" coords="245,1221,400,1248"/>
+<area shape="rect" id="node11" href="$classsoil__coms.html#aeeaaeb4eedbb6c0373e078df7dbadb65" title="soil_coms::ed_init_soil" alt="" coords="464,360,619,387"/>
+<area shape="rect" id="node12" href="$classsoil__coms.html#a73e12fe029c8b3eb5afe2c2c000efc19" title="soil_coms::matric_potential" alt="" coords="451,411,632,437"/>
+<area shape="rect" id="node13" href="$classsoil__coms.html#a7d567cf6ace1023e1c5334052aece8b5" title="soil_coms::soil_moisture" alt="" coords="458,461,625,488"/>
+<area shape="rect" id="node18" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="681,613,799,640"/>
+<area shape="rect" id="node19" href="$classallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="482,588,601,615"/>
+<area shape="rect" id="node20" href="$classallometry.html#a08a0764bc1887e71051914ed5b30c72c" title="allometry::size2bd" alt="" coords="477,639,605,665"/>
+<area shape="rect" id="node21" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="479,689,603,716"/>
+<area shape="rect" id="node27" href="$classplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="470,841,613,868"/>
+<area shape="rect" id="node28" href="$classplant__hydro.html#ae27d78c83f41d9d6fdd38ad2052b32af" title="Convert water potential of leaf and wood to relative water content " alt="" coords="470,892,613,919"/>
+<area shape="rect" id="node33" href="$classcanopy__air__coms.html#aba7cbe776dbfa9815870ad3686949041" title="canopy_air_coms::psim8" alt="" coords="458,968,625,995"/>
+<area shape="rect" id="node34" href="$classcanopy__air__coms.html#aef33f0eeea82151a8edb6dc38c4cc921" title="canopy_air_coms::psih8" alt="" coords="460,1019,623,1045"/>
+<area shape="rect" id="node36" href="$numutils_8f90.html#abee471b10b1564285b25aa1b7b6f1577" title="cbrt" alt="" coords="519,1069,563,1096"/>
+<area shape="rect" id="node37" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="511,1120,572,1147"/>
+<area shape="rect" id="node35" href="$numutils_8f90.html#ad4b910be4531c088be1d1e83197aa36e" title="cbrt8" alt="" coords="715,1019,765,1045"/>
+<area shape="rect" id="node40" href="$classcanopy__layer__coms.html#ab4c3f9e7c1af06ec442d70c76e66130b" title="canopy_layer_coms::\lalloc_canopy_layer" alt="" coords="468,1171,615,1213"/>
 </map>

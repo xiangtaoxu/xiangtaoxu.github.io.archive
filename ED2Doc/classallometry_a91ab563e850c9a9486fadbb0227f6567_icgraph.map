@@ -1,0 +1,32 @@
+<map id="allometry::size2krdepth" name="allometry::size2krdepth">
+<area shape="rect" id="node2" href="$classdisturbance.html#a1999d953face6c955cc832c0c9e4f223" title="disturbance::prune\l_lianas" alt="" coords="246,313,375,355"/>
+<area shape="rect" id="node8" href="$classed__type__init.html#ab30c622196bad8ad50484812a3fe1868" title="ed_type_init::init\l_ed_cohort_vars" alt="" coords="251,697,370,739"/>
+<area shape="rect" id="node23" href="$classfuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="This subroutine will merge two cohorts into 1. " alt="" coords="241,227,380,268"/>
+<area shape="rect" id="node22" href="$classreproduction.html#ad090bf9d44a1ad3c3a31ab425e2bfa1f" title="reproduction::reproduction\l_driver" alt="" coords="698,372,870,413"/>
+<area shape="rect" id="node30" href="$classupdate__derived__utils.html#a48e3099ad317b73455cb635674e4c403" title="update_derived_utils\l::update_cohort_derived_props" alt="" coords="211,431,411,472"/>
+<area shape="rect" id="node3" href="$classdisturbance.html#a033dedd1b8c920bd36b6fd04911c4e94" title="disturbance::apply\l_disturbances" alt="" coords="943,263,1071,304"/>
+<area shape="rect" id="node4" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="1137,299,1290,340"/>
+<area shape="rect" id="node5" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1339,306,1418,333"/>
+<area shape="rect" id="node6" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1467,306,1541,333"/>
+<area shape="rect" id="node7" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1589,306,1640,333"/>
+<area shape="rect" id="node9" href="$classdisturbance.html#ab9582ce139b127edbddc824c2d9f1df3" title="disturbance::plant\l_patch" alt="" coords="488,537,613,579"/>
+<area shape="rect" id="node12" href="$classed__bigleaf__init.html#a45c8aa14d759e66b8b9f2bbe5f240005" title="ed_bigleaf_init::sas\l_to_bigleaf" alt="" coords="717,865,851,907"/>
+<area shape="rect" id="node14" href="$classed__nbg__init.html#af7ee94ea15e1a02af41c3e57a2946387" title="ed_nbg_init::init_nbg\l_cohorts" alt="" coords="480,908,621,949"/>
+<area shape="rect" id="node16" href="$classed__nbg__init.html#a57af8a94c755492a5083839151520657" title="ed_nbg_init::init_cohorts\l_by_layers" alt="" coords="469,973,632,1015"/>
+<area shape="rect" id="node17" href="$classed__nbg__init.html#a9146f3e54e931abfb8c91e57df8958bc" title="ed_nbg_init::near_bare\l_ground_big_leaf_init" alt="" coords="707,748,861,789"/>
+<area shape="rect" id="node18" href="$ed__read__ed10__20__history_8f90.html#ae4e49e107b22c0bb119ee87348e513b8" title="read_ed10_ed20_history_file" alt="" coords="691,595,877,622"/>
+<area shape="rect" id="node19" href="$ed__read__ed21__history_8f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="708,646,860,673"/>
+<area shape="rect" id="node20" href="$ed__read__ed21__history_8f90.html#a7853e92e8b5f8ed0d9ad31f5259b3b8a" title="read_ed21_history_unstruct" alt="" coords="459,705,642,731"/>
+<area shape="rect" id="node21" href="$ed__read__ed21__history_8f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="479,806,623,833"/>
+<area shape="rect" id="node10" href="$events_8f90.html#a3fcb64b4de4ae9408c3e365f6cbd1be6" title="event_planting" alt="" coords="731,543,837,570"/>
+<area shape="rect" id="node11" href="$events_8f90.html#ad9f17e2da07d80a0734f81d8b2e27d25" title="prescribed_event" alt="" coords="946,530,1067,557"/>
+<area shape="rect" id="node13" href="$classed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="925,719,1088,760"/>
+<area shape="rect" id="node15" href="$classed__nbg__init.html#a301dee8c90b4ea9c4c259ac7bd6b97eb" title="ed_nbg_init::near_bare\l_ground_init" alt="" coords="707,931,861,972"/>
+<area shape="rect" id="node24" href="$classfuse__fiss__utils.html#a58e649bf27d8b87ff164e16ba0c3bccb" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="481,204,620,245"/>
+<area shape="rect" id="node29" href="$classfuse__fiss__utils.html#a331f78834118341c99058f69325c95fc" title="fuse_fiss_utils::old\l_fuse_cohorts" alt="" coords="485,139,616,180"/>
+<area shape="rect" id="node25" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="1169,110,1258,137"/>
+<area shape="rect" id="node26" href="$classfuse__fiss__utils.html#a9d06bb3b18a9c6bf45b3cc30b01cb4be" title="This subroutine will merge two patches into 1. " alt="" coords="715,103,853,144"/>
+<area shape="rect" id="node27" href="$classfuse__fiss__utils.html#ab15ffcdcb79ee2bcb69f5a9954ca14ea" title="fuse_fiss_utils::new\l_fuse_patches" alt="" coords="937,103,1076,144"/>
+<area shape="rect" id="node28" href="$classfuse__fiss__utils.html#a6776a45b5a81e01186fbac86854c6741" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="941,168,1072,209"/>
+<area shape="rect" id="node31" href="$classstructural__growth.html#a469170de4bcc0161752017f5904a1939" title="structural_growth::\ldbstruct_dt" alt="" coords="941,416,1072,457"/>
+</map>

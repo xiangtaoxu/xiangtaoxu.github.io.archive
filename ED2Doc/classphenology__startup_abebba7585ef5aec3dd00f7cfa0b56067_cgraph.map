@@ -1,0 +1,10 @@
+<map id="phenology_startup::phenology_init" name="phenology_startup::phenology_init">
+<area shape="rect" id="node2" href="$classphenology__startup.html#aa83586e75a022d6fcb5816972361282d" title="phenology_startup::\lread_prescribed_phenology" alt="" coords="190,107,370,149"/>
+<area shape="rect" id="node8" href="$classphenology__startup.html#aca2b4422c059ad87aee0f7aa7f7c8964" title="phenology_startup::\lread_thermal_sums" alt="" coords="212,173,348,214"/>
+<area shape="rect" id="node3" href="$classphenology__aux.html#aac80b26fc41e788ad7669441222543ff" title="phenology_aux::prescribed\l_leaf_state" alt="" coords="419,5,597,46"/>
+<area shape="rect" id="node4" href="$great__circle_8f90.html#abff00715b3227e38afe4c1a67416e4d2" title="dist_gc" alt="" coords="476,121,540,148"/>
+<area shape="rect" id="node5" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="468,172,548,199"/>
+<area shape="rect" id="node6" href="$dateutils_8f90.html#ab4306c1f20ef02cf582fb1050fa0c5d9" title="julday" alt="" coords="480,71,536,97"/>
+<area shape="rect" id="node7" href="$dateutils_8f90.html#acbfdb1c78beb593447108203011b380c" title="isleap" alt="" coords="645,147,701,173"/>
+<area shape="rect" id="node9" href="$classphenology__startup.html#a7e3ac783d1459d2f3ac41c2af6d761c9" title="phenology_startup::\lfill_thermal_sums" alt="" coords="440,274,576,315"/>
+</map>

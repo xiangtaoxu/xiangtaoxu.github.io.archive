@@ -1,0 +1,10 @@
+<map id="ed_work_vars::ed_alloc_work_vec" name="ed_work_vars::ed_alloc_work_vec">
+<area shape="rect" id="node2" href="$ed__mpass__init_8_f90.html#a92ea90e711dba589f46d6e84f21526c8" title="ed_masterput_worklist_info" alt="" coords="443,107,624,133"/>
+<area shape="rect" id="node5" href="$ed__mpass__init_8_f90.html#a5ad92c335f14b12bdba706f520c2e3e8" title="ed_nodeget_worklist_info" alt="" coords="449,157,618,184"/>
+<area shape="rect" id="node7" href="$ed__para__init_8f90.html#a66a081a7094eb8a5e3e9d342c96dacd5" title="ed_parvec_work" alt="" coords="245,5,363,32"/>
+<area shape="rect" id="node9" href="$ed__para__init_8f90.html#a4043d80167cecaf841551615bed3d933" title="ed_load_work_from_history" alt="" coords="213,56,395,83"/>
+<area shape="rect" id="node3" href="$ed__1st_8_f90.html#a210220ea32a2360ac21ce627205a9316" title="ed_1st_master" alt="" coords="673,107,781,133"/>
+<area shape="rect" id="node4" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="829,132,880,159"/>
+<area shape="rect" id="node6" href="$ed__1st_8_f90.html#a88c7eafef7545a0e8343dd5a148f8320" title="ed_1st_node" alt="" coords="679,157,775,184"/>
+<area shape="rect" id="node8" href="$ed__para__init_8f90.html#a7e154783bfabc64af7dcc857db4dffbb" title="ed_node_decomp" alt="" coords="471,56,595,83"/>
+</map>

@@ -1,6 +1,13 @@
 <map id="ed_masterput_worklist_info" name="ed_masterput_worklist_info">
-<area shape="rect" id="node3" href="$namespaceed__mem__alloc.html#a410d759cf4e13ea20ace04982d91d9bb" title="ed_mem_alloc::ed_memory\l_allocation" alt="" coords="236,66,417,113"/>
-<area shape="rect" id="node5" href="$namespaceed__mem__grid__dim__defs.html#a036b961a0bfb59f57b9f678b03c9a461" title="ed_mem_grid_dim_defs\l::define_grid_dim_pointer" alt="" coords="468,5,633,51"/>
-<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="511,75,591,104"/>
-<area shape="rect" id="node9" href="$ed__grid_8f90.html#a91112e6806db1100d405228002308384" title="ed_newgrid" alt="" coords="507,128,595,157"/>
+<area shape="rect" id="node2" href="$classed__work__vars.html#a5df6efe6c5b192d365161ad999858f25" title="ed_work_vars::ed_alloc\l_work_vec" alt="" coords="247,5,406,46"/>
+<area shape="rect" id="node3" href="$classed__work__vars.html#a328d5a0e766e58bd6e2b015fa91ad8db" title="ed_work_vars::ed_nullify\l_work_vec" alt="" coords="243,70,410,111"/>
+<area shape="rect" id="node4" href="$classed__work__vars.html#a61bfa6695e1a8ac94e02b917a83aabea" title="ed_work_vars::ed_dealloc\l_work_vec" alt="" coords="240,135,413,177"/>
+<area shape="rect" id="node5" href="$classed__mem__alloc.html#a410d759cf4e13ea20ace04982d91d9bb" title="ed_mem_alloc::ed_memory\l_allocation" alt="" coords="235,201,418,242"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#a01c02fd632892eb11eaac0daacc106d2" title="Allocates the global dimensions (outside the structure). " alt="" coords="489,142,647,183"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#a0df5f674bdb76d915f34b1c6987f6815" title="Nullifies all polygon pointers. " alt="" coords="717,47,864,89"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#aa47dd5e1964efcbfa0844f75d1763ce5" title="Allocates the polygon&#45;level variables. " alt="" coords="489,77,647,118"/>
+<area shape="rect" id="node10" href="$classed__work__vars.html#a01ba1ac60fb7fc6120b2caa0044b3c21" title="ed_work_vars::ed_alloc_work" alt="" coords="471,208,665,235"/>
+<area shape="rect" id="node11" href="$classed__work__vars.html#aa1df64125c17b7fc7f50eda82c32e805" title="ed_work_vars::ed_nullify_work" alt="" coords="467,259,669,285"/>
+<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="751,229,831,256"/>
+<area shape="rect" id="node12" href="$ed__grid_8f90.html#a91112e6806db1100d405228002308384" title="ed_newgrid" alt="" coords="524,360,612,387"/>
 </map>

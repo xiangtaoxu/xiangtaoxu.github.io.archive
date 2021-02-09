@@ -1,0 +1,7 @@
+<map id="fuse_fiss_utils::old_fuse_patches" name="fuse_fiss_utils::old_fuse_patches">
+<area shape="rect" id="node2" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="387,5,477,32"/>
+<area shape="rect" id="node5" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="185,54,338,95"/>
+<area shape="rect" id="node3" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="525,32,600,59"/>
+<area shape="rect" id="node4" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="648,32,699,59"/>
+<area shape="rect" id="node6" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="393,57,471,84"/>
+</map>

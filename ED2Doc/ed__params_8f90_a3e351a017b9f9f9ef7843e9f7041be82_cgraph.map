@@ -1,3 +1,6 @@
 <map id="init_pft_alloc_params" name="init_pft_alloc_params">
-<area shape="rect" id="node3" href="$namespaceallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="201,5,319,35"/>
+<area shape="rect" id="node2" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="377,52,495,78"/>
+<area shape="rect" id="node3" href="$classallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="205,26,323,53"/>
+<area shape="rect" id="node4" href="$classallometry.html#a08a0764bc1887e71051914ed5b30c72c" title="allometry::size2bd" alt="" coords="200,77,328,104"/>
+<area shape="rect" id="node5" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="202,128,326,154"/>
 </map>

@@ -1,0 +1,8 @@
+<map id="ed_init::read_obstime" name="ed_init::read_obstime">
+<area shape="rect" id="node2" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="432,5,512,32"/>
+<area shape="rect" id="node3" href="$dateutils_8f90.html#a5f9be0094541c4d3ba8275a70f89db9d" title="date_2_seconds" alt="" coords="224,81,341,108"/>
+<area shape="rect" id="node7" href="$classed__init.html#a13c65dbcfd65ddf809bae5ceb27d55d9" title="Remove the specific entry of obstime_list and update obstime_list_len. " alt="" coords="201,31,365,57"/>
+<area shape="rect" id="node4" href="$dateutils_8f90.html#a56423cc8c95e08c48faaadf0ae9a2100" title="date_abs_secs2" alt="" coords="413,81,531,108"/>
+<area shape="rect" id="node5" href="$dateutils_8f90.html#acbfdb1c78beb593447108203011b380c" title="isleap" alt="" coords="683,81,739,108"/>
+<area shape="rect" id="node6" href="$dateutils_8f90.html#ab4306c1f20ef02cf582fb1050fa0c5d9" title="julday" alt="" coords="579,107,635,133"/>
+</map>

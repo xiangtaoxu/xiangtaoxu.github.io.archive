@@ -1,0 +1,9 @@
+<map id="ed_mem_alloc::ed_memory_allocation" name="ed_mem_alloc::ed_memory_allocation">
+<area shape="rect" id="node2" href="$classed__state__vars.html#a01c02fd632892eb11eaac0daacc106d2" title="Allocates the global dimensions (outside the structure). " alt="" coords="260,108,417,149"/>
+<area shape="rect" id="node4" href="$classed__state__vars.html#a0df5f674bdb76d915f34b1c6987f6815" title="Nullifies all polygon pointers. " alt="" coords="488,13,635,55"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#aa47dd5e1964efcbfa0844f75d1763ce5" title="Allocates the polygon&#45;level variables. " alt="" coords="260,43,417,84"/>
+<area shape="rect" id="node6" href="$classed__work__vars.html#a01ba1ac60fb7fc6120b2caa0044b3c21" title="ed_work_vars::ed_alloc_work" alt="" coords="241,174,436,201"/>
+<area shape="rect" id="node7" href="$classed__work__vars.html#aa1df64125c17b7fc7f50eda82c32e805" title="ed_work_vars::ed_nullify_work" alt="" coords="238,225,439,251"/>
+<area shape="rect" id="node3" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="521,195,601,222"/>
+<area shape="rect" id="node8" href="$ed__grid_8f90.html#a91112e6806db1100d405228002308384" title="ed_newgrid" alt="" coords="295,326,383,353"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="average_utils::isqu_ftz" name="average_utils::isqu_ftz">
+<area shape="rect" id="node2" href="$classaverage__utils.html#a24f0cd542ec9741c1bcc76e640498cd2" title="This subroutine integrates most of the monthly mean variables. This sub&#45;routine is called after the d..." alt="" coords="208,5,365,46"/>
+<area shape="rect" id="node7" href="$classaverage__utils.html#af429d166f6097c18d6ab4ce05adbd31f" title="This subroutine integrates most of the mean diel variables. This subroutine is called after the fmean..." alt="" coords="208,70,365,111"/>
+<area shape="rect" id="node3" href="$classedio.html#a7ce965022ac8a52d739c5819f06f8e43" title="edio::ed_output" alt="" coords="414,45,525,72"/>
+<area shape="rect" id="node4" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="574,45,653,72"/>
+<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="701,45,776,72"/>
+<area shape="rect" id="node6" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="824,45,875,72"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fuse_fiss_utils::rescale_patches" name="fuse_fiss_utils::rescale_patches">
+<area shape="rect" id="node2" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="465,5,554,32"/>
+<area shape="rect" id="node5" href="$classreproduction.html#ad090bf9d44a1ad3c3a31ab425e2bfa1f" title="reproduction::reproduction\l_driver" alt="" coords="211,57,383,98"/>
+<area shape="rect" id="node6" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="433,57,586,98"/>
+<area shape="rect" id="node3" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="763,35,837,61"/>
+<area shape="rect" id="node4" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="885,35,936,61"/>
+<area shape="rect" id="node7" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="635,60,714,87"/>
+</map>

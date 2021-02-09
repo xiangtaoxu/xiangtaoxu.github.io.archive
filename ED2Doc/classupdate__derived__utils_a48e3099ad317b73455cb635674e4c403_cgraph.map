@@ -1,0 +1,18 @@
+<map id="update_derived_utils::update_cohort_derived_props" name="update_derived_utils::update_cohort_derived_props">
+<area shape="rect" id="node2" href="$classallometry.html#ab6e678cf9b820dfc053d8c150bb21372" title="allometry::bd2dbh" alt="" coords="284,5,409,32"/>
+<area shape="rect" id="node3" href="$classallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="498,69,617,96"/>
+<area shape="rect" id="node4" href="$classallometry.html#a91ab563e850c9a9486fadbb0227f6567" title="allometry::size2krdepth" alt="" coords="268,208,425,235"/>
+<area shape="rect" id="node6" href="$classallometry.html#a67787845882155e7adf0cbb05b268d7c" title="allometry::bl2dbh" alt="" coords="497,145,618,172"/>
+<area shape="rect" id="node7" href="$classallometry.html#a1f747b7e54286ecc0674e969deae51f6" title="allometry::bl2h" alt="" coords="293,107,400,133"/>
+<area shape="rect" id="node8" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="675,528,799,555"/>
+<area shape="rect" id="node10" href="$classallometry.html#ac230dfaa6f3a6177011cc298eecb569a" title="allometry::size2bt" alt="" coords="284,309,409,336"/>
+<area shape="rect" id="node12" href="$classallometry.html#a774c3e4785f2bfe0a7fe2d5d15293137" title="allometry::size2xb" alt="" coords="493,261,621,288"/>
+<area shape="rect" id="node13" href="$classallometry.html#a5bd25d4c4a3c5dda8a2158e3c7c57792" title="allometry::ed_balive" alt="" coords="488,425,627,452"/>
+<area shape="rect" id="node14" href="$classallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="270,477,423,504"/>
+<area shape="rect" id="node15" href="$classallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="269,579,425,605"/>
+<area shape="rect" id="node17" href="$classupdate__derived__utils.html#ac2a520391f9c8ebc8960794ede947cc6" title="update_derived_utils\l::update_cohort_plastic_trait" alt="" coords="253,361,440,402"/>
+<area shape="rect" id="node5" href="$classallometry.html#aa96d4524c2ac20b6604bb171bbf3559f" title="allometry::size2prd" alt="" coords="491,208,623,235"/>
+<area shape="rect" id="node9" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="849,553,967,580"/>
+<area shape="rect" id="node11" href="$classallometry.html#a0a36cf7374fc6c412a4a3975429e4127" title="allometry::size2vol" alt="" coords="492,312,623,339"/>
+<area shape="rect" id="node16" href="$classallometry.html#aed6e96368f347aaebe3a7c16fe32289f" title="allometry::size2ca" alt="" coords="493,579,621,605"/>
+</map>

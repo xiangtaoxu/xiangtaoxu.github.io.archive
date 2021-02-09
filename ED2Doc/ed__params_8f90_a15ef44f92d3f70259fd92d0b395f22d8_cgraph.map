@@ -1,3 +1,4 @@
 <map id="init_pft_hydro_params" name="init_pft_hydro_params">
-<area shape="rect" id="node3" href="$namespaceplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="207,5,348,35"/>
+<area shape="rect" id="node2" href="$classplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="206,5,349,32"/>
+<area shape="rect" id="node3" href="$classplant__hydro.html#ae27d78c83f41d9d6fdd38ad2052b32af" title="Convert water potential of leaf and wood to relative water content " alt="" coords="206,56,349,83"/>
 </map>

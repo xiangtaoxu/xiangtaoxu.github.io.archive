@@ -1,7 +1,4 @@
 <map id="ed_state_vars::polygontype" name="ed_state_vars::polygontype">
-<area shape="rect" id="node2" href="$structphenology__coms_1_1prescribed__phen.html" title="phenology_coms::prescribed_phen" alt="" coords="263,5,484,35"/>
-<area shape="rect" id="node4" href="$structmet__driver__coms_1_1met__driv__state.html" title="met_driver_coms::met\l_driv_state" alt="" coords="297,58,449,105"/>
-<area shape="rect" id="node6" href="$structdisturb__coms_1_1lutime.html" title="disturb_coms::lutime" alt="" coords="303,128,444,157"/>
-<area shape="rect" id="node8" href="$structed__state__vars_1_1sitetype.html" title="Contains arrays of patches that populate the current site. " alt="" coords="295,181,452,211"/>
-<area shape="rect" id="node10" href="$structed__state__vars_1_1patchtype.html" title="Contains arrays of cohorts that populate the current patch. &#160;&#160;This is the lowest (most nested) part o..." alt="" coords="7,181,175,211"/>
+<area shape="rect" id="node2" href="$structed__state__vars_1_1sitetype.html" title="Contains arrays of patches that populate the current site. " alt="" coords="17,96,175,123"/>
+<area shape="rect" id="node3" href="$structed__state__vars_1_1patchtype.html" title="Contains arrays of cohorts that populate the current patch. This is the lowest (most nested) part of ..." alt="" coords="11,5,180,32"/>
 </map>

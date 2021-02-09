@@ -1,0 +1,10 @@
+<map id="fuse_fiss_utils::fuse_2_patches" name="fuse_fiss_utils::fuse_2_patches">
+<area shape="rect" id="node2" href="$classdisturbance.html#a033dedd1b8c920bd36b6fd04911c4e94" title="disturbance::apply\l_disturbances" alt="" coords="197,5,325,46"/>
+<area shape="rect" id="node7" href="$classfuse__fiss__utils.html#ab15ffcdcb79ee2bcb69f5a9954ca14ea" title="fuse_fiss_utils::new\l_fuse_patches" alt="" coords="192,135,331,177"/>
+<area shape="rect" id="node9" href="$classfuse__fiss__utils.html#a6776a45b5a81e01186fbac86854c6741" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="196,70,327,111"/>
+<area shape="rect" id="node3" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="379,70,533,111"/>
+<area shape="rect" id="node4" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="582,80,661,107"/>
+<area shape="rect" id="node5" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="709,107,784,133"/>
+<area shape="rect" id="node6" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="832,107,883,133"/>
+<area shape="rect" id="node8" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="411,136,501,163"/>
+</map>

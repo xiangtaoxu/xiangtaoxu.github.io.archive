@@ -1,5 +1,21 @@
 <map id="exterminate_patches_except" name="exterminate_patches_except">
-<area shape="rect" id="node3" href="$namespacefuse__fiss__utils.html#a480df748f946b24daa940c15d72abfe2" title="This subroutine will eliminate tiny or empty patches. This is intended to eliminate patches that have..." alt="" coords="197,5,365,51"/>
-<area shape="rect" id="node5" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="413,44,493,73"/>
-<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2eff7704ded4cba474993645d98f69b7" title="fail_whale" alt="" coords="241,125,321,155"/>
+<area shape="rect" id="node2" href="$classfuse__fiss__utils.html#ac687a950d92b23661a3d3ef73b723201" title="This subroutine will eliminate tiny or empty patches. This is intended to eliminate patches that have..." alt="" coords="197,164,365,206"/>
+<area shape="rect" id="node20" href="$fatal__error_8_f90.html#a2eff7704ded4cba474993645d98f69b7" title="fail_whale" alt="" coords="241,230,321,257"/>
+<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="884,222,964,249"/>
+<area shape="rect" id="node3" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="437,172,561,198"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="420,274,577,315"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#abd0a1c636db86530367e9d24e386ec22" title="Copies part of one site from one place to another (only the ones where mask is .true.) " alt="" coords="429,522,569,563"/>
+<area shape="rect" id="node17" href="$classed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="413,106,584,147"/>
+<area shape="rect" id="node19" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="468,222,529,249"/>
+<area shape="rect" id="node4" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="658,172,777,198"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#aa13b6faa5a0031bd5df50581ac0db0ff" title="Nullifies all patch pointers. " alt="" coords="644,274,791,315"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="639,652,796,694"/>
+<area shape="rect" id="node11" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="647,522,787,563"/>
+<area shape="rect" id="node12" href="$classed__state__vars.html#abef71303542156f0c150c4568b4828aa" title="Copies the variables that are not fmean, dmean, mmean, mmsqu, qmean, and qmsqu. " alt="" coords="646,587,789,628"/>
+<area shape="rect" id="node13" href="$classed__state__vars.html#a6f38243f52095e9ee7da38e2b2ce81ab" title="Copies the variables that are fmean. " alt="" coords="639,718,796,759"/>
+<area shape="rect" id="node14" href="$classed__state__vars.html#ac319365c7defa57422526b06b56bd61c" title="Copies the variables that are dmean. " alt="" coords="637,783,797,824"/>
+<area shape="rect" id="node15" href="$classed__state__vars.html#a31ce6a86f04b6fb292bdf3a41dd3a66e" title="Copies the variables that are mmean. " alt="" coords="635,339,799,380"/>
+<area shape="rect" id="node16" href="$classed__state__vars.html#a2630aeadf5d56b1b603e8eb6c95b68eb" title="Copies the variables that are qmean. " alt="" coords="637,404,797,446"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="851,652,997,694"/>
+<area shape="rect" id="node18" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="632,106,803,147"/>
 </map>

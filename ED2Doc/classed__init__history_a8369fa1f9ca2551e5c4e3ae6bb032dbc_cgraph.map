@@ -1,0 +1,41 @@
+<map id="ed_init_history::resume_from_history" name="ed_init_history::resume_from_history">
+<area shape="rect" id="node2" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="215,125,372,166"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="215,1310,372,1352"/>
+<area shape="rect" id="node7" href="$classed__state__vars.html#ad14e882e6c902118f0e369dd846eeedf" title="Allocates the site&#45;level variables. " alt="" coords="215,438,372,480"/>
+<area shape="rect" id="node9" href="$classsoil__coms.html#ad616d97c9e0bec81cd93be86cd178216" title="soil_coms::alloc_soilgrid" alt="" coords="211,1376,375,1403"/>
+<area shape="rect" id="node10" href="$classphenology__startup.html#abebba7585ef5aec3dd00f7cfa0b56067" title="phenology_startup::\lphenology_init" alt="" coords="440,1092,576,1133"/>
+<area shape="rect" id="node18" href="$classlanduse__init.html#a56d745f881addacf5ce96cf88c53c4dd" title="landuse_init::read\l_landuse_matrix" alt="" coords="446,1209,570,1250"/>
+<area shape="rect" id="node22" href="$utils__f_8f90.html#a8918adb41c1a9ae40d85373da53742db" title="makefnam" alt="" coords="252,1259,335,1286"/>
+<area shape="rect" id="node4" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="919,515,999,542"/>
+<area shape="rect" id="node13" href="$great__circle_8f90.html#abff00715b3227e38afe4c1a67416e4d2" title="dist_gc" alt="" coords="927,1158,991,1184"/>
+<area shape="rect" id="node26" href="$classed__init__history.html#a45e7ee5a09d15e899097e360bd1408cd" title="ed_init_history::fill\l_history_grid" alt="" coords="230,765,357,806"/>
+<area shape="rect" id="node38" href="$classed__init__history.html#ac7de1cc6ba28f76f2981aa1edabf3a50" title="ed_init_history::fill\l_history_polygon" alt="" coords="445,256,571,297"/>
+<area shape="rect" id="node39" href="$classed__init__history.html#abf6f906239f5b1ad9792f9540fcc94c5" title="ed_init_history::fill\l_history_site" alt="" coords="445,321,571,362"/>
+<area shape="rect" id="node40" href="$classed__init__history.html#afbf45d45eaa72912279f986e47b04f8c" title="ed_init_history::fill\l_history_patch" alt="" coords="445,190,571,232"/>
+<area shape="rect" id="node3" href="$classed__state__vars.html#aa13b6faa5a0031bd5df50581ac0db0ff" title="Nullifies all patch pointers. " alt="" coords="435,125,581,166"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="435,1377,581,1418"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#ade6f2776a02bd9a26ee31fe75cda6170" title="Nullifies all site pointers. " alt="" coords="435,438,581,480"/>
+<area shape="rect" id="node11" href="$classphenology__startup.html#aa83586e75a022d6fcb5816972361282d" title="phenology_startup::\lread_prescribed_phenology" alt="" coords="641,1092,821,1133"/>
+<area shape="rect" id="node16" href="$classphenology__startup.html#aca2b4422c059ad87aee0f7aa7f7c8964" title="phenology_startup::\lread_thermal_sums" alt="" coords="663,1026,799,1068"/>
+<area shape="rect" id="node12" href="$classphenology__aux.html#aac80b26fc41e788ad7669441222543ff" title="phenology_aux::prescribed\l_leaf_state" alt="" coords="870,1092,1047,1133"/>
+<area shape="rect" id="node14" href="$dateutils_8f90.html#ab4306c1f20ef02cf582fb1050fa0c5d9" title="julday" alt="" coords="931,1326,987,1352"/>
+<area shape="rect" id="node15" href="$dateutils_8f90.html#acbfdb1c78beb593447108203011b380c" title="isleap" alt="" coords="1096,1351,1152,1378"/>
+<area shape="rect" id="node17" href="$classphenology__startup.html#a7e3ac783d1459d2f3ac41c2af6d761c9" title="phenology_startup::\lfill_thermal_sums" alt="" coords="891,974,1027,1016"/>
+<area shape="rect" id="node19" href="$classlanduse__init.html#a37edf8529fafed4832cab5c4d135e3a5" title="landuse_init::read\l_plantation_fractions" alt="" coords="659,1209,802,1250"/>
+<area shape="rect" id="node20" href="$great__circle_8f90.html#a88e08ed6db16d9a0e831a22164271208" title="solid_area" alt="" coords="690,1326,771,1352"/>
+<area shape="rect" id="node21" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="928,1275,989,1302"/>
+<area shape="rect" id="node23" href="$dateutils_8f90.html#a14143487767c309bad9fe0bef4365fda" title="date_add_to" alt="" coords="461,1326,555,1352"/>
+<area shape="rect" id="node24" href="$dateutils_8f90.html#a56423cc8c95e08c48faaadf0ae9a2100" title="date_abs_secs2" alt="" coords="672,1376,789,1403"/>
+<area shape="rect" id="node25" href="$dateutils_8f90.html#abd0aaee09a0949cfef32003dae34f41d" title="date_secs_ymdt" alt="" coords="899,1427,1018,1454"/>
+<area shape="rect" id="node27" href="$classed__init__history.html#a5900e2172fe023fd4ff3bb3a6d7b84d3" title="ed_init_history::fill\l_history_grid_p11" alt="" coords="445,504,571,545"/>
+<area shape="rect" id="node30" href="$classed__init__history.html#ad91d818e1cc03c91dc2768b0de2acd60" title="ed_init_history::fill\l_history_grid_p11dmean" alt="" coords="427,830,589,872"/>
+<area shape="rect" id="node31" href="$classed__init__history.html#ab5b62ee8797ed08b4586d1014045f808" title="ed_init_history::fill\l_history_grid_p11mmean" alt="" coords="425,896,591,937"/>
+<area shape="rect" id="node32" href="$classed__init__history.html#a7fa1ab74418975b6c6df8c3fa17cebce" title="ed_init_history::fill\l_history_grid_p12" alt="" coords="445,961,571,1002"/>
+<area shape="rect" id="node33" href="$classed__init__history.html#ae02bae0d5080be6b71bf76385f6db0cf" title="ed_init_history::fill\l_history_grid_m11" alt="" coords="444,1026,572,1068"/>
+<area shape="rect" id="node34" href="$classed__init__history.html#a6535a5059ccc6f3c1ab07670e01ed8da" title="ed_init_history::fill\l_history_grid_p19" alt="" coords="445,569,571,610"/>
+<area shape="rect" id="node35" href="$classed__init__history.html#a8164fb0f3fbacdc03875cb084aab89a6" title="ed_init_history::fill\l_history_grid_p191" alt="" coords="443,634,573,676"/>
+<area shape="rect" id="node36" href="$classed__init__history.html#a83ef3186068176331e4ffc6f7fd80540" title="ed_init_history::fill\l_history_grid_m12" alt="" coords="444,700,572,741"/>
+<area shape="rect" id="node37" href="$classed__init__history.html#a82b9530e154e1d35e3f12102e86cedd8" title="ed_init_history::fill\l_history_grid_p146" alt="" coords="443,765,573,806"/>
+<area shape="rect" id="node28" href="$classed__init__history.html#a192fb1510208211779299f2370902e5e" title="ed_init_history::hdf\l_getslab_i" alt="" coords="665,321,797,362"/>
+<area shape="rect" id="node29" href="$classed__init__history.html#a1b9d6cc3c6107d401da7ef1b39e5b660" title="ed_init_history::hdf\l_getslab_r" alt="" coords="665,634,797,676"/>
+</map>

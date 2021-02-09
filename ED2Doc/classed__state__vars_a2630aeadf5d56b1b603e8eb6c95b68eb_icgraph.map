@@ -1,0 +1,17 @@
+<map id="ed_state_vars::copy_sitetype_mask_qmean" name="ed_state_vars::copy_sitetype_mask_qmean">
+<area shape="rect" id="node2" href="$classed__state__vars.html#abd0a1c636db86530367e9d24e386ec22" title="Copies part of one site from one place to another (only the ones where mask is .true.) " alt="" coords="214,261,354,303"/>
+<area shape="rect" id="node3" href="$classdisturbance.html#a033dedd1b8c920bd36b6fd04911c4e94" title="disturbance::apply\l_disturbances" alt="" coords="847,25,975,67"/>
+<area shape="rect" id="node8" href="$classfuse__fiss__utils.html#ac687a950d92b23661a3d3ef73b723201" title="This subroutine will eliminate tiny or empty patches. This is intended to eliminate patches that have..." alt="" coords="403,135,571,176"/>
+<area shape="rect" id="node12" href="$classfuse__fiss__utils.html#ab3b0eeed8a63cc2f4b866ac243e25ec6" title="This subroutine will rescale the area of the patches. This is almost the same as the terminate_patche..." alt="" coords="619,193,775,235"/>
+<area shape="rect" id="node14" href="$classfuse__fiss__utils.html#ab15ffcdcb79ee2bcb69f5a9954ca14ea" title="fuse_fiss_utils::new\l_fuse_patches" alt="" coords="628,441,767,483"/>
+<area shape="rect" id="node15" href="$classfuse__fiss__utils.html#a6776a45b5a81e01186fbac86854c6741" title="This subroutine will perform patch fusion based on some similarity criteria to determine whether they..." alt="" coords="632,311,763,352"/>
+<area shape="rect" id="node16" href="$classhrzshade__utils.html#ab6a570211a39b7be09b3603653e19296" title="hrzshade_utils::split\l_hrzshade" alt="" coords="628,376,767,417"/>
+<area shape="rect" id="node4" href="$classvegetation__dynamics.html#ac0aac7ba29275bab000373bd850a36e6" title="vegetation_dynamics\l::veg_dynamics_driver" alt="" coords="1046,252,1199,293"/>
+<area shape="rect" id="node5" href="$ed__model_8_f90.html#a9804b9ca3fcb1b4e17171d786d50c32c" title="Begins, updates, and outputs results from ecosystem simulation. " alt="" coords="1249,259,1327,286"/>
+<area shape="rect" id="node6" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="1376,259,1451,286"/>
+<area shape="rect" id="node7" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="1499,259,1549,286"/>
+<area shape="rect" id="node9" href="$ed__driver_8_f90.html#acbe29092ab1909380268a871fae36f22" title="exterminate_patches\l_except" alt="" coords="1051,136,1194,177"/>
+<area shape="rect" id="node10" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="866,361,955,387"/>
+<area shape="rect" id="node11" href="$classforestry.html#a9b3256e9e2c491253767fefaa9e1f87b" title="forestry::find_lambda\l_harvest" alt="" coords="625,25,769,67"/>
+<area shape="rect" id="node13" href="$classreproduction.html#ad090bf9d44a1ad3c3a31ab425e2bfa1f" title="reproduction::reproduction\l_driver" alt="" coords="825,193,997,235"/>
+</map>

@@ -1,11 +1,6 @@
 <map id="cbrt" name="cbrt">
-<area shape="rect" id="node3" href="$namespacecanopy__air__coms.html#acedb0f66db4b79009a69e87c5fd3ed71" title="canopy_air_coms::psih" alt="" coords="119,75,273,104"/>
-<area shape="rect" id="node9" href="$namespacecanopy__air__coms.html#a64552e0380fcb36366b5eb0f624241a3" title="canopy_air_coms::dpsihdzeta" alt="" coords="99,21,293,51"/>
-<area shape="rect" id="node13" href="$namespacecanopy__struct__dynamics.html#ae5504447c798d15053109bc4f8ff9346" title="canopy_struct_dynamics\l::reduced_wind" alt="" coords="113,127,279,174"/>
-<area shape="rect" id="node5" href="$namespacecanopy__air__coms.html#a6062471b3381c283205ea8b27383a5e0" title="canopy_air_coms::zoobukhov" alt="" coords="341,75,536,104"/>
-<area shape="rect" id="node7" href="$namespacecanopy__air__coms.html#a5251266695c581c8f4058d98f6c86200" title="canopy_air_coms::zoobukhov\l_ustar" alt="" coords="341,5,536,51"/>
-<area shape="rect" id="node15" href="$namespacecanopy__struct__dynamics.html#ac7eef4d24c3e07ccb461d418e32d466e" title="canopy_struct_dynamics\l::canopy_turbulence" alt="" coords="356,127,521,174"/>
-<area shape="rect" id="node17" href="$ed__init__atm_8_f90.html#a67ae59514caf7fea8936bca72628f5ca" title="ed_init_atm" alt="" coords="585,136,673,165"/>
-<area shape="rect" id="node19" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="723,136,797,165"/>
-<area shape="rect" id="node21" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="845,136,896,165"/>
+<area shape="rect" id="node2" href="$ed__params_8f90.html#a029548f8d070ed57f9c9b1e1a0a8fc3c" title="init_can_air_params" alt="" coords="99,5,237,32"/>
+<area shape="rect" id="node3" href="$ed__params_8f90.html#af74bdb1b6959fc9b59288f80e8832f14" title="load_ed_ecosystem_params" alt="" coords="286,5,474,32"/>
+<area shape="rect" id="node4" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="523,5,597,32"/>
+<area shape="rect" id="node5" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="645,5,696,32"/>
 </map>

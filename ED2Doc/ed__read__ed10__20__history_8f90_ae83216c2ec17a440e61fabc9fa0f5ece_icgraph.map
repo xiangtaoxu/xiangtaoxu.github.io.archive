@@ -1,6 +1,6 @@
 <map id="create_ed10_ed20_fname" name="create_ed10_ed20_fname">
-<area shape="rect" id="node3" href="$namespaceed__init.html#a736b981974d69fb456a9c1b6d9976638" title="ed_init::read_site_file" alt="" coords="225,13,369,43"/>
-<area shape="rect" id="node5" href="$namespaceed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="419,5,581,51"/>
-<area shape="rect" id="node7" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="629,13,704,43"/>
-<area shape="rect" id="node9" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="752,13,803,43"/>
+<area shape="rect" id="node2" href="$classed__init.html#a736b981974d69fb456a9c1b6d9976638" title="ed_init::read_site_file" alt="" coords="225,12,370,39"/>
+<area shape="rect" id="node3" href="$classed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="419,5,581,46"/>
+<area shape="rect" id="node4" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="629,12,704,39"/>
+<area shape="rect" id="node5" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="752,12,803,39"/>
 </map>

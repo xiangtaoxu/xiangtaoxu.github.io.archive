@@ -1,0 +1,10 @@
+<map id="ed_state_vars::allocate_polygontype" name="ed_state_vars::allocate_polygontype">
+<area shape="rect" id="node2" href="$classed__init.html#a870136e2cbfd47dbd5ed21e3e21c5ecb" title="ed_init::set_site_defprops" alt="" coords="211,5,381,32"/>
+<area shape="rect" id="node6" href="$classed__init.html#a736b981974d69fb456a9c1b6d9976638" title="ed_init::read_site_file" alt="" coords="223,56,369,83"/>
+<area shape="rect" id="node7" href="$classed__init__history.html#a8369fa1f9ca2551e5c4e3ae6bb032dbc" title="ed_init_history::resume\l_from_history" alt="" coords="432,182,589,223"/>
+<area shape="rect" id="node8" href="$ed__read__ed21__history_8f90.html#ab0faf0a20947c74801841975108b59ba" title="read_ed21_history_file" alt="" coords="220,107,372,133"/>
+<area shape="rect" id="node9" href="$ed__read__ed21__history_8f90.html#a1e9d28328ec655a6bcac03ee1618759a" title="read_ed21_polyclone" alt="" coords="224,157,368,184"/>
+<area shape="rect" id="node3" href="$classed__init.html#a8181c9f2a37fc0800a7579090f3b3ed0" title="ed_init::load_ecosystem\l_state" alt="" coords="429,99,592,141"/>
+<area shape="rect" id="node4" href="$ed__driver_8_f90.html#a5706bd8bee60960fe8166de1870e47da" title="ed_driver" alt="" coords="640,148,715,175"/>
+<area shape="rect" id="node5" href="$edmain_8_f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title="main" alt="" coords="763,148,813,175"/>
+</map>

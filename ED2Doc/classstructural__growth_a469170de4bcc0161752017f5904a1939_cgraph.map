@@ -1,0 +1,45 @@
+<map id="structural_growth::dbstruct_dt" name="structural_growth::dbstruct_dt">
+<area shape="rect" id="node2" href="$classed__therm__lib.html#a62aa3e655f926d54d065649263acbc8c" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="220,5,348,46"/>
+<area shape="rect" id="node3" href="$classed__therm__lib.html#a88a38ec1cbe16c398a9f91b96afbea25" title="ed_therm_lib::update\l_veg_energy_cweh" alt="" coords="454,471,597,513"/>
+<area shape="rect" id="node8" href="$classfuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="216,70,352,111"/>
+<area shape="rect" id="node13" href="$classstable__cohorts.html#a00b7ade90014855bc382264976df8d53" title="stable_cohorts::is\l_resolvable" alt="" coords="221,1210,347,1251"/>
+<area shape="rect" id="node21" href="$classupdate__derived__utils.html#a48e3099ad317b73455cb635674e4c403" title="update_derived_utils\l::update_cohort_derived_props" alt="" coords="184,799,384,841"/>
+<area shape="rect" id="node36" href="$classupdate__derived__utils.html#a8f5a413e8bd9c1b416a6abf2abfe5da6" title="update_derived_utils\l::update_vital_rates" alt="" coords="213,985,355,1026"/>
+<area shape="rect" id="node15" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="890,701,1014,728"/>
+<area shape="rect" id="node19" href="$classplant__hydro.html#af7799ce8ba25fef66ade9730bc9f6c77" title="Convert relative water content to total water for both leaf and wood. " alt="" coords="456,1364,595,1391"/>
+<area shape="rect" id="node20" href="$classplant__hydro.html#ac96b04cb776694987ccefd7c37aab829" title="Intensive to extensive internal water converter. " alt="" coords="454,1415,597,1441"/>
+<area shape="rect" id="node37" href="$invmondays_8f90.html#ac5102abe4057964dceefd23fb743bc67" title="num_days" alt="" coords="243,1459,325,1485"/>
+<area shape="rect" id="node39" href="$classstructural__growth.html#ac374f41078648b979846d72bb20c078e" title="structural_growth::\lplant_structural_allocation" alt="" coords="667,78,840,119"/>
+<area shape="rect" id="node40" href="$classstructural__growth.html#acd0090ed3f15ad8b8f09e52ae37bbb3a" title="structural_growth::\lbdead_structural_allocation" alt="" coords="194,406,374,447"/>
+<area shape="rect" id="node43" href="$classstructural__growth.html#a6dd3c456d57f7d8963141637a24a58ad" title="structural_growth::\lcheck_bstruct_cohort" alt="" coords="452,187,599,229"/>
+<area shape="rect" id="node44" href="$classstructural__growth.html#a0490eb046aa6a8de8c11e3563d88e50e" title="structural_growth::\lcheck_bstruct_patch" alt="" coords="213,331,355,373"/>
+<area shape="rect" id="node4" href="$classtherm__lib.html#ac588ab0dc1c0c52c4c41b847be134ee9" title="therm_lib::uextcm2tl" alt="" coords="683,499,823,525"/>
+<area shape="rect" id="node5" href="$classtherm__lib.html#a2db60e1f300fadcd09ef451059aa571b" title="therm_lib::cmtl2uext" alt="" coords="683,549,823,576"/>
+<area shape="rect" id="node6" href="$classtherm__lib.html#a3ad59a4037ed8ed57532b8ea630a7df1" title="therm_lib::tl2uint" alt="" coords="694,448,813,475"/>
+<area shape="rect" id="node7" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="713,245,793,272"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="447,5,604,46"/>
+<area shape="rect" id="node11" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="455,253,595,294"/>
+<area shape="rect" id="node12" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="440,70,611,111"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="680,5,827,46"/>
+<area shape="rect" id="node14" href="$classallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="692,1339,815,1365"/>
+<area shape="rect" id="node17" href="$classallometry.html#a08a0764bc1887e71051914ed5b30c72c" title="allometry::size2bd" alt="" coords="888,296,1016,323"/>
+<area shape="rect" id="node18" href="$classplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="454,1263,597,1289"/>
+<area shape="rect" id="node16" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="1065,1060,1183,1087"/>
+<area shape="rect" id="node22" href="$classallometry.html#ab6e678cf9b820dfc053d8c150bb21372" title="allometry::bd2dbh" alt="" coords="691,397,816,424"/>
+<area shape="rect" id="node23" href="$classallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="694,803,813,829"/>
+<area shape="rect" id="node24" href="$classallometry.html#a91ab563e850c9a9486fadbb0227f6567" title="allometry::size2krdepth" alt="" coords="447,908,604,935"/>
+<area shape="rect" id="node26" href="$classallometry.html#a67787845882155e7adf0cbb05b268d7c" title="allometry::bl2dbh" alt="" coords="693,856,814,883"/>
+<area shape="rect" id="node27" href="$classallometry.html#a1f747b7e54286ecc0674e969deae51f6" title="allometry::bl2h" alt="" coords="472,807,579,833"/>
+<area shape="rect" id="node28" href="$classallometry.html#ac230dfaa6f3a6177011cc298eecb569a" title="allometry::size2bt" alt="" coords="463,959,588,985"/>
+<area shape="rect" id="node30" href="$classallometry.html#a774c3e4785f2bfe0a7fe2d5d15293137" title="allometry::size2xb" alt="" coords="689,1060,817,1087"/>
+<area shape="rect" id="node31" href="$classallometry.html#a5bd25d4c4a3c5dda8a2158e3c7c57792" title="allometry::ed_balive" alt="" coords="684,752,823,779"/>
+<area shape="rect" id="node32" href="$classallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="449,1111,602,1137"/>
+<area shape="rect" id="node33" href="$classallometry.html#ac715c0d308392f2b0eee93ab9ae210b1" title="allometry::area_indices" alt="" coords="447,1060,603,1087"/>
+<area shape="rect" id="node35" href="$classupdate__derived__utils.html#ac2a520391f9c8ebc8960794ede947cc6" title="update_derived_utils\l::update_cohort_plastic_trait" alt="" coords="432,639,619,681"/>
+<area shape="rect" id="node25" href="$classallometry.html#aa96d4524c2ac20b6604bb171bbf3559f" title="allometry::size2prd" alt="" coords="687,908,819,935"/>
+<area shape="rect" id="node29" href="$classallometry.html#a0a36cf7374fc6c412a4a3975429e4127" title="allometry::size2vol" alt="" coords="688,959,819,985"/>
+<area shape="rect" id="node34" href="$classallometry.html#aed6e96368f347aaebe3a7c16fe32289f" title="allometry::size2ca" alt="" coords="689,1161,817,1188"/>
+<area shape="rect" id="node38" href="$dateutils_8f90.html#acbfdb1c78beb593447108203011b380c" title="isleap" alt="" coords="497,1465,553,1492"/>
+<area shape="rect" id="node41" href="$classallometry.html#a7abbed82084f965c83a4a7c215c12530" title="allometry::expand_bevery" alt="" coords="440,369,611,396"/>
+<area shape="rect" id="node42" href="$classallometry.html#a789c128140a2d52c0ddc914f8352e594" title="allometry::size2be" alt="" coords="689,347,817,373"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ed_state_vars::copy_sitetype_mask" name="ed_state_vars::copy_sitetype_mask">
+<area shape="rect" id="node2" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="441,22,521,49"/>
+<area shape="rect" id="node3" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="199,109,356,151"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="207,44,347,85"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#abef71303542156f0c150c4568b4828aa" title="Copies the variables that are not fmean, dmean, mmean, mmsqu, qmean, and qmsqu. " alt="" coords="206,175,349,216"/>
+<area shape="rect" id="node7" href="$classed__state__vars.html#a6f38243f52095e9ee7da38e2b2ce81ab" title="Copies the variables that are fmean. " alt="" coords="199,240,356,281"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#ac319365c7defa57422526b06b56bd61c" title="Copies the variables that are dmean. " alt="" coords="197,305,357,347"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#a31ce6a86f04b6fb292bdf3a41dd3a66e" title="Copies the variables that are mmean. " alt="" coords="195,371,359,412"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#a2630aeadf5d56b1b603e8eb6c95b68eb" title="Copies the variables that are qmean. " alt="" coords="197,436,357,477"/>
+<area shape="rect" id="node4" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="408,109,555,151"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="fuse_fiss_utils::fuse_2_patches" name="fuse_fiss_utils::fuse_2_patches">
+<area shape="rect" id="node2" href="$classed__state__vars.html#ac3b987ebbdc7c8cd956eb2634010edb9" title="Allocates the patch&#45;level variables. " alt="" coords="212,2114,369,2155"/>
+<area shape="rect" id="node5" href="$classed__state__vars.html#a3bf78091394d79aec34dd97e18ff16db" title="Copies a continuous chunk of patches from one place to another. " alt="" coords="475,1787,615,1829"/>
+<area shape="rect" id="node9" href="$classed__state__vars.html#a29881891f67226b191026267f094beb9" title="De&#45;allocates all patch pointers. " alt="" coords="205,1678,376,1719"/>
+<area shape="rect" id="node11" href="$classsoil__coms.html#a73e12fe029c8b3eb5afe2c2c000efc19" title="soil_coms::matric_potential" alt="" coords="701,2528,883,2555"/>
+<area shape="rect" id="node12" href="$classtherm__lib.html#ac588ab0dc1c0c52c4c41b847be134ee9" title="therm_lib::uextcm2tl" alt="" coords="722,2325,862,2352"/>
+<area shape="rect" id="node13" href="$classtherm__lib.html#a6ded17767672913967afa919fef33015" title="therm_lib::uint2tl" alt="" coords="486,2376,605,2403"/>
+<area shape="rect" id="node14" href="$classtherm__lib.html#a60b714e3ae5457604df59afaf6904acd" title="therm_lib::idealdenssh" alt="" coords="469,1635,621,1661"/>
+<area shape="rect" id="node15" href="$classtherm__lib.html#a8605baa2da9252a7a0ffa8f9a458fd0b" title="therm_lib::idealdmolsh" alt="" coords="215,2544,367,2571"/>
+<area shape="rect" id="node16" href="$classtherm__lib.html#a4e2091a1a5d89a568a252369122ecb39" title="therm_lib::press2exner" alt="" coords="213,2595,368,2621"/>
+<area shape="rect" id="node17" href="$classtherm__lib.html#a547dc1767e5cae792b356d615db3ea09" title="therm_lib::extemp2theta" alt="" coords="209,2645,372,2672"/>
+<area shape="rect" id="node18" href="$classtherm__lib.html#a04fbafe4252bacbd01867388f45d8104" title="therm_lib::extheta2temp" alt="" coords="209,2696,372,2723"/>
+<area shape="rect" id="node19" href="$classtherm__lib.html#addd05382298a8487d09d7f6e2664dd62" title="therm_lib::tq2enthalpy" alt="" coords="470,2005,621,2032"/>
+<area shape="rect" id="node20" href="$classtherm__lib.html#ad10129810640ad98a16dde22a0c244b8" title="therm_lib::hq2temp" alt="" coords="224,2747,357,2773"/>
+<area shape="rect" id="node21" href="$classtherm__lib.html#adfb18489c8037340578e62f5643197f7" title="therm_lib::virtt" alt="" coords="238,2797,343,2824"/>
+<area shape="rect" id="node22" href="$classtherm__lib.html#a2523d158beee975faaed4552724aae65" title="therm_lib::thetaeiv" alt="" coords="226,1880,355,1907"/>
+<area shape="rect" id="node25" href="$classtherm__lib.html#af6ca165844a5da4f2d21a37aa3fff081" title="therm_lib::vpdefil" alt="" coords="731,2224,853,2251"/>
+<area shape="rect" id="node27" href="$classed__type__init.html#a580609d92a0bb3edd1f381c76c833ad8" title="ed_type_init::new_patch\l_sfc_props" alt="" coords="209,2427,372,2469"/>
+<area shape="rect" id="node29" href="$classupdate__derived__utils.html#a5405d4f087e58593585a72bcf6081b1c" title="update_derived_utils\l::update_patch_derived_props" alt="" coords="193,1931,389,1973"/>
+<area shape="rect" id="node33" href="$classupdate__derived__utils.html#a96a6adc29bc251b72ec7bb4a5bbfbad9" title="update_derived_utils\l::update_cohort_extensive_props" alt="" coords="438,5,653,46"/>
+<area shape="rect" id="node31" href="$classupdate__derived__utils.html#a9b732fc650e42658e5e31b19e0915610" title="update_derived_utils\l::patch_pft_size_profile" alt="" coords="467,1315,624,1357"/>
+<area shape="rect" id="node34" href="$classfuse__fiss__utils.html#aae52213c98fe3ffb3ecde24d8ffc6e03" title="This subroutine combines the mean sum of squares of two quantities (x and y). " alt="" coords="703,2275,881,2301"/>
+<area shape="rect" id="node6" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="713,1141,871,1182"/>
+<area shape="rect" id="node8" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="722,1577,862,1618"/>
+<area shape="rect" id="node10" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="707,1250,877,1291"/>
+<area shape="rect" id="node36" href="$classfuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="477,1250,613,1291"/>
+<area shape="rect" id="node37" href="$classfuse__fiss__utils.html#a331f78834118341c99058f69325c95fc" title="fuse_fiss_utils::old\l_fuse_cohorts" alt="" coords="225,1082,356,1123"/>
+<area shape="rect" id="node45" href="$classfuse__fiss__utils.html#a58e649bf27d8b87ff164e16ba0c3bccb" title="This subroutine will perform cohort fusion based on various similarity criteria to determine whether ..." alt="" coords="221,775,360,817"/>
+<area shape="rect" id="node47" href="$classfuse__fiss__utils.html#a8afe150340753f32f88a5033afb66ff1" title="This subroutine will eliminate cohorts based on their sizes. This is intended to eliminate cohorts th..." alt="" coords="207,1526,375,1567"/>
+<area shape="rect" id="node49" href="$classfuse__fiss__utils.html#acca6c05e04827c45b18ddb564c537de9" title="This subroutine will split two cohorts if its LAI has become too large. " alt="" coords="221,342,360,383"/>
+<area shape="rect" id="node50" href="$classfuse__fiss__utils.html#ace5e880797709c6be154c2ce38803f08" title="fuse_fiss_utils::check\l_bfusion_patch" alt="" coords="216,2049,365,2090"/>
+<area shape="rect" id="node3" href="$classed__state__vars.html#aa13b6faa5a0031bd5df50581ac0db0ff" title="Nullifies all patch pointers. " alt="" coords="472,2107,619,2149"/>
+<area shape="rect" id="node4" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="964,1584,1044,1611"/>
+<area shape="rect" id="node7" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="931,1141,1077,1182"/>
+<area shape="rect" id="node23" href="$classtherm__lib.html#a0b1c333335dfb4af1c56bc56a0e45440" title="therm_lib::lcl_il" alt="" coords="737,1851,847,1877"/>
+<area shape="rect" id="node24" href="$classtherm__lib.html#a59bae4be9ba9f862c7b58953f37a9be2" title="therm_lib::thetaeivs" alt="" coords="477,1853,613,1880"/>
+<area shape="rect" id="node26" href="$classtherm__lib.html#a109004866b1542dfcfa1da1e5130d3c9" title="therm_lib::esif" alt="" coords="952,2224,1056,2251"/>
+<area shape="rect" id="node28" href="$classed__therm__lib.html#aa6561183a4fc06ca1c9430914a5b6032" title="ed_therm_lib::ed_grndvap" alt="" coords="460,2528,631,2555"/>
+<area shape="rect" id="node30" href="$classallometry.html#ab6a3d3302db0096b21354babe768677b" title="allometry::ed_biomass" alt="" coords="469,1955,622,1981"/>
+<area shape="rect" id="node32" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="730,711,854,737"/>
+<area shape="rect" id="node35" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="973,2275,1035,2301"/>
+<area shape="rect" id="node38" href="$classstable__cohorts.html#a00b7ade90014855bc382264976df8d53" title="stable_cohorts::is\l_resolvable" alt="" coords="483,645,608,686"/>
+<area shape="rect" id="node39" href="$classfuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="This subroutine will merge two cohorts into 1. " alt="" coords="476,965,615,1006"/>
+<area shape="rect" id="node44" href="$classed__state__vars.html#a8d1f42b1112652da9f1e05929cdb29a1" title="Copies part of cohorts from one place to another. (only the ones where mask is .true.) " alt="" coords="475,1082,615,1123"/>
+<area shape="rect" id="node40" href="$classallometry.html#ab6e678cf9b820dfc053d8c150bb21372" title="allometry::bd2dbh" alt="" coords="729,357,855,384"/>
+<area shape="rect" id="node41" href="$classallometry.html#a67787845882155e7adf0cbb05b268d7c" title="allometry::bl2dbh" alt="" coords="943,501,1065,528"/>
+<area shape="rect" id="node42" href="$classallometry.html#a1f747b7e54286ecc0674e969deae51f6" title="allometry::bl2h" alt="" coords="739,476,845,503"/>
+<area shape="rect" id="node43" href="$classallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="945,451,1063,477"/>
+<area shape="rect" id="node46" href="$classed__therm__lib.html#a62aa3e655f926d54d065649263acbc8c" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="481,527,609,569"/>
+<area shape="rect" id="node48" href="$classtherm__lib.html#ad37c9d26367d1a2678cd1875d21f05fd" title="therm_lib::reducedpress" alt="" coords="465,1432,626,1459"/>
+</map>

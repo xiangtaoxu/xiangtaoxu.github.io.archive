@@ -1,0 +1,45 @@
+<map id="fuse_fiss_utils::new_fuse_cohorts" name="fuse_fiss_utils::new_fuse_cohorts">
+<area shape="rect" id="node2" href="$classallometry.html#a10c3f179ffa5bee4c98a338aa18067ee" title="allometry::size2bl" alt="" coords="619,1727,743,1754"/>
+<area shape="rect" id="node4" href="$classed__therm__lib.html#a62aa3e655f926d54d065649263acbc8c" title="ed_therm_lib::calc\l_veg_hcap" alt="" coords="199,1804,327,1845"/>
+<area shape="rect" id="node5" href="$classstable__cohorts.html#a00b7ade90014855bc382264976df8d53" title="stable_cohorts::is\l_resolvable" alt="" coords="200,672,325,713"/>
+<area shape="rect" id="node16" href="$classfuse__fiss__utils.html#a2fc600375d38f7ddcf60ebf5da725971" title="This subroutine will merge two cohorts into 1. " alt="" coords="193,1264,332,1305"/>
+<area shape="rect" id="node15" href="$fatal__error_8_f90.html#a2a2bff228716ab48a81c795b348d1665" title="fatal_error" alt="" coords="641,395,721,422"/>
+<area shape="rect" id="node34" href="$classed__state__vars.html#a4837fc010e19721a127c9a8b04874594" title="Allocates the cohort&#45;level variables. " alt="" coords="392,810,549,852"/>
+<area shape="rect" id="node36" href="$classed__state__vars.html#a8d1f42b1112652da9f1e05929cdb29a1" title="Copies part of cohorts from one place to another. (only the ones where mask is .true.) " alt="" coords="193,242,333,284"/>
+<area shape="rect" id="node42" href="$classed__state__vars.html#a2845fb7d7264ed3c00651e9e46a16ed8" title="De&#45;allocates all cohort pointers. " alt="" coords="385,876,556,917"/>
+<area shape="rect" id="node43" href="$classfuse__fiss__utils.html#a31e4835d2465d1400c7cbbb51976b341" title="This subroutine will sort the cohorts by size (1st = tallest, last = shortest.) " alt="" coords="195,766,331,808"/>
+<area shape="rect" id="node3" href="$classallometry.html#a31aa8db06e86ec74efb5e692417399df" title="allometry::h2dbh" alt="" coords="805,1702,923,1728"/>
+<area shape="rect" id="node6" href="$classallometry.html#aded2a9492711f07e5c157c17e9029c10" title="allometry::dbh2sf" alt="" coords="803,708,925,735"/>
+<area shape="rect" id="node7" href="$classallometry.html#a08a0764bc1887e71051914ed5b30c72c" title="allometry::size2bd" alt="" coords="407,475,535,502"/>
+<area shape="rect" id="node8" href="$classplant__hydro.html#a7cc35f0ea4e11517e3bc7eb75fd19e36" title="Convert relative water content to water potential. " alt="" coords="610,1043,753,1070"/>
+<area shape="rect" id="node9" href="$classplant__hydro.html#af7799ce8ba25fef66ade9730bc9f6c77" title="Convert relative water content to total water for both leaf and wood. " alt="" coords="612,466,751,492"/>
+<area shape="rect" id="node10" href="$classplant__hydro.html#ac96b04cb776694987ccefd7c37aab829" title="Intensive to extensive internal water converter. " alt="" coords="399,526,542,552"/>
+<area shape="rect" id="node11" href="$classed__therm__lib.html#a88a38ec1cbe16c398a9f91b96afbea25" title="ed_therm_lib::update\l_veg_energy_cweh" alt="" coords="399,642,542,684"/>
+<area shape="rect" id="node12" href="$classtherm__lib.html#ac588ab0dc1c0c52c4c41b847be134ee9" title="therm_lib::uextcm2tl" alt="" coords="611,658,751,684"/>
+<area shape="rect" id="node13" href="$classtherm__lib.html#a2db60e1f300fadcd09ef451059aa571b" title="therm_lib::cmtl2uext" alt="" coords="611,607,751,634"/>
+<area shape="rect" id="node14" href="$classtherm__lib.html#a3ad59a4037ed8ed57532b8ea630a7df1" title="therm_lib::tl2uint" alt="" coords="622,556,741,583"/>
+<area shape="rect" id="node17" href="$classtherm__lib.html#af6ca165844a5da4f2d21a37aa3fff081" title="therm_lib::vpdefil" alt="" coords="410,1347,531,1374"/>
+<area shape="rect" id="node19" href="$classtherm__lib.html#a44ab3a68e6060bf4afbfc504e3a8c633" title="therm_lib::qslif" alt="" coords="417,1398,524,1424"/>
+<area shape="rect" id="node21" href="$classallometry.html#a91ab563e850c9a9486fadbb0227f6567" title="allometry::size2krdepth" alt="" coords="392,1499,549,1526"/>
+<area shape="rect" id="node23" href="$classallometry.html#ab6e678cf9b820dfc053d8c150bb21372" title="allometry::bd2dbh" alt="" coords="408,1550,533,1576"/>
+<area shape="rect" id="node24" href="$classallometry.html#a67787845882155e7adf0cbb05b268d7c" title="allometry::bl2dbh" alt="" coords="621,1234,742,1260"/>
+<area shape="rect" id="node25" href="$classallometry.html#a1f747b7e54286ecc0674e969deae51f6" title="allometry::bl2h" alt="" coords="417,1195,524,1222"/>
+<area shape="rect" id="node26" href="$classallometry.html#a56f11dc07da4d5e7114dc37d6cc5f2cc" title="allometry::dbh2h" alt="" coords="622,1170,741,1196"/>
+<area shape="rect" id="node27" href="$classallometry.html#a774c3e4785f2bfe0a7fe2d5d15293137" title="allometry::size2xb" alt="" coords="407,1702,535,1728"/>
+<area shape="rect" id="node28" href="$classallometry.html#a5bd25d4c4a3c5dda8a2158e3c7c57792" title="allometry::ed_balive" alt="" coords="401,1600,540,1627"/>
+<area shape="rect" id="node29" href="$classplant__hydro.html#aeec57a396eb838de8a254337d9b9851d" title="Extensive to extensive internal water converter. " alt="" coords="399,1651,542,1678"/>
+<area shape="rect" id="node30" href="$classplant__hydro.html#a09860c21fcc80cc71cd5d5c11ff2ddd2" title="Convert total water to relative water content for both leaf and wood. " alt="" coords="612,992,751,1019"/>
+<area shape="rect" id="node31" href="$classplant__hydro.html#a1fb5bda697f01054edcbfc46d216dbfc" title="Convert total water to water potential for both leaf and wood. " alt="" coords="403,1043,538,1070"/>
+<area shape="rect" id="node32" href="$classfuse__fiss__utils.html#aae52213c98fe3ffb3ecde24d8ffc6e03" title="This subroutine combines the mean sum of squares of two quantities (x and y). " alt="" coords="381,1296,560,1323"/>
+<area shape="rect" id="node18" href="$classtherm__lib.html#a109004866b1542dfcfa1da1e5130d3c9" title="therm_lib::esif" alt="" coords="629,1347,733,1374"/>
+<area shape="rect" id="node20" href="$classtherm__lib.html#a82ae02323247d6435153002a309552fb" title="therm_lib::eslf" alt="" coords="629,1398,733,1424"/>
+<area shape="rect" id="node22" href="$classallometry.html#aa96d4524c2ac20b6604bb171bbf3559f" title="allometry::size2prd" alt="" coords="615,1499,747,1526"/>
+<area shape="rect" id="node33" href="$numutils_8f90.html#a97ff3973394dba1b9534e055e358de97" title="sngloff" alt="" coords="651,1296,712,1323"/>
+<area shape="rect" id="node35" href="$classed__state__vars.html#af1a07724c13a8dceb6ba2d3dab21b899" title="Nullifies all cohort pointers. " alt="" coords="608,810,755,852"/>
+<area shape="rect" id="node37" href="$classed__state__vars.html#a33fc63e73e6503b7c1dd90af0d954c8f" title="Copies the cohort&#45;level variables that are not fmean, dmean, mmean, mmsqu, qmean, and qmsqu..." alt="" coords="394,242,547,284"/>
+<area shape="rect" id="node38" href="$classed__state__vars.html#a2db3f30821599bfbbc83fb91bd0b00b5" title="Copies the cohort&#45;level variables that are fmean. " alt="" coords="387,308,555,349"/>
+<area shape="rect" id="node39" href="$classed__state__vars.html#a411d90a5fd9b3a25fdb7d149637db7e2" title="Copies the cohort&#45;level variables that are dmean. " alt="" coords="385,46,556,88"/>
+<area shape="rect" id="node40" href="$classed__state__vars.html#a2be9e087d841d6e931fa8fb6648a2a56" title="Copies the cohort&#45;level variables that are mmean or mmsqu. " alt="" coords="383,112,558,153"/>
+<area shape="rect" id="node41" href="$classed__state__vars.html#aa8cec33a472499c3e80bc1a281c9eba0" title="Copies the cohort&#45;level variables that are qmean or qmsqu. " alt="" coords="385,177,556,218"/>
+<area shape="rect" id="node44" href="$classed__state__vars.html#accd794e0e8d71ba375c3669097ae5c8d" title="Copies a continuous chunk of cohorts from one place to another. " alt="" coords="401,577,541,618"/>
+</map>
